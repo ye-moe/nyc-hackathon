@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Case View · Homeward NYC</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Jost:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+  /* Grayscale, matching the shell design. Status = label + shape, never color alone. */
+  :root{--bg:#111316;--bg2:#16191d;--bg3:#1c2025;--paper:#EEEDEA;--ink:#141619;--text:#EDEDED;--muted:#9A9DA4;
+        --line:rgba(255,255,255,.08);--line2:rgba(255,255,255,.16);--dash:rgba(255,255,255,.28);
+        --font:"Jost","Century Gothic",-apple-system,"Segoe UI",sans-serif}
+  *,*::before,*::after{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--text);font:400 15.5px/1.55 var(--font)}
+  a{color:inherit}
+  :focus-visible{outline:2px solid var(--paper);outline-offset:3px;border-radius:6px}
+  .wrap{max-width:1180px;margin:0 auto;padding:0 20px}
+  header{border-bottom:1px solid var(--line)}
+  header .wrap{display:flex;align-items:center;gap:20px;height:68px}
+  .logo{font-weight:600;font-size:20px;text-decoration:none;display:flex;gap:9px;align-items:center}
+  .logo svg{width:22px;height:22px}
+  nav{margin-left:auto;display:flex;gap:22px;flex-wrap:wrap}
+  nav a{text-decoration:none;font-size:11px;letter-spacing:.2em;text-transform:uppercase;color:var(--muted)}
+  nav a:hover{color:var(--text)}
+  h1{font-weight:600;font-size:clamp(30px,4.4vw,48px);line-height:1.05;letter-spacing:-.02em;margin:36px 0 8px}
+  .lede{color:var(--muted);max-width:62ch;margin:0 0 24px;font-weight:300}
+  .eyebrow{font-size:11px;letter-spacing:.2em;text-transform:uppercase;color:var(--muted)}
+
+  form.case{background:var(--bg2);border:1px solid var(--line);border-radius:12px;padding:18px;display:grid;
+            grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;align-items:end}
+  label{display:flex;flex-direction:column;gap:6px;font-size:12.5px;color:var(--muted)}
+  input,select{font:inherit;font-size:15px;color:var(--text);background:var(--bg);border:1px solid var(--line2);border-radius:9px;padding:10px;min-height:44px;width:100%}
+  label.check{flex-direction:row;align-items:center;gap:8px;color:var(--text);font-size:14px;min-height:44px}
+  label.check input{width:18px;height:18px;min-height:0;accent-color:#EEEDEA}
+  .btn{font:600 12.5px/1 var(--font);letter-spacing:.06em;text-transform:uppercase;border-radius:10px;min-height:44px;padding:0 18px;
+       cursor:pointer;border:1px solid transparent;display:inline-flex;align-items:center;justify-content:center;gap:6px;text-decoration:none}
+  .btn-light{background:var(--paper);color:var(--ink)}
+  .btn-dark{background:var(--bg3);color:var(--text);border-color:var(--line2)}
+  .btn-ghost{background:transparent;color:var(--text);border:1px dashed var(--dash)}
+  .btn[disabled]{opacity:.45;cursor:not-allowed}
+
+  .flow{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin:26px 0 60px}
+  .step{background:var(--bg2);border:1px solid var(--line);border-radius:12px;padding:18px;display:flex;flex-direction:column;gap:12px;min-width:0}
+  .step .num{font-size:11px;letter-spacing:.2em;text-transform:uppercase;color:var(--muted)}
+  .step h2{margin:0;font-size:24px;font-weight:600;letter-spacing:-.01em}
+  .step .sub{margin:-6px 0 0;font-size:13.5px;color:var(--muted);font-weight:300}
+  .headline{border:1px dashed var(--dash);border-radius:10px;padding:10px 12px;font-size:14.5px}
+  ul.items{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:8px}
+  ul.items li{border:1px solid var(--line);border-radius:9px;padding:10px 12px;font-size:14px}
+  ul.items b{display:block;font-weight:600}
+  .m{color:var(--muted);font-size:13px}
+  .chips{display:flex;gap:6px;flex-wrap:wrap}
+  .chip{display:inline-flex;align-items:center;gap:6px;border:1px solid var(--line2);border-radius:999px;padding:3px 10px;font-size:12px}
+  .mk{width:9px;height:9px;border-radius:50%;display:inline-block}
+  .mk-solid{background:var(--paper)} .mk-ring{border:2px solid var(--paper)} .mk-square{background:var(--paper);border-radius:2px}
+  .actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:auto}
+  .empty{color:var(--muted);font-size:14px;border:1px dashed var(--line2);border-radius:10px;padding:14px}
+  .arrow{display:none}
+  .status{font-size:13px;color:var(--muted);min-height:18px}
+  .step .body{display:flex;flex-direction:column;gap:10px}
+  @media (max-width:960px){.flow{grid-template-columns:1fr}}
+</style>
+<link rel="stylesheet" href="/shared/app.css">
+<link rel="stylesheet" href="/shared/theme.css">
+<script src="/shared/app.js"></script>
+</head>
+<body>
+<div class="wrap" style="padding-top:28px"><script>document.write(VDD.nav("Case view"))</script></div>
+
+<main class="wrap">
+  <span class="eyebrow">Case view</span>
+  <h1>One client, three steps</h1>
+  <p class="lede">Enter the household once. Homeward finds where they can sleep tonight, the housing they qualify for next, and the listings to avoid and report, each ending in something ready to hand off. Nothing you enter is saved.</p>
+
+  <form class="case" id="case">
+    <label>Household
+      <select name="household"><option value="single">One adult</option><option value="adult_family">Adults, no kids under 18</option><option value="family_with_children">Family with kids</option><option value="youth_alone">Young person alone</option></select></label>
+    <label>People in household<input name="size" type="number" min="1" max="12" value="1" inputmode="numeric"></label>
+    <label>Age<input name="age" type="number" min="0" max="120" value="34" inputmode="numeric"></label>
+    <label>Gender
+      <select name="gender"><option value="unspecified">Prefer not to say</option><option value="woman" selected>Woman</option><option value="man">Man</option><option value="nonbinary">Nonbinary / other</option></select></label>
+    <label>Yearly income ($)<input name="income" type="number" min="0" step="1000" value="24000" inputmode="numeric"></label>
+    <label>Borough
+      <select name="borough"><option value="">Any</option><option>Manhattan</option><option>Brooklyn</option><option>Bronx</option><option>Queens</option><option>Staten Island</option></select></label>
+    <label>Client language
+      <select name="lang"><option value="">English</option><option value="es">Español</option><option value="zh">中文</option><option value="ru">Русский</option><option value="bn">বাংলা</option><option value="ht">Kreyòl</option></select></label>
+    <label class="check"><input type="checkbox" name="voucher" checked> Has a CityFHEPS voucher</label>
+    <label class="check"><input type="checkbox" name="dv"> Fleeing domestic violence</label>
+    <button class="btn btn-light" type="submit">Run case</button>
+  </form>
+  <p class="status" id="status" aria-live="polite"></p>
+
+  <section class="flow" aria-live="polite">
+    <article class="step" id="s1">
+      <span class="num">01 · Tonight · Shelter Match</span><h2>Where to sleep</h2>
+      <p class="sub">Eligible shelters and the intake door for this household.</p>
+      <div class="body"><div class="empty">Run the case to see matches.</div></div>
+      <div class="actions"><button class="btn btn-light" id="packetBtn" disabled>Intake Ready Packet</button><button class="btn btn-ghost" id="packetSms" disabled>Copy text</button></div>
+    </article>
+    <article class="step" id="s2">
+      <span class="num">02 · Next · Open Doors</span><h2>Where to live</h2>
+      <p class="sub">Open lotteries and voucher-friendly listings they qualify for.</p>
+      <div class="body"><div class="empty">Run the case to see housing.</div></div>
+      <div class="actions"><button class="btn btn-light" id="planBtn" disabled>Housing Plan</button><button class="btn btn-ghost" id="icsBtn" disabled>Deadlines (.ics)</button></div>
+    </article>
+    <article class="step" id="s3">
+      <span class="num">03 · Protect · Voucher Guard</span><h2>What to report</h2>
+      <p class="sub">Listings that illegally refuse vouchers, found by the scraper.</p>
+      <div class="body"><div class="empty">Run the case to see flagged listings.</div></div>
+      <div class="actions"><button class="btn btn-light" id="complaintBtn" disabled>Complaint draft</button><a class="btn btn-ghost" href="/voucher-guard/">Check a listing</a></div>
+    </article>
+  </section>
+</main>
+
+<script>
+const API = location.protocol.startsWith('http') ? location.origin : 'http://localhost:8000';
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'})[c]);
+const usd = n => n == null ? '' : '$' + Math.round(n).toLocaleString('en-US');
+const post = (path, body) => fetch(API + path, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(body) })
+  .then(r => { if (!r.ok) throw new Error(path + ' ' + r.status); return r; });
+const openHtml = html => window.open(URL.createObjectURL(new Blob([html], { type: 'text/html' })), '_blank');
+let c = null, flagged = [];
+
+// One form -> the inputs each feature needs.
+function readCase(){
+  const f = new FormData($('case'));
+  const n = k => f.get(k) === '' ? null : Number(f.get(k));
+  const profile = { household: f.get('household'), age: n('age'), gender: f.get('gender'), fleeing_violence: f.get('dv') === 'on' };
+  if (f.get('borough')) profile.borough = f.get('borough');
+  const plan = { household_size: n('size'), income: n('income'), has_voucher: f.get('voucher') === 'on' };
+  if (f.get('borough')) plan.borough = f.get('borough');
+  return { profile, plan, lang: f.get('lang') || null };
+}
+
+function renderShelters(m){
+  const top = m.shelters.slice(0, 3);
+  $('s1').querySelector('.body').innerHTML = `
+    <div class="headline">${esc(m.how_to_get_in)}</div>
+    <div class="chips"><span class="chip">${m.total} eligible</span><span class="chip">${m.not_eligible.length} ruled out</span></div>
+    <ul class="items">${top.map(s => `<li><b>${esc(s.name)}</b><span class="m">${esc(s.address)}</span><br>
+      <span class="chip"><i class="mk ${s.walk_in ? 'mk-ring' : 'mk-solid'}"></i>${s.walk_in ? 'Walk-in / call' : 'Assigned after intake'}</span></li>`).join('')
+      || '<li class="m">No listed shelter fits. Use the intake step above.</li>'}</ul>`;
+}
+
+function renderPlan(p){
+  $('s2').querySelector('.body').innerHTML = `
+    <div class="headline">${esc(p.headline)}</div>
+    <ul class="items">${p.lotteries.slice(0, 3).map(l => `<li><b>${esc(l.title)}</b><span class="m">${esc(l.borough || '')} · apply by ${esc(l.deadline)} (${l.days_left} days)</span><br>
+      <span class="chip"><i class="mk mk-square"></i>${l.units.length} unit type${l.units.length === 1 ? '' : 's'} fit${l.voucher_covers_some ? ' · voucher covers' : ''}</span></li>`).join('')}
+      ${p.listings.slice(0, 2).map(s => `<li><b>${esc(s.title)}</b><span class="m">${usd(s.rent)}/mo · letter ready</span><br>
+      <span class="chip"><i class="mk mk-solid"></i>Voucher-friendly listing</span></li>`).join('')}
+      ${!p.lotteries.length && !p.listings.length ? '<li class="m">Nothing fits this household right now.</li>' : ''}</ul>`;
+}
+
+function renderGuard(g){
+  flagged = g.items;
+  $('s3').querySelector('.body').innerHTML = `
+    <div class="headline">${g.counts.violation} of ${g.total_scanned} scanned listings refuse vouchers or screen them out${g.counts.needs_review ? `; ${g.counts.needs_review} more need a closer look` : ''}.</div>
+    <ul class="items">${g.items.slice(0, 3).map(x => `<li><b>“${esc(x.flags[0] ? x.flags[0].clause : x.text.slice(0, 50))}”</b>
+      <span class="m">${esc([x.rent ? usd(x.rent) + '/mo' : '', x.borough, x.source].filter(Boolean).join(' · '))}</span><br>
+      <span class="chip"><i class="mk ${x.verdict === 'violation' ? 'mk-solid' : 'mk-ring'}"></i>${x.verdict === 'violation' ? 'Discriminatory' : 'Questionable'}</span></li>`).join('')
+      || '<li class="m">No flagged listings yet. They appear once the scraper runs.</li>'}</ul>`;
+}
+
+$('case').addEventListener('submit', async e => {
+  e.preventDefault();
+  c = readCase();
+  $('status').textContent = 'Running all three…';
+  document.querySelectorAll('.actions button').forEach(b => b.disabled = true);
+  // The three features run side by side on the same household.
+  const [m, p, g] = await Promise.allSettled([
+    post('/shelters/match', c.profile).then(r => r.json()),
+    post('/vacancies/plan', c.plan).then(r => r.json()),
+    fetch(API + '/guard/listings').then(r => r.json()),
+  ]);
+  if (m.status === 'fulfilled') { renderShelters(m.value); $('packetBtn').disabled = $('packetSms').disabled = false; }
+  if (p.status === 'fulfilled') { renderPlan(p.value); $('planBtn').disabled = $('icsBtn').disabled = false; }
+  if (g.status === 'fulfilled') { renderGuard(g.value); $('complaintBtn').disabled = !flagged.some(x => x.verdict === 'violation'); }
+  const failed = [m, p, g].filter(x => x.status === 'rejected').length;
+  $('status').textContent = failed ? `${failed} step${failed > 1 ? 's' : ''} couldn't load. Is the API running?` : 'Done. Each step ends in something ready to hand off.';
+});
+
+// ---- deliverables ----
+$('packetBtn').onclick = async () => openHtml((await (await post('/shelters/intake-packet', { ...c.profile, client_language: c.lang })).json()).html);
+$('packetSms').onclick = async () => {
+  const k = await (await post('/shelters/intake-packet', c.profile)).json();
+  await navigator.clipboard.writeText(k.text); $('status').textContent = 'Intake text copied.';
+};
+$('planBtn').onclick = async () => openHtml((await (await post('/vacancies/plan', { ...c.plan, client_language: c.lang })).json()).html);
+$('icsBtn').onclick = async () => {
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(await (await post('/vacancies/plan.ics', c.plan)).blob()); a.download = 'housing-deadlines.ics'; a.click();
+};
+$('complaintBtn').onclick = async () => {
+  const x = flagged.find(v => v.verdict === 'violation');
+  const d = await (await fetch(API + '/guard/listings/' + encodeURIComponent(x.id))).json();
+  const draft = await (await post('/complaint', { result: d.result, listing: { url: d.url, source: d.source, seen_on: d.discovered_at },
+                                                  reporter: { role: 'caseworker' }, tenant_language: c.lang })).json();
+  openHtml(await (await post('/complaint/html', draft)).text());
+};
+</script>
+</body>
+</html>

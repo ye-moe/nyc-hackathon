@@ -1,0 +1,25 @@
+{"id": "h000", "text": "Gorgeous 1 bed in Bushwick!! Sorry, can't accept vouchers at this time.", "rent": 2300, "bedrooms": 1, "label": 1, "category": "explicit_refusal", "note": "held out — do not tune on"}
+{"id": "h001", "text": "2BR Bronx $2,450 — landlord prefers tenants without government programs.", "rent": 2450, "bedrooms": 2, "label": 1, "category": "coded_language", "note": "held out — do not tune on"}
+{"id": "h002", "text": "Brand new 1BR. Applicant must earn 40 times the monthly rent. No exceptions.", "rent": 2350, "bedrooms": 1, "label": 1, "category": "income_requirement", "note": "held out — do not tune on"}
+{"id": "h003", "text": "Studio avail now. Owner only rents to tenants with jobs.", "rent": 2000, "bedrooms": 0, "label": 1, "category": "employment_requirement", "note": "held out — do not tune on"}
+{"id": "h004", "text": "3 bed duplex Staten Island. Programs need not apply.", "rent": 3200, "bedrooms": 3, "label": 1, "category": "explicit_refusal", "note": "held out — do not tune on"}
+{"id": "h005", "text": "No DSS. No HRA. Cash or check only for rent.", "rent": 2200, "bedrooms": 1, "label": 1, "category": "explicit_refusal", "note": "held out — do not tune on"}
+{"id": "h006", "text": "Rent paid by tenant only (no subsidies).", "rent": 2300, "bedrooms": 1, "label": 1, "category": "explicit_refusal", "note": "held out — do not tune on"}
+{"id": "h007", "text": "1BR, landlord is not currently taking any programs.", "rent": 2250, "bedrooms": 1, "label": 1, "category": "explicit_refusal", "note": "held out — do not tune on"}
+{"id": "h008", "text": "Habitación en Jackson Heights, $1,000. No se aceptan vouchers.", "rent": 1000, "bedrooms": 0, "label": 1, "category": "explicit_refusal", "note": "held out — do not tune on"}
+{"id": "h009", "text": "布碌崙八大道一房，不收八号。", "rent": 2100, "bedrooms": 1, "label": 1, "category": "explicit_refusal", "note": "held out — do not tune on"}
+{"id": "h010", "text": "Must show proof of employment income (min. $90k/yr).", "rent": 2300, "bedrooms": 1, "label": 1, "category": "income_requirement", "note": "held out — do not tune on"}
+{"id": "h011", "text": "Owner will only consider employed applicants.", "rent": 2400, "bedrooms": 2, "label": 1, "category": "employment_requirement", "note": "held out — do not tune on"}
+{"id": "h012", "text": "Great deal 2BR. Tenant pays full rent — no assistance programs.", "rent": 2500, "bedrooms": 2, "label": 1, "category": "explicit_refusal", "note": "held out — do not tune on"}
+{"id": "h013", "text": "1BR Harlem, $2,200. Voucher holders welcome to apply!", "rent": 2200, "bedrooms": 1, "label": 0, "category": "none", "note": "held out — do not tune on"}
+{"id": "h014", "text": "No fee! No deposit! 2BR in Flatbush.", "rent": 2500, "bedrooms": 2, "label": 0, "category": "none", "note": "held out — do not tune on"}
+{"id": "h015", "text": "We gladly accept CityFHEPS and all other programs.", "rent": 2400, "bedrooms": 2, "label": 0, "category": "none", "note": "held out — do not tune on"}
+{"id": "h016", "text": "Income 40x rent or guarantor. Rental assistance counts toward income.", "rent": 2300, "bedrooms": 1, "label": 0, "category": "income_requirement", "note": "held out — do not tune on"}
+{"id": "h017", "text": "No roommates, no sublets. Lease must be in name of occupant.", "rent": 2200, "bedrooms": 1, "label": 0, "category": "none", "note": "held out — do not tune on"}
+{"id": "h018", "text": "Affordable unit via NYC Housing Connect. Income must be between 50-80% AMI.", "rent": 1700, "bedrooms": 1, "label": 0, "category": "income_requirement", "note": "held out — do not tune on"}
+{"id": "h019", "text": "Credit check required. $20 application fee.", "rent": 2300, "bedrooms": 1, "label": 0, "category": "none", "note": "held out — do not tune on"}
+{"id": "h020", "text": "Se aceptan todos los programas. Llame a Rosa.", "rent": 2200, "bedrooms": 1, "label": 0, "category": "none", "note": "held out — do not tune on"}
+{"id": "h021", "text": "No section of the building is under renovation; quiet block.", "rent": 2100, "bedrooms": 1, "label": 0, "category": "none", "note": "held out — do not tune on"}
+{"id": "h022", "text": "Penthouse 3BR in Hudson Yards, $14,000/mo, 40x rent income required.", "rent": 14000, "bedrooms": 3, "label": 0, "category": "income_requirement", "note": "held out — do not tune on"}
+{"id": "h023", "text": "Program participants: please have your caseworker email us the packet.", "rent": 2300, "bedrooms": 1, "label": 0, "category": "none", "note": "held out — do not tune on"}
+{"id": "h024", "text": "Section 8 tenants welcome, HASA welcome, FHEPS welcome.", "rent": 2400, "bedrooms": 2, "label": 0, "category": "none", "note": "held out — do not tune on"}

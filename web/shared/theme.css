@@ -1,0 +1,75 @@
+/* Homeward grayscale theme, shared by every page. Loaded last, so it re-maps each page's own
+   color variables to one palette and sets common type, buttons, inputs, and cards.
+   Status is never color-only: pages pair every state with a label, and map pins use shapes. */
+@import url("https://fonts.googleapis.com/css2?family=Jost:wght@300;400;500;600&display=swap");
+
+/* html:root:root outranks the pages' own :root and :root:not([data-theme]) blocks, in light and dark mode. */
+html:root:root{
+  --hw-bg:#111316; --hw-bg2:#16191d; --hw-bg3:#1c2025; --hw-paper:#EEEDEA; --hw-on-paper:#141619;
+  --hw-text:#EDEDED; --hw-muted:#9A9DA4; --hw-line:rgba(255,255,255,.09); --hw-line2:rgba(255,255,255,.16); --hw-dash:rgba(255,255,255,.28);
+  --hw-font:"Jost","Century Gothic","Futura",-apple-system,"Segoe UI",sans-serif;
+
+  /* page variables -> grayscale */
+  --ink:var(--hw-bg); --ink-2:var(--hw-bg2); --bg:var(--hw-bg); --bg2:var(--hw-bg2); --bg3:var(--hw-bg3);
+  --text:var(--hw-text); --text-dim:var(--hw-muted); --muted:var(--hw-muted); --border:var(--hw-line2);
+  --line:var(--hw-line); --line2:var(--hw-line2); --dash:var(--hw-dash); --paper:var(--hw-paper); --font:var(--hw-font);
+  --accent:var(--hw-paper); --chip:#20242a; --mark:rgba(238,237,234,.2);
+  --g:var(--hw-paper); --b:#C9CBD0; --s:#9A9DA4;                               /* home feature accents */
+  --bad:#F2F1EE; --bad-bg:#23262b; --warn:#C3C6CB; --warn-bg:#1b1e22; --ok:#9A9DA4;   /* voucher guard */
+  --flag:var(--hw-paper); --flag-bg:#23262b; --safe:#9A9DA4; --safe-bg:#1b1e22;      /* scanner */
+  --paper-line:#dcdad4;
+  --go:#D8D9D6; --go-bg:#181b1f; --lot:#F2F1EE; --lot-bg:#1d2025;                     /* open doors / shelters */
+  --urgent:#F2F1EE; --urgent-bg:#26292e;
+  color-scheme:dark;
+}
+@media (prefers-color-scheme: light){ html:root:root{ --ink:#111316; --ink-2:#16191d; --text:#EDEDED; --text-dim:#9A9DA4; --border:rgba(255,255,255,.16);
+  --go-bg:#181b1f; --lot-bg:#1d2025; --urgent-bg:#26292e; --bad-bg:#23262b; --warn-bg:#1b1e22; --chip:#20242a; --mark:rgba(238,237,234,.2) } }
+
+html body{background:var(--hw-bg) url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='160' height='160'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 .05 0'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>");
+  color:var(--hw-text);font-family:var(--hw-font);-webkit-font-smoothing:antialiased}
+/* One typeface everywhere (pages set their own; this wins). */
+html body, html body *:not(code):not(pre):not(kbd){font-family:var(--hw-font) !important}
+html body :is(h1,h2,h3,h4){letter-spacing:-.01em}
+html body h1{font-weight:600;letter-spacing:-.02em}
+html body :is(.eyebrow,.num){letter-spacing:.2em;text-transform:uppercase}
+html body :focus-visible{outline:2px solid var(--hw-paper);outline-offset:3px}
+
+/* buttons: paper primary, dark secondary, dashed ghost (matches the shell) */
+html body :is(button,.btn,a.primary,a.btn){font-family:var(--hw-font);font-weight:600;letter-spacing:.05em;text-transform:uppercase;font-size:12.5px;border-radius:10px}
+html body :is(button.primary,a.primary,.btn:not(.ghost):not(.btn-dark):not(.btn-ghost),#shelter-form-submit,form button[type=submit],.packet button:not(.ghost),.iw button){
+  background:var(--hw-paper);color:var(--hw-on-paper);border-color:var(--hw-paper)}
+html body :is(button.ghost,.btn.ghost,.btn-ghost){background:transparent;color:var(--hw-text);border:1px dashed var(--hw-dash)}
+html body :is(button.btn-dark,.btn-dark,#retryBtn,#savePhotoBtn,#reviewBtn,#copyBtn,#captureBtn){background:var(--hw-bg3);color:var(--hw-text);border:1px solid var(--hw-line2)}
+html body .iw :is(button){background:var(--hw-on-paper);color:var(--hw-paper)}
+
+/* inputs */
+html body :is(input,select,textarea){font-family:var(--hw-font);background:var(--hw-bg);color:var(--hw-text);border-color:var(--hw-line2);border-radius:9px}
+html body :is(input[type=checkbox],input[type=radio]){accent-color:#EEEDEA}
+
+/* cards, dropdowns, chips */
+html body :is(.card,.panel){background:var(--hw-bg2);border-color:var(--hw-line);border-radius:12px}
+html body details:is(.item,.opt,.shelter)[open]{border-color:var(--hw-dash)}
+html body :is(.chip,.tag){border-radius:999px}
+html body mark{background:rgba(238,237,234,.18);color:var(--hw-text);border-bottom:1px solid var(--hw-paper)}
+html body .extracted mark{background:#d9d7d1;color:#141619}
+html body :is(.banner,.first,.headline){border:1px dashed var(--hw-dash);border-left-width:1px}
+html body a{color:inherit}
+
+/* nav (from VDD.nav) */
+html body .nav{background:rgba(17,19,22,.86);backdrop-filter:blur(10px);border-bottom:1px solid var(--hw-line)}
+html body .nav a{font-family:var(--hw-font);font-size:11px;font-weight:500;letter-spacing:.2em;text-transform:uppercase;color:var(--hw-muted);background:none;border:0}
+html body .nav a:hover{color:var(--hw-text);background:none}
+html body .nav a[aria-current="page"]{color:var(--hw-text);background:none;border:0;border-bottom:1px solid var(--hw-text);border-radius:0}
+html body .nav .home{font-size:20px;letter-spacing:-.01em;text-transform:none;font-weight:600;color:var(--hw-text);gap:9px}
+html body .nav .home svg{width:22px;height:22px}
+
+
+/* tabs */
+html body .tabs button{text-transform:uppercase;letter-spacing:.12em;font-size:12px;border-radius:0}
+html body .tabs button[aria-selected="true"]{background:var(--hw-paper);color:var(--hw-on-paper)}
+
+/* legend markers (shape, not color) */
+html body .legend i{background:transparent;border:0}
+html body .legend i.pin-solid{background:var(--hw-paper)}
+html body .legend i.pin-ring{background:var(--hw-bg);border:2px solid var(--hw-paper)}
+html body .legend i.pin-muted{background:#6D7178}

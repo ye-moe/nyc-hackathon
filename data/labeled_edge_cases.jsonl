@@ -1,0 +1,59 @@
+{"id": "e000", "text": "Sunny 1BR in Bed-Stuy, $2,300/mo. No programs. No pets.", "rent": 2300, "bedrooms": 1, "label": 1, "category": "explicit_refusal", "note": "classic"}
+{"id": "e001", "text": "2 bed 1 bath Flatbush. Heat & hot water included. NO VOUCHERS", "rent": 2600, "bedrooms": 2, "label": 1, "category": "explicit_refusal", "note": "caps"}
+{"id": "e002", "text": "Renovated studio, laundry in building. Landlord does not accept Section 8 or CityFHEPS.", "rent": 2100, "bedrooms": 0, "label": 1, "category": "explicit_refusal", "note": ""}
+{"id": "e003", "text": "Great 3BR near the 4/5/6. Programs not accepted.", "rent": 3300, "bedrooms": 3, "label": 1, "category": "explicit_refusal", "note": ""}
+{"id": "e004", "text": "Beautiful 2BR. We don't take HRA or any government assistance.", "rent": 2700, "bedrooms": 2, "label": 1, "category": "explicit_refusal", "note": ""}
+{"id": "e005", "text": "1 bedroom apt Jamaica Queens. no section 8 no cityfheps. serious inquiries only", "rent": 2200, "bedrooms": 1, "label": 1, "category": "explicit_refusal", "note": "lowercase"}
+{"id": "e006", "text": "Studio in Harlem, $1,950. Private pay only.", "rent": 1950, "bedrooms": 0, "label": 1, "category": "explicit_refusal", "note": ""}
+{"id": "e007", "text": "Large 2 bed, private backyard. No sec 8. Good credit a must.", "rent": 2650, "bedrooms": 2, "label": 1, "category": "explicit_refusal", "note": "abbrev"}
+{"id": "e008", "text": "Newly renovated 1BR. Owner won't work with vouchers.", "rent": 2350, "bedrooms": 1, "label": 1, "category": "explicit_refusal", "note": ""}
+{"id": "e009", "text": "Cozy 2BR in the Bronx, $2,400. No HASA, no LINC, no programs of any kind.", "rent": 2400, "bedrooms": 2, "label": 1, "category": "explicit_refusal", "note": ""}
+{"id": "e010", "text": "2BR in Sunset Park. Section 8 only, no other programs.", "rent": 2600, "bedrooms": 2, "label": 1, "category": "program_specific", "note": "partial acceptance still unlawful"}
+{"id": "e011", "text": "Section 8 welcome! Sorry, no CityFHEPS.", "rent": 2500, "bedrooms": 2, "label": 1, "category": "program_specific", "note": "suppressor + refusal: refusal must win"}
+{"id": "e012", "text": "We accept HCV vouchers. No FHEPS.", "rent": 2300, "bedrooms": 1, "label": 1, "category": "program_specific", "note": "suppressor + refusal"}
+{"id": "e013", "text": "1BR Crown Heights $2,200/mo. Must earn 40x the rent. Good credit.", "rent": 2200, "bedrooms": 1, "label": 1, "category": "income_requirement", "note": "40x2200=88k > ceiling"}
+{"id": "e014", "text": "Tenant must make 45x monthly rent annually. Apply today.", "rent": 2450, "bedrooms": 1, "label": 1, "category": "income_requirement", "note": "rent from field"}
+{"id": "e015", "text": "2 bedroom, $2,700. Minimum annual income of $110,000 required.", "rent": 2700, "bedrooms": 2, "label": 1, "category": "income_requirement", "note": "dollar amount"}
+{"id": "e016", "text": "Studio $2,000/month. Applicants need 3x rent in monthly income.", "rent": 2000, "bedrooms": 0, "label": 0, "category": "income_requirement", "note": "3x monthly = 72k, just under ceiling -> ambiguous, not flag-worthy alone"}
+{"id": "e017", "text": "3BR Canarsie. Guarantor or 40x rent income required. Vouchers accepted, income requirement applies to tenant portion only.", "rent": 3200, "bedrooms": 3, "label": 0, "category": "income_requirement", "note": "carve-out = lawful"}
+{"id": "e018", "text": "Luxury 2BR in Tribeca, $9,500/mo, 40x rent income required, doorman, gym.", "rent": 9500, "bedrooms": 2, "label": 0, "category": "income_requirement", "note": "rent far above voucher limit; not flagged as SOI (voucher couldn't cover) -> label lawful for our purposes"}
+{"id": "e019", "text": "Housing Connect lottery: 60% AMI units, household income must be between $45,000 and $78,000.", "rent": 1650, "bedrooms": 1, "label": 0, "category": "income_requirement", "note": "gov-set band"}
+{"id": "e020", "text": "Mitchell-Lama co-op rental, income limits apply per HPD guidelines. Must earn 2x rent.", "rent": 1400, "bedrooms": 1, "label": 0, "category": "income_requirement", "note": "gov program"}
+{"id": "e021", "text": "1BR, $2,300. Income 40x rent OR qualified guarantor OR rental assistance. All programs welcome.", "rent": 2300, "bedrooms": 1, "label": 0, "category": "income_requirement", "note": "alternatives + welcome"}
+{"id": "e022", "text": "Quiet building, working professionals only. 1BR $2,250.", "rent": 2250, "bedrooms": 1, "label": 1, "category": "employment_requirement", "note": ""}
+{"id": "e023", "text": "Must be employed full time with 2 years at current job. No exceptions.", "rent": 2400, "bedrooms": 1, "label": 1, "category": "employment_requirement", "note": "must be employed"}
+{"id": "e024", "text": "Income must come from employment. Pay stubs + W2 required.", "rent": 2300, "bedrooms": 1, "label": 1, "category": "employment_requirement", "note": ""}
+{"id": "e025", "text": "No third party payments. First, last, and security due at signing.", "rent": 2350, "bedrooms": 1, "label": 1, "category": "coded_language", "note": ""}
+{"id": "e026", "text": "Nice apt, no shelter referrals please.", "rent": 2100, "bedrooms": 1, "label": 1, "category": "coded_language", "note": ""}
+{"id": "e027", "text": "No agency clients. Owner prefers private tenants.", "rent": 2400, "bedrooms": 2, "label": 1, "category": "coded_language", "note": ""}
+{"id": "e028", "text": "W-2 employees only, no self-employed.", "rent": 2500, "bedrooms": 1, "label": 1, "category": "employment_requirement", "note": "also excludes voucher holders"}
+{"id": "e029", "text": "Landlord is looking for 'stable' tenants — no caseworker calls.", "rent": 2200, "bedrooms": 1, "label": 1, "category": "coded_language", "note": "subtle"}
+{"id": "e030", "text": "Apartamento de 2 cuartos en Washington Heights. No aceptamos programas. $2,400 al mes.", "rent": 2400, "bedrooms": 2, "label": 1, "category": "explicit_refusal", "note": "es"}
+{"id": "e031", "text": "Se renta cuarto en Corona, no Sección 8, solo personas que trabajen.", "rent": 1100, "bedrooms": 0, "label": 1, "category": "explicit_refusal", "note": "es"}
+{"id": "e032", "text": "法拉盛两室一厅出租，月租2600，不接受政府补助。", "rent": 2600, "bedrooms": 2, "label": 1, "category": "explicit_refusal", "note": "zh"}
+{"id": "e033", "text": "日落公园一房出租 $2,200，program勿扰。", "rent": 2200, "bedrooms": 1, "label": 1, "category": "explicit_refusal", "note": "zh coded"}
+{"id": "e034", "text": "Сдаётся 1-комнатная квартира в Брайтон-Бич, $2,100. Без программ.", "rent": 2100, "bedrooms": 1, "label": 1, "category": "explicit_refusal", "note": "ru"}
+{"id": "e035", "text": "Квартира 2 комнаты, Шипсхед-Бей. Программы не принимаем.", "rent": 2500, "bedrooms": 2, "label": 1, "category": "explicit_refusal", "note": "ru"}
+{"id": "e036", "text": "Spacious 2BR in Astoria. No broker fee! No pets. No smoking.", "rent": 2600, "bedrooms": 2, "label": 0, "category": "none", "note": "no fee"}
+{"id": "e037", "text": "Studio in LES, no fee, no security deposit for qualified applicants.", "rent": 2300, "bedrooms": 0, "label": 0, "category": "none", "note": ""}
+{"id": "e038", "text": "1BR in Ridgewood. No program fee for voucher holders — we handle the HRA paperwork.", "rent": 2200, "bedrooms": 1, "label": 0, "category": "none", "note": "'no program fee' is welcoming"}
+{"id": "e039", "text": "All programs welcome! CityFHEPS, Section 8, HASA accepted. 2BR in East New York.", "rent": 2500, "bedrooms": 2, "label": 0, "category": "none", "note": ""}
+{"id": "e040", "text": "Vouchers accepted. Income requirements do not apply to voucher holders.", "rent": 2300, "bedrooms": 1, "label": 0, "category": "none", "note": ""}
+{"id": "e041", "text": "CityFHEPS OK. Move-in ready 1BR, near B/Q trains.", "rent": 2350, "bedrooms": 1, "label": 0, "category": "none", "note": ""}
+{"id": "e042", "text": "We work with all programs and caseworkers. Call Maria.", "rent": 2400, "bedrooms": 2, "label": 0, "category": "none", "note": "caseworker mentioned positively"}
+{"id": "e043", "text": "No smoking building. Laundry on site. Section 8 welcome.", "rent": 2250, "bedrooms": 1, "label": 0, "category": "none", "note": ""}
+{"id": "e044", "text": "Must pass background check. Application fee $20 (NYC legal max).", "rent": 2200, "bedrooms": 1, "label": 0, "category": "none", "note": "lawful screening"}
+{"id": "e045", "text": "Apartamento disponible. Se aceptan programas y Sección 8.", "rent": 2300, "bedrooms": 1, "label": 0, "category": "none", "note": "es welcome"}
+{"id": "e046", "text": "欢迎政府补助，八号住房券可以。", "rent": 2400, "bedrooms": 2, "label": 0, "category": "none", "note": "zh welcome"}
+{"id": "e047", "text": "No parties, no loud music after 10pm. Quiet building.", "rent": 2200, "bedrooms": 1, "label": 0, "category": "none", "note": ""}
+{"id": "e048", "text": "Renovated 1BR. No elevator, 4th floor walk-up.", "rent": 2100, "bedrooms": 1, "label": 0, "category": "none", "note": ""}
+{"id": "e049", "text": "Pets welcome, no dogs over 50lbs.", "rent": 2400, "bedrooms": 1, "label": 0, "category": "none", "note": ""}
+{"id": "e050", "text": "No program needed to apply — just fill out the form online.", "rent": 2300, "bedrooms": 1, "label": 0, "category": "none", "note": "adversarial: 'no program' non-refusal"}
+{"id": "e051", "text": "Utilities included, no hidden fees, no gimmicks.", "rent": 2150, "bedrooms": 0, "label": 0, "category": "none", "note": ""}
+{"id": "e052", "text": "Good credit preferred, but we consider all applicants and accept rental assistance.", "rent": 2300, "bedrooms": 1, "label": 0, "category": "none", "note": ""}
+{"id": "e053", "text": "Guarantors accepted (TheGuarantors, Insurent).", "rent": 2800, "bedrooms": 2, "label": 0, "category": "none", "note": ""}
+{"id": "e054", "text": "Nice sunny 2BR, $2,500. Contact for showing.", "rent": 2500, "bedrooms": 2, "label": 0, "category": "none", "note": "plain"}
+{"id": "e055", "text": "Minimum 700 credit score. Guarantor accepted. Vouchers welcome.", "rent": 2400, "bedrooms": 1, "label": 0, "category": "credit_requirement", "note": "credit + welcome"}
+{"id": "e056", "text": "Minimum 700 credit score required. 1BR $2,300.", "rent": 2300, "bedrooms": 1, "label": 0, "category": "credit_requirement", "note": "ambiguous: CHR guidance disfavors, but not flag-worthy alone"}
+{"id": "e057", "text": "Owner occupied 2-family house, looking for a responsible tenant.", "rent": 2200, "bedrooms": 1, "label": 0, "category": "none", "note": "owner-occupied 2-family may be exempt; not flag-worthy"}
+{"id": "e058", "text": "Must have pay stubs.", "rent": 2200, "bedrooms": 1, "label": 0, "category": "employment_requirement", "note": "ambiguous; review at most"}

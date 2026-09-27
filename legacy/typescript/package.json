@@ -1,0 +1,21 @@
+{
+  "name": "voucher-detector",
+  "private": true,
+  "type": "module",
+  "workspaces": [
+    "core",
+    "eval"
+  ],
+  "scripts": {
+    "test": "bun test",
+    "eval": "bun run eval/run.ts",
+    "demo": "bun run core/demo.ts",
+    "typecheck": "tsc --noEmit -p .",
+    "review": "bun run eval/review.ts",
+    "eval:v2": "bun run eval/run.ts --file data/labeled/holdout_v2.jsonl"
+  },
+  "devDependencies": {
+    "bun-types": "^1.4.2",
+    "typescript": "^7.0.2"
+  }
+}

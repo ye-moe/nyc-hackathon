@@ -1,0 +1,84 @@
+{"id": "h024", "label": "no_issue_found", "confidence": 0.97, "rationale": "Welcomes Section 8, HASA and FHEPS; welcoming language -> no_issue_found.", "evidence": "Section 8 tenants welcome, HASA welcome, FHEPS welcome."}
+{"id": "h023", "label": "no_issue_found", "confidence": 0.9, "rationale": "Invites program participants to route their caseworker packet, which signals acceptance, not refusal.", "evidence": "Program participants: please have your caseworker email us the packet."}
+{"id": "h022", "label": "needs_review", "confidence": 0.85, "rationale": "40x income requirement on a $14,000 3BR, far above the ~$3,433 CityFHEPS 3BR max, so rubric places it in needs_review rather than violation.", "evidence": "$14,000/mo, 40x rent income required"}
+{"id": "h021", "label": "no_issue_found", "confidence": 0.97, "rationale": "\"No section\" refers to building renovation, not Section 8; nothing about income source.", "evidence": ""}
+{"id": "h020", "label": "no_issue_found", "confidence": 0.97, "rationale": "\"All programs accepted\" in Spanish is welcoming language.", "evidence": "Se aceptan todos los programas."}
+{"id": "h019", "label": "no_issue_found", "confidence": 0.93, "rationale": "Credit check and $20 application fee are lawful terms with no credit minimum or income-source term.", "evidence": ""}
+{"id": "h018", "label": "no_issue_found", "confidence": 0.95, "rationale": "Housing Connect AMI income band is a government-set band, listed as no_issue_found.", "evidence": "Affordable unit via NYC Housing Connect. Income must be between 50-80% AMI."}
+{"id": "h017", "label": "no_issue_found", "confidence": 0.95, "rationale": "Occupancy and sublet restrictions are lawful terms unrelated to income source.", "evidence": ""}
+{"id": "h016", "label": "no_issue_found", "confidence": 0.93, "rationale": "Income requirement counts rental assistance as income, which the rubric lists as no_issue_found.", "evidence": "Rental assistance counts toward income."}
+{"id": "h015", "label": "no_issue_found", "confidence": 0.97, "rationale": "Explicitly accepts CityFHEPS and all programs.", "evidence": "We gladly accept CityFHEPS and all other programs."}
+{"id": "h014", "label": "no_issue_found", "confidence": 0.95, "rationale": "No fee and no deposit are lawful terms; \"no\" here does not concern income source.", "evidence": ""}
+{"id": "h013", "label": "no_issue_found", "confidence": 0.97, "rationale": "Welcoming language for voucher holders.", "evidence": "Voucher holders welcome to apply!"}
+{"id": "h012", "label": "violation", "confidence": 0.92, "rationale": "Matches the rubric's coded refusal \"tenant pays full rent, no assistance\".", "evidence": "Tenant pays full rent — no assistance programs."}
+{"id": "h011", "label": "needs_review", "confidence": 0.85, "rationale": "Employment-only requirement belongs in needs_review under the rubric.", "evidence": "Owner will only consider employed applicants."}
+{"id": "h010", "label": "violation", "confidence": 0.78, "rationale": "Absolute $90k minimum (about 39x the $2,300 rent, within the 1BR range of $2,440) applied to full rent with no voucher exception, plus an employment-only source; the rubric names \"$90k minimum income\" as a violation.", "evidence": "Must show proof of employment income (min. $90k/yr)."}
+{"id": "h009", "label": "violation", "confidence": 0.93, "rationale": "Chinese explicit refusal: \"不收八号\" means \"does not accept Section 8\".", "evidence": "不收八号"}
+{"id": "h008", "label": "violation", "confidence": 0.88, "rationale": "Spanish explicit refusal (\"vouchers not accepted\"); no owner-occupancy exemption is stated for this room rental.", "evidence": "No se aceptan vouchers."}
+{"id": "h007", "label": "violation", "confidence": 0.9, "rationale": "Explicit refusal of programs; \"currently\" does not make it lawful.", "evidence": "landlord is not currently taking any programs."}
+{"id": "h006", "label": "violation", "confidence": 0.9, "rationale": "Coded refusal equivalent to \"tenant pays full rent, no assistance\".", "evidence": "Rent paid by tenant only (no subsidies)."}
+{"id": "h005", "label": "violation", "confidence": 0.93, "rationale": "Explicit refusal of DSS/HRA (\"we don't take HRA\" pattern).", "evidence": "No DSS. No HRA."}
+{"id": "h004", "label": "violation", "confidence": 0.97, "rationale": "\"Programs need not apply\" is a listed explicit refusal.", "evidence": "Programs need not apply."}
+{"id": "h003", "label": "needs_review", "confidence": 0.85, "rationale": "Rubric lists \"only rents to tenants with jobs\" as an employment-only needs_review case.", "evidence": "Owner only rents to tenants with jobs."}
+{"id": "h002", "label": "violation", "confidence": 0.88, "rationale": "40x full-rent requirement on a $2,350 1BR (within the $2,440 CityFHEPS range) with no voucher exception.", "evidence": "Applicant must earn 40 times the monthly rent. No exceptions."}
+{"id": "h001", "label": "violation", "confidence": 0.65, "rationale": "A stated preference against government-program tenants discourages voucher holders, but it is a preference rather than a flat refusal, so it is borderline against the rubric's explicit-refusal standard.", "evidence": "landlord prefers tenants without government programs."}
+{"id": "h000", "label": "violation", "confidence": 0.95, "rationale": "Explicit refusal of vouchers.", "evidence": "Sorry, can't accept vouchers at this time."}
+{"id": "e058", "label": "needs_review", "confidence": 0.8, "rationale": "\"Pay stubs required\" is listed as an employment-only needs_review case, though it could simply be income verification.", "evidence": "Must have pay stubs."}
+{"id": "e057", "label": "no_issue_found", "confidence": 0.93, "rationale": "Owner-occupied 2-family house with no explicit refusal -> no_issue_found per rubric.", "evidence": "Owner occupied 2-family house"}
+{"id": "e056", "label": "needs_review", "confidence": 0.88, "rationale": "700 credit minimum (650+) with no statement welcoming vouchers.", "evidence": "Minimum 700 credit score required."}
+{"id": "e055", "label": "no_issue_found", "confidence": 0.9, "rationale": "Credit minimum paired with \"Vouchers welcome\" -> no_issue_found per rubric.", "evidence": "Vouchers welcome."}
+{"id": "e054", "label": "no_issue_found", "confidence": 0.97, "rationale": "Nothing about income source.", "evidence": ""}
+{"id": "e053", "label": "no_issue_found", "confidence": 0.95, "rationale": "Guarantor companies accepted is a lawful term.", "evidence": "Guarantors accepted (TheGuarantors, Insurent)."}
+{"id": "e052", "label": "no_issue_found", "confidence": 0.95, "rationale": "Credit is only preferred and rental assistance is accepted.", "evidence": "we consider all applicants and accept rental assistance."}
+{"id": "e051", "label": "no_issue_found", "confidence": 0.97, "rationale": "\"No hidden fees, no gimmicks\" is unrelated to income source.", "evidence": ""}
+{"id": "e050", "label": "no_issue_found", "confidence": 0.95, "rationale": "\"No program needed to apply\" is a listed non-refusal phrase.", "evidence": "No program needed to apply"}
+{"id": "e049", "label": "no_issue_found", "confidence": 0.98, "rationale": "Pet policy only.", "evidence": ""}
+{"id": "e048", "label": "no_issue_found", "confidence": 0.98, "rationale": "\"No elevator\" is a building description, nothing about income source.", "evidence": ""}
+{"id": "e047", "label": "no_issue_found", "confidence": 0.98, "rationale": "Noise rules only.", "evidence": ""}
+{"id": "e046", "label": "no_issue_found", "confidence": 0.95, "rationale": "Chinese welcoming language: government assistance welcome, Section 8 vouchers OK.", "evidence": "欢迎政府补助，八号住房券可以。"}
+{"id": "e045", "label": "no_issue_found", "confidence": 0.96, "rationale": "Spanish welcoming language: programs and Section 8 accepted.", "evidence": "Se aceptan programas y Sección 8."}
+{"id": "e044", "label": "no_issue_found", "confidence": 0.96, "rationale": "Background check and legal application fee are lawful terms.", "evidence": ""}
+{"id": "e043", "label": "no_issue_found", "confidence": 0.9, "rationale": "Welcomes Section 8 without refusing any other program (not \"Section 8 only\").", "evidence": "Section 8 welcome."}
+{"id": "e042", "label": "no_issue_found", "confidence": 0.96, "rationale": "Welcomes all programs and caseworkers.", "evidence": "We work with all programs and caseworkers."}
+{"id": "e041", "label": "no_issue_found", "confidence": 0.97, "rationale": "\"CityFHEPS OK\" is listed welcoming language.", "evidence": "CityFHEPS OK."}
+{"id": "e040", "label": "no_issue_found", "confidence": 0.96, "rationale": "Vouchers accepted and income requirement explicitly waived for voucher holders.", "evidence": "Income requirements do not apply to voucher holders."}
+{"id": "e039", "label": "no_issue_found", "confidence": 0.98, "rationale": "Explicitly welcomes CityFHEPS, Section 8 and HASA.", "evidence": "All programs welcome! CityFHEPS, Section 8, HASA accepted."}
+{"id": "e038", "label": "no_issue_found", "confidence": 0.93, "rationale": "\"No program fee\" is a listed non-refusal and the listing supports voucher holders.", "evidence": "No program fee for voucher holders — we handle the HRA paperwork."}
+{"id": "e037", "label": "no_issue_found", "confidence": 0.9, "rationale": "No fee/deposit terms; \"qualified applicants\" is too vague to count as an income-source restriction.", "evidence": ""}
+{"id": "e036", "label": "no_issue_found", "confidence": 0.98, "rationale": "Only lawful terms: no broker fee, no pets, no smoking.", "evidence": ""}
+{"id": "e035", "label": "violation", "confidence": 0.93, "rationale": "Russian explicit refusal: \"we don't accept programs\".", "evidence": "Программы не принимаем."}
+{"id": "e034", "label": "violation", "confidence": 0.87, "rationale": "Russian \"Без программ\" (\"no programs\") is the standard phrasing for refusing voucher programs.", "evidence": "Без программ."}
+{"id": "e033", "label": "violation", "confidence": 0.85, "rationale": "Chinese \"program勿扰\" (\"programs, do not disturb\") tells voucher holders not to contact, which is an explicit refusal.", "evidence": "program勿扰"}
+{"id": "e032", "label": "violation", "confidence": 0.93, "rationale": "Chinese explicit refusal: \"does not accept government assistance\".", "evidence": "不接受政府补助"}
+{"id": "e031", "label": "violation", "confidence": 0.85, "rationale": "Spanish explicit refusal \"no Sección 8\" plus working-only; no owner-occupancy exemption is stated for this room rental.", "evidence": "no Sección 8, solo personas que trabajen."}
+{"id": "e030", "label": "violation", "confidence": 0.95, "rationale": "Spanish explicit refusal: \"we don't accept programs\".", "evidence": "No aceptamos programas."}
+{"id": "e029", "label": "violation", "confidence": 0.85, "rationale": "\"No caseworker calls\" is a listed coded refusal.", "evidence": "no caseworker calls."}
+{"id": "e028", "label": "needs_review", "confidence": 0.85, "rationale": "\"W-2 only\" is a listed employment-only needs_review case.", "evidence": "W-2 employees only, no self-employed."}
+{"id": "e027", "label": "violation", "confidence": 0.8, "rationale": "\"No agency clients\" fits the rubric's coded \"no shelter/agency referrals\", reinforced by the stated preference for private tenants.", "evidence": "No agency clients. Owner prefers private tenants."}
+{"id": "e026", "label": "violation", "confidence": 0.88, "rationale": "\"No shelter referrals\" is a listed coded refusal.", "evidence": "no shelter referrals please."}
+{"id": "e025", "label": "violation", "confidence": 0.8, "rationale": "\"No third-party payments\" is a listed coded refusal, since the voucher pays as a third party.", "evidence": "No third party payments."}
+{"id": "e024", "label": "needs_review", "confidence": 0.87, "rationale": "\"Income must come from employment\" and W2 requirement are listed employment-only needs_review cases.", "evidence": "Income must come from employment. Pay stubs + W2 required."}
+{"id": "e023", "label": "needs_review", "confidence": 0.85, "rationale": "Employment-only requirement belongs in needs_review.", "evidence": "Must be employed full time with 2 years at current job."}
+{"id": "e022", "label": "needs_review", "confidence": 0.85, "rationale": "\"Working professionals only\" is a listed employment-only needs_review case.", "evidence": "working professionals only."}
+{"id": "e021", "label": "no_issue_found", "confidence": 0.96, "rationale": "40x requirement has a rental-assistance alternative and all programs are welcome.", "evidence": "Income 40x rent OR qualified guarantor OR rental assistance. All programs welcome."}
+{"id": "e020", "label": "no_issue_found", "confidence": 0.85, "rationale": "Mitchell-Lama with HPD income limits is a government-set band per rubric; the 2x rent term sits within that program context.", "evidence": "Mitchell-Lama co-op rental, income limits apply per HPD guidelines."}
+{"id": "e019", "label": "no_issue_found", "confidence": 0.96, "rationale": "Housing Connect AMI lottery income band is government-set.", "evidence": "Housing Connect lottery: 60% AMI units"}
+{"id": "e018", "label": "needs_review", "confidence": 0.85, "rationale": "40x requirement on a $9,500 2BR, far above the ~$2,748 CityFHEPS 2BR max, so rubric places it in needs_review.", "evidence": "$9,500/mo, 40x rent income required"}
+{"id": "e017", "label": "no_issue_found", "confidence": 0.95, "rationale": "Income requirement explicitly applied only to the tenant portion, and vouchers accepted.", "evidence": "Vouchers accepted, income requirement applies to tenant portion only."}
+{"id": "e016", "label": "violation", "confidence": 0.85, "rationale": "3x rent monthly income on a $2,000 studio (within the $2,387 range) with no voucher exception.", "evidence": "Applicants need 3x rent in monthly income."}
+{"id": "e015", "label": "violation", "confidence": 0.85, "rationale": "$110,000 absolute minimum (about 41x) on a $2,700 2BR within the $2,748 range, with no voucher exception.", "evidence": "Minimum annual income of $110,000 required."}
+{"id": "e014", "label": "violation", "confidence": 0.82, "rationale": "45x full-rent requirement on a $2,450 1BR (within ~10% of the $2,440 max) with no voucher exception.", "evidence": "Tenant must make 45x monthly rent annually."}
+{"id": "e013", "label": "violation", "confidence": 0.87, "rationale": "40x full-rent requirement on a $2,200 1BR within range, with no voucher exception.", "evidence": "Must earn 40x the rent."}
+{"id": "e012", "label": "violation", "confidence": 0.9, "rationale": "Accepts HCV but refuses FHEPS; tie-break: refusal plus welcome for a different program -> violation.", "evidence": "We accept HCV vouchers. No FHEPS."}
+{"id": "e011", "label": "violation", "confidence": 0.93, "rationale": "Matches the listed \"Section 8 welcome, no CityFHEPS\" violation.", "evidence": "Section 8 welcome! Sorry, no CityFHEPS."}
+{"id": "e010", "label": "violation", "confidence": 0.9, "rationale": "\"Section 8 only\" excludes CityFHEPS and other programs, a listed violation.", "evidence": "Section 8 only, no other programs."}
+{"id": "e009", "label": "violation", "confidence": 0.96, "rationale": "Explicit refusal of HASA, LINC and all programs.", "evidence": "No HASA, no LINC, no programs of any kind."}
+{"id": "e008", "label": "violation", "confidence": 0.93, "rationale": "Explicit refusal to work with vouchers.", "evidence": "Owner won't work with vouchers."}
+{"id": "e007", "label": "violation", "confidence": 0.92, "rationale": "Explicit refusal: \"No sec 8\".", "evidence": "No sec 8."}
+{"id": "e006", "label": "violation", "confidence": 0.9, "rationale": "\"Private pay only\" is a listed explicit refusal.", "evidence": "Private pay only."}
+{"id": "e005", "label": "violation", "confidence": 0.95, "rationale": "Explicit refusal of Section 8 and CityFHEPS.", "evidence": "no section 8 no cityfheps."}
+{"id": "e004", "label": "violation", "confidence": 0.95, "rationale": "\"We don't take HRA\" is a listed explicit refusal.", "evidence": "We don't take HRA or any government assistance."}
+{"id": "e003", "label": "violation", "confidence": 0.95, "rationale": "Explicit refusal of programs.", "evidence": "Programs not accepted."}
+{"id": "e002", "label": "violation", "confidence": 0.96, "rationale": "Explicit refusal of Section 8 and CityFHEPS.", "evidence": "Landlord does not accept Section 8 or CityFHEPS."}
+{"id": "e001", "label": "violation", "confidence": 0.96, "rationale": "\"No vouchers\" is a listed explicit refusal.", "evidence": "NO VOUCHERS"}
+{"id": "e000", "label": "violation", "confidence": 0.95, "rationale": "\"No programs\" is a listed explicit refusal.", "evidence": "No programs."}

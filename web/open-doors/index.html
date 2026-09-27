@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Open Doors · Homeward NYC</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Jost:wght@300;400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
+
+<header class="nav">
+  <div class="wrap">
+    <a class="logo" href="/"><svg viewBox="0 0 32 32" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3.5 15 L16 4.5 L28.5 15"/><path d="M7 12.5 V27.5 H25 V12.5"/><path d="M13.5 27.5 V19.5 H18.5 V27.5"/><path d="M21.5 8.5 V5.5 H24.5 V11"/></svg>Homeward.</a>
+    <ul class="links">
+      <li><a href="/voucher-guard/">Voucher Guard</a></li>
+      <li><a href="/open-doors/" aria-current="page">Open Doors</a></li>
+      <li><a href="/shelter-match/">Shelter Match</a></li>
+      <li><a href="/#how">How it works</a></li>
+    </ul>
+    <a class="btn btn-light cta" href="/voucher-guard/#check">Check a listing</a>
+    <a class="btn btn-dark btn-sm menu" href="/#features">Menu</a>
+  </div>
+</header>
+
+<main>
+  <section class="page-hero">
+    <img class="art" src="/assets/img/house.svg" alt="">
+    <div class="wrap">
+      <span class="for">For <span class="pill-dash">Voucher Holders, Families &amp; Caseworkers</span></span>
+      <h1>Open Doors</h1>
+      <p>Affordable vacancies in one feed: open Housing Connect lotteries and listings that will take a voucher. Listings with discriminatory terms are left out.</p>
+      <div class="ctas"><a class="btn btn-light" href="#feed">See vacancies</a><a class="btn btn-dark" href="#plan">Build a Housing Plan</a></div>
+    </div>
+  </section>
+
+  <form class="wrap layout" id="feed">
+    <aside class="side">
+      <div class="panel">
+        <h3>Your household</h3>
+        <div class="field"><label for="hh">Household size</label><input id="hh" type="number" min="1" max="12" placeholder="3"></div>
+        <div class="field"><label for="inc">Yearly income ($)</label><input id="inc" type="number" min="0" step="1000" placeholder="30,000"></div>
+        <div class="checks" style="margin-bottom:14px"><label><input type="checkbox" id="voucher" checked> Has a voucher (CityFHEPS / Section 8)</label></div>
+        <p style="margin:0;font-size:12.5px;color:var(--muted);line-height:1.5">Housing Connect: minimum income may not apply to applicants with a qualifying rental subsidy.</p>
+      </div>
+      <div class="panel">
+        <h3>Filters</h3>
+        <div class="field"><label for="b">Bedrooms</label><select id="b"><option value="">Any</option><option value="0">Studio</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4+</option></select></div>
+        <div class="field"><label for="bo">Borough</label><select id="bo"><option value="">Any</option><option>Manhattan</option><option>Brooklyn</option><option>Bronx</option><option>Queens</option><option>Staten Island</option></select></div>
+        <div class="field"><label for="k">Show</label><select id="k"><option value="">Lotteries + listings</option><option value="lottery">Lotteries only</option><option value="listing">Listings only</option></select></div>
+        <div class="checks"><label><input type="checkbox" id="limit"> Rent within voucher limit only</label></div>
+      </div>
+    </aside>
+
+    <div>
+      <div class="toolbar">
+        <div class="counts" id="counts"><span class="chip">Loading…</span></div>
+        <div class="toggle" role="tablist" data-toggle="od"><button type="button" role="tab" data-view="list" aria-selected="true">List</button><button type="button" role="tab" data-view="map" aria-selected="false">Map</button></div>
+      </div>
+      <div data-panel-for="od" data-view="list" id="list" aria-live="polite"></div>
+      <div data-panel-for="od" data-view="map" hidden>
+        <div class="map"><div id="map" style="position:absolute;inset:0"></div></div>
+        <div class="legend"><span><i class="mk mk-solid"></i>Housing Connect lottery</span><span><i class="mk mk-ring"></i>Voucher-friendly listing</span><span class="map-note"></span></div>
+      </div>
+    </div>
+  </form>
+
+  <section class="block" id="plan" style="border-top:1px solid var(--line)">
+    <div class="wrap">
+      <div class="head"><div><span class="eyebrow">Housing Plan</span><h2>A plan the client can act on</h2></div>
+        <p>One click turns the feed into a plan for this household: lotteries to apply to by deadline, a document checklist, a calendar file, and a letter for each voucher-friendly landlord. Tick “Add to plan” on cards to choose; otherwise the best matches are used.</p></div>
+      <div style="display:flex;gap:10px;flex-wrap:wrap">
+        <button class="btn btn-light" type="button" id="planBtn">Build Housing Plan</button><button class="btn btn-dark" type="button" id="icsBtn">Download deadlines (.ics)</button><button class="btn btn-ghost" type="button" id="smsBtn">Copy text message</button>
+        <label class="field" style="margin:0;min-width:180px"><select id="lang" aria-label="Client language"><option value="">English</option><option value="es">Español</option><option value="zh">中文</option><option value="ru">Русский</option><option value="bn">বাংলা</option><option value="ht">Kreyòl</option></select></label>
+      </div>
+      <p id="planStatus" aria-live="polite" style="margin:14px 0 0;color:var(--muted)"></p>
+      <div class="tiles two" id="planOut" style="margin-top:18px" hidden></div>
+    </div>
+  </section>
+</main>
+
+<footer><div class="wrap"><span>Homeward NYC · Open Doors</span><span>Lottery data: NYC Housing Connect. Check each lottery before applying.</span></div></footer>
+<script src="/assets/js/app.js"></script>
+<script src="/assets/js/open-doors.js"></script>
+</body>
+</html>

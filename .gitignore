@@ -1,0 +1,25 @@
+node_modules/
+.env
+.env.local
+data/cache/
+.DS_Store
+__pycache__/
+.next/
+.gstack/
+
+# Python virtual environments
+.venv/
+venv/
+
+# Local camera test images
+scanner/data/camera-test/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Generated scraper output
+scanner/python/housing_opportunities.json
+scanner/python/listings.json
+scanner/python/real_listings.json

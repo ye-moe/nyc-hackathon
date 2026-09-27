@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shelter Match · Homeward NYC</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Jost:wght@300;400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
+
+<header class="nav">
+  <div class="wrap">
+    <a class="logo" href="/"><svg viewBox="0 0 32 32" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3.5 15 L16 4.5 L28.5 15"/><path d="M7 12.5 V27.5 H25 V12.5"/><path d="M13.5 27.5 V19.5 H18.5 V27.5"/><path d="M21.5 8.5 V5.5 H24.5 V11"/></svg>Homeward.</a>
+    <ul class="links">
+      <li><a href="/voucher-guard/">Voucher Guard</a></li>
+      <li><a href="/open-doors/">Open Doors</a></li>
+      <li><a href="/shelter-match/" aria-current="page">Shelter Match</a></li>
+      <li><a href="/#how">How it works</a></li>
+    </ul>
+    <a class="btn btn-light cta" href="/voucher-guard/#check">Check a listing</a>
+    <a class="btn btn-dark btn-sm menu" href="/#features">Menu</a>
+  </div>
+</header>
+
+<main>
+  <section class="page-hero">
+    <img class="art" src="/assets/img/house.svg" alt="">
+    <div class="wrap">
+      <span class="for">For <span class="pill-dash">Single Adults, Families, Youth &amp; Couples</span></span>
+      <h1>Shelter Match</h1>
+      <p>Narrows NYC's homeless shelters to the ones a person is eligible for tonight, with how to get in, what to bring, and who to call. Only shelters with a public address, each with its source. Nothing you enter is saved.</p>
+      <div class="ctas"><a class="btn btn-light" href="#match">Find shelters</a><a class="btn btn-dark" href="#packet">Intake Ready Packet</a></div>
+    </div>
+  </section>
+
+  <div class="wrap layout" id="match">
+    <aside class="side">
+      <form class="panel" id="form">
+        <h3>Who needs shelter?</h3>
+        <div class="seg" style="margin-bottom:14px">
+          <label><input type="radio" name="h" value="single" checked> One adult</label>
+          <label><input type="radio" name="h" value="adult_family"> Couple / adults</label>
+          <label><input type="radio" name="h" value="family_with_children"> Family with kids</label>
+          <label><input type="radio" name="h" value="youth_alone"> Young person</label>
+        </div>
+        <div class="field"><label for="a">Age</label><input id="a" type="number" min="0" max="120" placeholder="34"></div>
+        <div class="field"><label for="g">Gender</label><select id="g"><option value="unspecified">Prefer not to say</option><option value="woman">Woman</option><option value="man">Man</option><option value="nonbinary">Nonbinary / other</option></select></div>
+        <div class="field"><label for="bo">Borough</label><select id="bo"><option value="">Any</option><option>Manhattan</option><option>Brooklyn</option><option>Bronx</option><option>Queens</option><option>Staten Island</option></select></div>
+        <h3 style="margin-top:6px">Anything else?</h3>
+        <div class="checks">
+          <label><input type="checkbox" name="fleeing_violence"> Fleeing domestic violence</label>
+          <label><input type="checkbox" name="in_dhs_shelter_last_12_months"> In a NYC shelter in the last year</label>
+          <label><input type="checkbox" name="veteran"> Veteran</label>
+          <label><input type="checkbox" name="lgbtq"> LGBTQ+</label>
+          <label><input type="checkbox" name="employed"> Working</label>
+          <label><input type="checkbox" name="need" value="mental_health"> Mental health support</label>
+          <label><input type="checkbox" name="need" value="substance_use"> Substance use support</label>
+          <label><input type="checkbox" name="need" value="hiv"> HIV/AIDS</label>
+          <label><input type="checkbox" name="need" value="medical"> Medical needs</label>
+        </div>
+        <button class="btn btn-light" type="submit" style="width:100%;margin-top:16px">Find shelters</button>
+      </form>
+    </aside>
+
+    <div>
+      <div id="how" aria-live="polite"><div class="banner">Fill in who needs shelter and press <b>Find shelters</b>. Domestic violence shelters are confidential and never listed; call 311 or the NYC hotline 800-621-4673.</div></div>
+
+      <div id="results" hidden>
+        <div class="toolbar">
+          <div class="counts" id="counts"></div>
+          <div class="toggle" role="tablist" data-toggle="sm"><button role="tab" data-view="list" aria-selected="true">List</button><button role="tab" data-view="map" aria-selected="false">Map</button></div>
+        </div>
+
+        <div data-panel-for="sm" data-view="list">
+          <div class="panel" style="margin-bottom:14px;display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px">
+            <div class="field" style="margin:0"><label for="x1">Borough</label><select id="x1"><option value="">All</option></select></div>
+            <div class="field" style="margin:0"><label for="x2">Type</label><select id="x2"><option value="">All</option></select></div>
+            <div class="field" style="margin:0"><label for="x3">Sort</label><select id="x3"><option value="best">Best fit</option><option value="boro">Borough</option><option value="beds">Most beds</option><option value="name">Name</option></select></div>
+          </div>
+          <div id="list"></div>
+          <div id="notEligible"></div>
+        </div>
+
+        <div data-panel-for="sm" data-view="map" hidden>
+          <div class="map"><div id="map" style="position:absolute;inset:0"></div></div>
+          <div class="legend"><span><i class="mk mk-solid"></i>City (DHS) shelter</span><span><i class="mk mk-ring"></i>Walk-in / call</span><span class="map-note"></span></div>
+        </div>
+        <p id="note" style="color:var(--muted);font-size:13px;line-height:1.55"></p>
+      </div>
+    </div>
+  </div>
+
+  <section class="block" id="packet" style="border-top:1px solid var(--line)">
+    <div class="wrap">
+      <div class="head"><div><span class="eyebrow">Intake Ready Packet</span><h2>One page for the client</h2></div>
+        <p>Where to go, hours and subway, what to bring, the shelters that fit, their rights, and what to do if denied. Printable, textable, and in the client's language. Tick “Add to packet” on shelters to choose the shortlist; otherwise the best matches are used.</p></div>
+      <div style="display:flex;gap:10px;flex-wrap:wrap">
+        <button class="btn btn-light" type="button" id="packetBtn">Create Intake Ready Packet</button><button class="btn btn-dark" type="button" id="smsBtn">Copy text message</button>
+        <label class="field" style="margin:0;min-width:180px"><select id="lang" aria-label="Client language"><option value="">English</option><option value="es">Español</option><option value="zh">中文</option><option value="ru">Русский</option><option value="bn">বাংলা</option><option value="ht">Kreyòl</option></select></label>
+      </div>
+      <p id="packetStatus" aria-live="polite" style="margin:14px 0 0;color:var(--muted)"></p>
+      <div class="tiles two" id="packetOut" style="margin-top:18px" hidden></div>
+    </div>
+  </section>
+</main>
+
+<footer><div class="wrap"><span>Homeward NYC · Shelter Match</span><span>Fleeing violence? Call 800-621-4673. Shelter directions: 311.</span></div></footer>
+<script src="/assets/js/app.js"></script>
+<script src="/assets/js/shelter-match.js"></script>
+</body>
+</html>

@@ -1,0 +1,1646 @@
+[
+  {
+    "name": "Single Adult Intake Center (men)",
+    "provider": "NYC Department of Homeless Services",
+    "address": "8 E. 3rd Street, New York, NY 10003",
+    "borough": "Manhattan",
+    "phone": null,
+    "facility_type": "Intake Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [
+      "man"
+    ],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "walk-in",
+    "dhs_directory_name": null,
+    "source_url": "https://www.nyc.gov/site/dhs/shelter/singleadults/single-adults-applying.page",
+    "source_type": "government",
+    "quote": "All single adult males must apply at: Single Adult Intake Center 8 E. 3rd Street New York, NY 10003",
+    "notes": "Official DHS intake point for all single men in NYC. Same building as Project Renewal's Third Street Men's Shelter."
+  },
+  {
+    "name": "Third Street Men's Shelter",
+    "provider": "Project Renewal",
+    "address": "8 East 3rd Street, New York, NY 10003",
+    "borough": "Manhattan",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [
+      "man"
+    ],
+    "min_age": null,
+    "max_age": null,
+    "populations": [
+      "substance_use"
+    ],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "x E. xrd St Shelter",
+    "source_url": "https://www.projectrenewal.org/wp-content/uploads/2024/08/ProjectRenewal_LocationsMap_FINAL_OCT2023.pdf",
+    "source_type": "operator",
+    "quote": "Services, Mental Health Care, Occupational Therapy 18 THIRD STREET MEN’S SHELTER    8 East 3rd Street New York, NY 10003 Serves: Men with substance use histories Offers: Emergency Shelter, Mental Health Care, Occupational Therapy, Primary Care THE 820 REHABILI",
+    "notes": "Directory name is masked; matched on provider + address (Project Renewal, E. 3rd St)."
+  },
+  {
+    "name": "Kenton Hall Men's Shelter",
+    "provider": "Project Renewal",
+    "address": "333 Bowery, New York, NY 10002",
+    "borough": "Manhattan",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [
+      "man"
+    ],
+    "min_age": null,
+    "max_age": null,
+    "populations": [
+      "mental_health",
+      "substance_use"
+    ],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "Kenton",
+    "source_url": "https://www.projectrenewal.org/wp-content/uploads/2024/08/ProjectRenewal_LocationsMap_FINAL_OCT2023.pdf",
+    "source_type": "operator",
+    "quote": "Health Care, Scattersite Permanent Supportive Housing 11 KENTON HALL MEN’S SHELTER   333 Bowery, New York, NY 10002 Serves: Men with mental illness diagnoses and/ or substance use histories Offers: Emergency Shelter, Mental Health Care, Occupational Thera",
+    "notes": "City Record (2025) lists ZIP 10003 for the same address; operator says 10002."
+  },
+  {
+    "name": "Fort Washington Men's Shelter",
+    "provider": "Project Renewal",
+    "address": "651 West 168th Street, New York, NY 10032",
+    "borough": "Manhattan",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [
+      "man"
+    ],
+    "min_age": null,
+    "max_age": null,
+    "populations": [
+      "mental_health"
+    ],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "Ft. xxx Armory",
+    "source_url": "https://www.projectrenewal.org/wp-content/uploads/2024/08/ProjectRenewal_LocationsMap_FINAL_OCT2023.pdf",
+    "source_type": "operator",
+    "quote": "Occupational Therapy, Permanent Supportive Housing 8 FORT WASHINGTON MEN’S SHELTER    651 West 168th Street New York, NY 10032 Serves: Men with mental illness diagnoses Offers: Dental Care, Emergency Shelter, Mental Health Care, Occupational Therapy, Primary Care 9",
+    "notes": "Inside the Fort Washington Armory. DHS renewal notice (IntentotRenew_ProjectRenewal_FortWashington.pdf) confirms this site address."
+  },
+  {
+    "name": "New Providence Women's Shelter",
+    "provider": "Project Renewal",
+    "address": "225 East 45th Street, New York, NY 10017",
+    "borough": "Manhattan",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [
+      "woman"
+    ],
+    "min_age": null,
+    "max_age": null,
+    "populations": [
+      "mental_health",
+      "substance_use"
+    ],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "New Providence",
+    "source_url": "https://www.projectrenewal.org/wp-content/uploads/2024/08/ProjectRenewal_LocationsMap_FINAL_OCT2023.pdf",
+    "source_type": "operator",
+    "quote": "Shelter, Mental Health Care, Primary Care Nursing 14 NEW PROVIDENCE WOMEN’S SHELTER AND HOUSING    225 East 45th Street New York, NY 10017 Serves: Women with mental illness diagnoses and/or substance use histories Offers: Emergency Shelter, Mental Health Care, Occupational Ther",
+    "notes": "CAUTION: operator map (Oct 2023) says \"Redevelopment Projected Opening: Fall 2026\"; the site may be closed or partly open during redevelopment."
+  },
+  {
+    "name": "West 59th Street Women's Shelter",
+    "provider": "Project Renewal",
+    "address": "537 West 59th Street, New York, NY 10019",
+    "borough": "Manhattan",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [
+      "woman"
+    ],
+    "min_age": null,
+    "max_age": null,
+    "populations": [
+      "mental_health"
+    ],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": null,
+    "source_url": "https://www.projectrenewal.org/wp-content/uploads/2024/08/ProjectRenewal_LocationsMap_FINAL_OCT2023.pdf",
+    "source_type": "operator",
+    "quote": "Occupational Therapy, Permanent Supportive Housing 20 WEST 59TH STREET WOMEN’S SHELTER    537 West 59th Street New York, NY 10019 Serves: Women with mental illness diagnoses Offers: Emergency Shelter, Occupational Therapy, Primary Care Projected Opening: March 2025 21",
+    "notes": "Operator map (Oct 2023) listed \"Projected Opening: March 2025\"; DHS contract for this site is in City Record 20210326007. Not in the Dec 2022 directory."
+  },
+  {
+    "name": "30th Street Men's Assessment Shelter",
+    "provider": "NYC Department of Homeless Services",
+    "address": "400 E 30th St, New York, NY 10016",
+    "borough": "Manhattan",
+    "phone": null,
+    "facility_type": "Assessment Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [
+      "man"
+    ],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "30th St. Men's Assessment",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260609056",
+    "source_type": "government",
+    "quote": "DHS/Health Services Office intends to enter into a Negotiated Acquisition Extension (NAE) contract for on-site medical and behavioral services at 30th Street Men's Assessment, located at 400 E 30th St, New York, NY 10016 with current provider Care for the Homeless.",
+    "notes": "CAUTION: a May 2026 City Record notice (20260427018) mentions \"the relocation of the 30th Street Shelter\", and men's intake has moved to 8 E. 3rd St. Confirm before sending anyone."
+  },
+  {
+    "name": "Schwartz Assessment Shelter",
+    "provider": "Volunteers of America-Greater New York",
+    "address": "65 Charles Gay Loop, New York, NY 10035 (Wards Island)",
+    "borough": "Manhattan",
+    "phone": null,
+    "facility_type": "Assessment Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "Schwartz Assessment",
+    "source_url": "https://www.nyc.gov/assets/dhs/downloads/pdf/Intent-to-Renew-VOA.pdf",
+    "source_type": "government",
+    "quote": "Site: Schwartz Assessment Shelter 65 Charles Gay Loop, New York, NY , 10035.",
+    "notes": "Gender not stated in source."
+  },
+  {
+    "name": "Clarke Thomas Shelter",
+    "provider": "HELP Social Service Corporation (HELP USA)",
+    "address": "121 Hell Gate Circle, New York, NY 10035 (Wards Island)",
+    "borough": "Manhattan",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [
+      "man"
+    ],
+    "min_age": null,
+    "max_age": null,
+    "populations": [
+      "mental_health"
+    ],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "Clarke Thomas Men's Shelter",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20240130108",
+    "source_type": "government",
+    "quote": "The Department of Homeless Services of the New York City Department of Social Services, plans to renew (1) contract with the contractor listed below, to provide Shelter Services for Single Adults at Clarke Thomas Shelter located at 121 Hell Gate Circle, New York, NY 10035.",
+    "notes": "Gender from the DHS directory name (\"Men's\"); mental-health focus from City Record 20191008109 (\"Clarke Thomas Mental Health Shelter\")."
+  },
+  {
+    "name": "Keener Rapid Rehousing Shelter",
+    "provider": "HELP Social Service Corporation (HELP USA)",
+    "address": "64 Sunken Garden Loop, Wards Island, New York, NY 10035",
+    "borough": "Manhattan",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [
+      "man"
+    ],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "Keener Men's Shelter",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20250715019",
+    "source_type": "government",
+    "quote": "The Department of Homeless Services intends to enter into a one-year Negotiated Acquisition Extension (NAE) for the existing vendor, HELP Social Service Corporation, to provide services at the Keener Rapid Rehousing Shelter, located at 64Sunken Garden Loop Wards Island, NY, NY 10035.",
+    "notes": "Gender from the DHS directory name. The source prints \"64Sunken Garden Loop\" with no space."
+  },
+  {
+    "name": "HELP Supportive Employment Center (SEC)",
+    "provider": "HELP Social Service Corporation (HELP USA)",
+    "address": "111 Sunken Garden Loop (One Wards Island), New York, NY 10035",
+    "borough": "Manhattan",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [
+      "employment"
+    ],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "HELP SEC",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260316014",
+    "source_type": "government",
+    "quote": "Department of Homeless Services (DHS) is requesting a one-year Negotiated Acquisition Extension (NAE) with Help Social Service Corporation to provide vital services for the agency's clients at the Supportive Employment Shelter, located at 111 Sunken Garden Loop (One Wards Island), New York, NY 10035.",
+    "notes": "Gender not stated in source."
+  },
+  {
+    "name": "Audubon Shelter",
+    "provider": "HELP Social Service Corporation (HELP USA)",
+    "address": "284-286 Audubon Avenue, New York, NY 10033",
+    "borough": "Manhattan",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "Audubon Womens Shelter",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20240716112",
+    "source_type": "government",
+    "quote": "Stand Alone Transitional Residence shelter services for homeless single adults at Audubon Shelter, 284-286 Audubon Avenue, New York, NY 10033.",
+    "notes": "GENDER CONFLICT: the DHS directory (2022) says \"Womens\", City Record 20240129109 (Feb 2024) says \"Audubon Mens Shelter\", and Manhattan Times reported a switch to 175 single women. Gender left blank; confirm with DHS."
+  },
+  {
+    "name": "Women's Mental Health Shelter at the Park Avenue Armory",
+    "provider": "Lenox Hill Neighborhood House",
+    "address": "643 Park Avenue, New York, NY 10065",
+    "borough": "Manhattan",
+    "phone": "212-218-0304",
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [
+      "woman"
+    ],
+    "min_age": 45,
+    "max_age": null,
+    "populations": [
+      "mental_health"
+    ],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "Park Avenue",
+    "source_url": "https://www.lenoxhill.org/wmhsparkavearmory",
+    "source_type": "operator",
+    "quote": "Park Avenue Armory, 643 Park Avenue, New York, NY 10065",
+    "notes": "Operator: serves \"homeless women age 45-and-over living with severe and persistent mental illness\"; \"We can only accept new clients who have been assigned to us by DHS.\""
+  },
+  {
+    "name": "52nd Street Women's Center",
+    "provider": "Care For the Homeless",
+    "address": "427-429 West 52nd Street, New York, NY 10019",
+    "borough": "Manhattan",
+    "phone": "(212) 366-4459",
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [
+      "woman"
+    ],
+    "min_age": null,
+    "max_age": null,
+    "populations": [
+      "mental_health",
+      "medical"
+    ],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "XXnd Street Womens Center",
+    "source_url": "https://cbmanhattan.cityofnewyork.us/cb4/resources/homeless-services/",
+    "source_type": "government",
+    "quote": "52nd Street Women’s Center 427 W.52nd Street New York, NY, 10019 (212) 366-4459 52nd Street Women’s Center contains 120-beds that will house mentally ill and medically frail women",
+    "notes": "Site address 427-429 West 52nd Street also confirmed in the DHS renewal notice IntenttoRenew_CarefortheHomeless.pdf."
+  },
+  {
+    "name": "Alexander Abraham Residence (WIN 51st Street Shelter)",
+    "provider": "Women in Need (WIN)",
+    "address": "341 West 51st Street, New York, NY 10019",
+    "borough": "Manhattan",
+    "phone": "(212) 582-8680",
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [
+      "woman"
+    ],
+    "min_age": null,
+    "max_age": null,
+    "populations": [
+      "mental_health",
+      "substance_use"
+    ],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "WIN West Women's Shelter",
+    "source_url": "https://cbmanhattan.cityofnewyork.us/cb4/resources/homeless-services/",
+    "source_type": "government",
+    "quote": "Alexander Abraham Residence 341 West 51st Street (212) 582-8680 The Alexander Abraham Residence provides shelter and support services for homeless women with mental health diagnoses and chemical dependencies",
+    "notes": "City Record 20240912007 (2024) confirms a WIN single-adult shelter at 341 West 51st Street, New York, NY 10019. The directory match is inferred (WIN, women, West 51st)."
+  },
+  {
+    "name": "Fane Shelter",
+    "provider": "Services for the UnderServed (SUS)",
+    "address": "205 West 135th Street, New York, NY 10030",
+    "borough": "Manhattan",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [
+      "woman"
+    ],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "Fane Women's Shelter",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260715019",
+    "source_type": "government",
+    "quote": "Shelter Facilities for Homeless Single Adults at Fane Shelter located at 205 West 135th Street, New York, NY 10030.",
+    "notes": "Gender from the DHS directory name."
+  },
+  {
+    "name": "The Spot Shelter (126th Street Shelter)",
+    "provider": "Services for the UnderServed (SUS)",
+    "address": "31-35 West 126th Street, New York, NY 10027",
+    "borough": "Manhattan",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "xxxth Street Shelter",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260728013",
+    "source_type": "government",
+    "quote": "Located at 31-35 West 126th Street, New York, NY 10027.",
+    "notes": "City Record 20210409008 names it \"The Spot – 126th Street Shelter\", which matches the masked directory name \"xxxth Street Shelter\" (SUS). Gender not stated."
+  },
+  {
+    "name": "Julio's Place",
+    "provider": "Acacia Network Housing",
+    "address": "102 West 128th Street, New York, NY 10027",
+    "borough": "Manhattan",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "Julio's Place",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20240621111",
+    "source_type": "government",
+    "quote": "of Homeless Services is requesting a one-year Negotiated Acquisition Extension (NAE) contract with ACACIA Network Housing Inc. This is NAE for provision of shelter services for 72 single adults at Julio's Place Shelter, located at 102 West 128th Street, New York, NY 10027 and Clarion Hotel at 429 Park Avenue South, New York, NY 10",
+    "notes": null
+  },
+  {
+    "name": "Harlem Men's Shelter",
+    "provider": "VIP Community Services (Vocational Instruction Project)",
+    "address": "170-174 East 123rd Street, New York, NY 10035",
+    "borough": "Manhattan",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [
+      "man"
+    ],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": null,
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260615031",
+    "source_type": "government",
+    "quote": "Located at 170-174 East 123rd Street, New York, NY 10035 (135 beds) and annex site at Hotel Omega, 27 Pennsylvania A",
+    "notes": "The site name comes from the DHS renewal notice Renewal-Intent_to_Award-07122P0004001R001.pdf (\"Site: Harlem's Men's Shelter, Annex Site: Hotel Omega\"). The City Record gives the address with the same Hotel Omega annex."
+  },
+  {
+    "name": "Samaritan Daytop Village shelter, 225 East 53rd Street",
+    "provider": "Samaritan Daytop Village",
+    "address": "225 East 53rd Street, New York, NY 10022",
+    "borough": "Manhattan",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": null,
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20231212032",
+    "source_type": "government",
+    "quote": "Services of the City of New York and Samaritan Daytop Village, Inc., located at 138-02 Queens Boulevard, Briarwood, NY 11435, for the provision of Shelter Facilities for Homeless Single Adults at 225 East 53rd Street, New York, NY 10022.",
+    "notes": "This may be the directory's masked \"xxrd Street Men's Shelter\" (Samaritan Daytop), but that match is not confirmed."
+  },
+  {
+    "name": "Harlem YMCA shelter site",
+    "provider": "Samaritan Daytop Village",
+    "address": "180 West 135th Street, New York, NY 10030",
+    "borough": "Manhattan",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": null,
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260225012",
+    "source_type": "government",
+    "quote": "to enter into a Negotiated Acquisition Extension (NAE) contract with Samaritan Daytop Village Inc. for the following shelter locations: Forbell Men Shelter 338 Forbell Street Brooklyn, NY 11208 Harlem YMCA 180 West 135th Street New York, NY 10030 Colonial (Jamaica) YMCA 87-70 &72 148th Street Jamaica NY 1",
+    "notes": "Listed as a shelter location under the Forbell Men's Shelter contract (FY27 extension). Gender not stated for this site."
+  },
+  {
+    "name": "Harlem Employment Shelter (Harlem I)",
+    "provider": "The Doe Fund",
+    "address": "2960 Frederick Douglass Blvd, New York, NY 10039",
+    "borough": "Manhattan",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [
+      "employment"
+    ],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "Harlem Shelter 1",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20230307102",
+    "source_type": "government",
+    "quote": "SHELTER FOR SINGLE ADULTS THE DOE FUND INC 345 E 102nd Street, Suite 305 New York, NY 10029 Site: Harlem Employment Shelter 2960 Frederick Douglass Blvd, New York, NY 10039 EPIN: 07119P8234KXLR001 Renewal Term: 7/1/2023'6/30/2027",
+    "notes": null
+  },
+  {
+    "name": "George Daly House",
+    "provider": "New York Foundation for Senior Citizens",
+    "address": "269 East 4th Street, New York, NY 10009",
+    "borough": "Manhattan",
+    "phone": "(212) 260-9825",
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [
+      "man",
+      "woman"
+    ],
+    "min_age": 45,
+    "max_age": null,
+    "populations": [
+      "seniors"
+    ],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "George Daly House Shelter",
+    "source_url": "https://www.nyfsc.org/housing-services/transitional-housing-and-services-for-the-homeless/",
+    "source_type": "operator",
+    "quote": "269 East 4th Street, New York, NY 10009",
+    "notes": "Operator: transitional housing for \"homeless men and women ages 45 and older\". The same site address is in the DHS renewal notice (George Daly, EPIN 07119P8235KXLR001)."
+  },
+  {
+    "name": "Jack Ryan Residence",
+    "provider": "Bowery Residents' Committee (BRC)",
+    "address": "127 West 25th Street, New York, NY 10001",
+    "borough": "Manhattan",
+    "phone": "212-803-5700",
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [
+      "man"
+    ],
+    "min_age": null,
+    "max_age": null,
+    "populations": [
+      "mental_health"
+    ],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "Jack Ryan Residence",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260805024",
+    "source_type": "government",
+    "quote": "Shelter services to homeless single adults at Jack Ryan Residence, 127 West 25th Street, New York, NY 11011.",
+    "notes": "The source prints ZIP \"11011\", a typo; 10001 is the ZIP for this block (City Record 20250909010). BRC website: \"Men with mental health service needs\", Chelsea, 200 beds."
+  },
+  {
+    "name": "BRC Reception Center Safe Haven",
+    "provider": "Bowery Residents' Committee (BRC)",
+    "address": "127 West 25th Street, New York, NY 10001",
+    "borough": "Manhattan",
+    "phone": "212-803-5700",
+    "facility_type": "Safe Haven",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "street outreach referral (Safe Haven)",
+    "dhs_directory_name": "BRC Reception",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20250909010",
+    "source_type": "government",
+    "quote": "DHS reserves the right to expand the referral source options, based upon DHS need and available capacity. Safe Haven services for single adults at 127 West 25th Street, New York, NY 10001.",
+    "notes": "The 96 units in this notice match BRC's website (\"Reception Center\", Chelsea, 96 beds, chronic homelessness). City Record 20240803113 gives 131 West 25th St (BRC HQ) for \"Reception Safe Haven\"; the building number is uncertain."
+  },
+  {
+    "name": "BRC Bowery Safe Haven",
+    "provider": "Bowery Residents' Committee (BRC)",
+    "address": "315 Bowery, New York, NY 10003",
+    "borough": "Manhattan",
+    "phone": "212-803-5700",
+    "facility_type": "Safe Haven",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "street outreach referral (Safe Haven)",
+    "dhs_directory_name": "BRC Bowery Safe Haven",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20230615117",
+    "source_type": "government",
+    "quote": "Renewal + 25% Miscellaneous Allowance for Chronic Homeless Single Adults at Bowery Safe Haven, 315 Bowery, New York, NY 10003",
+    "notes": "For chronically homeless single adults."
+  },
+  {
+    "name": "The Lex Safe Haven",
+    "provider": "Bowery Residents' Committee (BRC)",
+    "address": "566 West 182nd Street, New York, NY 10033",
+    "borough": "Manhattan",
+    "phone": "212-803-5700",
+    "facility_type": "Safe Haven",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "street outreach referral (Safe Haven)",
+    "dhs_directory_name": "The Lex Safe Haven",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20230526108",
+    "source_type": "government",
+    "quote": "The Lex Safe Haven AT 566 West 182nd Street, New York, NY 10033",
+    "notes": null
+  },
+  {
+    "name": "BRC Inwood Shelter (Inwood Women's Residence)",
+    "provider": "Bowery Residents' Committee (BRC)",
+    "address": "3966 10th Avenue, New York, NY 10034",
+    "borough": "Manhattan",
+    "phone": "212-803-5700",
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [
+      "woman"
+    ],
+    "min_age": null,
+    "max_age": null,
+    "populations": [
+      "mental_health"
+    ],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": null,
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20220201107",
+    "source_type": "government",
+    "quote": "Provision of Shelter Facilities for Homeless Single Adults at Inwood Mental Health Center at 3966 10th Ave, NY 10034",
+    "notes": "BRC website lists \"Inwood Women's Residence\" (Inwood, Manhattan; single adult women; 116 beds). City Record 20200924014 names BRC's \"Inwood Shelter\" at 3966 10th Avenue. Opened after the 2022 directory."
+  },
+  {
+    "name": "BRC Safe Haven, 21 East 115th Street",
+    "provider": "Bowery Residents' Committee (BRC)",
+    "address": "21 East 115th Street, New York, NY 10029",
+    "borough": "Manhattan",
+    "phone": null,
+    "facility_type": "Safe Haven",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "street outreach referral (Safe Haven)",
+    "dhs_directory_name": null,
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20231004015",
+    "source_type": "government",
+    "quote": "of the City of New York and Bowery Residents' Committee, Inc., located at 131 West 25th Street, 12th Floor, New York, NY 10001, for the provision of Safe Haven for Street Homeless clients at 21 East 115th Street, New York, NY 10029.",
+    "notes": "Contract term started May 2024. Not in the 2022 directory."
+  },
+  {
+    "name": "BRC single-adult shelter, 55 West 110th Street",
+    "provider": "Bowery Residents' Committee (BRC)",
+    "address": "55 West 110th Street, New York, NY 10026",
+    "borough": "Manhattan",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": null,
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20220527001",
+    "source_type": "government",
+    "quote": "of the City of New York and Bowery Residents' Committee, Inc., located at 131 West 25th Street, 12th Floor, New York, NY 10001, for the provision of Shelter Facilities for Homeless Single Adults at 55 West 110th Street, New York, NY 10026.",
+    "notes": "Probably BRC \"Parkview Residence\" (Central Harlem, men with mental health needs, per BRC website), but the notice does not name it, so no directory match was set."
+  },
+  {
+    "name": "The Andrews Safe Haven",
+    "provider": "Breaking Ground (Common Ground Management Corp.)",
+    "address": "197 Bowery, New York, NY 10002",
+    "borough": "Manhattan",
+    "phone": null,
+    "facility_type": "Safe Haven",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "street outreach referral (Safe Haven)",
+    "dhs_directory_name": "The Andrews Safe Haven",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20230728108",
+    "source_type": "government",
+    "quote": "Located at 197 Bowery, New York, NY 10002.",
+    "notes": "Breaking Ground: 146 Safe Haven units \"reserved for individuals served by Breaking Ground's Street to Home program and other outreach programs.\""
+  },
+  {
+    "name": "Seafarer's Safe Haven",
+    "provider": "Breaking Ground (Common Ground Management Corp.)",
+    "address": "123 East 15th Street, New York, NY 10003",
+    "borough": "Manhattan",
+    "phone": null,
+    "facility_type": "Safe Haven",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "street outreach referral (Safe Haven)",
+    "dhs_directory_name": null,
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260610041",
+    "source_type": "government",
+    "quote": "Safe Haven for Homeless Single Adults at 123 East 15th Street, New York, NY 10003.",
+    "notes": "The notice title reads \"FY27 Renewal - SA Seafarer's Safe Haven (100 beds)\". This may be the directory's \"Breaking Ground\" Safe Haven (100 beds), but the match is not confirmed."
+  },
+  {
+    "name": "Breaking Ground Safe Haven, 320 Pearl Street",
+    "provider": "Breaking Ground (Common Ground Management Corp.)",
+    "address": "320 Pearl Street, New York, NY 10038",
+    "borough": "Manhattan",
+    "phone": null,
+    "facility_type": "Safe Haven",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "street outreach referral (Safe Haven)",
+    "dhs_directory_name": null,
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20250305005",
+    "source_type": "government",
+    "quote": "Safe Haven for street homeless clients at 320 Pearl Street, New York, NY 10038 Round 12 (106 beds)",
+    "notes": "106 beds. Not in the 2022 directory."
+  },
+  {
+    "name": "Traveler's Safe Haven",
+    "provider": "Urban Pathways",
+    "address": "274 West 40th Street, New York, NY 10018",
+    "borough": "Manhattan",
+    "phone": null,
+    "facility_type": "Safe Haven",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "street outreach referral (Safe Haven)",
+    "dhs_directory_name": "Traveler's Safe Haven",
+    "source_url": "https://www.nyc.gov/assets/dhs/downloads/pdf/IntenttoRenew_DHS-2-2-23.pdf",
+    "source_type": "government",
+    "quote": "Site: Traveler’s Safe Haven 274 West 40th Street New York, NY 10018",
+    "notes": "The Urban Pathways website lists the same address (\"Travelers Safe Haven (+Annex)\")."
+  },
+  {
+    "name": "105th Street Safe Haven",
+    "provider": "Urban Pathways",
+    "address": "54 West 105th Street, New York, NY 10025",
+    "borough": "Manhattan",
+    "phone": null,
+    "facility_type": "Safe Haven",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "street outreach referral (Safe Haven)",
+    "dhs_directory_name": null,
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260814008",
+    "source_type": "government",
+    "quote": "Department Homeless Services (DHS) intends to enter into a Negotiated Acquisition Extension (NAE) contract with Urban Pathways, Inc. for the 105th Street Safe Haven located at 54 West 105th Street, New York, NY 10025.",
+    "notes": "The Urban Pathways website lists the same address. This may be the directory's \"XX Street Safe Haven\" (Urban Pathways, 33 beds), but the match is not confirmed."
+  },
+  {
+    "name": "Catherine Street Shelter (Two Bridges)",
+    "provider": "Institute for Community Living (ICL)",
+    "address": "78 Catherine Street, New York, NY 10038",
+    "borough": "Manhattan",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "Two Bridges",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20250611025",
+    "source_type": "government",
+    "quote": "FY26 Renewal - Provision of shelter services to homeless single adults at Catherine Street LIFE General Shelter, 78 Catherine Street, New York, NY 10038.",
+    "notes": "City Record 20240618120 also lists \"Two Bridges, Catherine Street Mental Health Shelter, 78 Catherine Street\" (100 beds), so the building may hold both a general program and a mental-health program."
+  },
+  {
+    "name": "Third Street Women's Residence",
+    "provider": "Henry Street Settlement",
+    "address": "282 East 3rd Street, New York, NY 10009",
+    "borough": "Manhattan",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [
+      "woman"
+    ],
+    "min_age": null,
+    "max_age": null,
+    "populations": [
+      "mental_health"
+    ],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "xxx EAST xRD STREET",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20220419110",
+    "source_type": "government",
+    "quote": "To provide Mental Health Shelter Services for Homeless Single Adults at Third Street Women's Residence 282 East 3rd Street, New York, NY 10009.",
+    "notes": "Directory name is masked; matched on provider + street (Henry Street, East 3rd)."
+  },
+  {
+    "name": "HELP single-adult shelter, 23 West 106th Street",
+    "provider": "HELP Social Service Corporation (HELP USA)",
+    "address": "23 West 106th Street, New York, NY 10025",
+    "borough": "Manhattan",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": null,
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20250528014",
+    "source_type": "government",
+    "quote": "Shelter Facilities for Homeless Single Adults, at 23 West 106th Street, New York, NY 10025 The Department of Homeless Services works to prevent homele",
+    "notes": "135 units. Not in the 2022 directory."
+  },
+  {
+    "name": "160 West 74th Street Shelter",
+    "provider": "Volunteers of America-Greater New York",
+    "address": "160 West 74th Street, New York, NY 10023",
+    "borough": "Manhattan",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": null,
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20250616020",
+    "source_type": "government",
+    "quote": "Shelter for Homeless Single Adults, 160 West 74th Street Shelter, 160 West 74th Street, New York, NY 10023.",
+    "notes": "Not in the 2022 directory."
+  },
+  {
+    "name": "Weston House",
+    "provider": "Weston United Community Renewal",
+    "address": "2262 Adam Clayton Powell Boulevard, New York, NY 10030",
+    "borough": "Manhattan",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [
+      "mental_health"
+    ],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "Weston TLC",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20220603106",
+    "source_type": "government",
+    "quote": "To provide Mental Health Shelter Services for Homeless Single Adults at Weston House 2262 Adam Clayton Powell Boulevard, New York,NY 10030.",
+    "notes": "Directory match inferred (only Weston United site). The source prints \"New York,NY\"."
+  },
+  {
+    "name": "The Fortune Academy (Riverside Drive Shelter)",
+    "provider": "The Fortune Society",
+    "address": "630 Riverside Drive, New York, NY 10031",
+    "borough": "Manhattan",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [
+      "reentry"
+    ],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "The Fortune Academy",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20241126004",
+    "source_type": "government",
+    "quote": "THE FORTUNE SOCIETY INC 29-76 Northern Blvd Long Island City, NY 11101-2822 EPIN: 07121P0114001R001 To provide Transitional Shelter Services for Single Adults at Riverside Drive Shelter 630 Riverside Drive, New York, NY 10031.",
+    "notes": "Fortune Society: the \"Castle\" houses \"people returning from incarceration\". Referral path is not stated; DHS-contracted."
+  },
+  {
+    "name": "The Plaza",
+    "provider": "Lantern Community Services",
+    "address": "555 West 174th Street, New York, NY 10033",
+    "borough": "Manhattan",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [
+      "woman"
+    ],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "xxxth St Plaza Women's Shelter",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20200423103",
+    "source_type": "government",
+    "quote": "Lantern Community The Plaza 07119I0001017 $35,806,322.00 Services, Inc. 555 West 174th Street 494 Eighth Ave., 20th Fl. New York, NY 10033",
+    "notes": "The quote is a table row as rendered in the City Record: 555 West 174th Street, New York, NY 10033 is the site and 494 Eighth Ave. is the contractor. Gender from the DHS directory name. Source is from 2020."
+  },
+  {
+    "name": "Canal Rapid Re-Housing Center",
+    "provider": "Westhab",
+    "address": "349 Canal Street, New York, NY 10013",
+    "borough": "Manhattan",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": null,
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20210609024",
+    "source_type": "government",
+    "quote": "Westhab, Inc. Canal Rapid 2 21PHEDA03301 $62,182,839.00 8 Bashford Street Re-Housing Center Yonkers, NY 10701 349 Canal Street New York, NY 10013",
+    "notes": "Table row: the site is 349 Canal Street and the contractor is in Yonkers. Contract March 2022 to June 2027. Not in the 2022 directory."
+  },
+  {
+    "name": "Manhattan Welcome Center",
+    "provider": "Bronx Parent Housing Network",
+    "address": "419 East 91st Street, New York, NY 10128",
+    "borough": "Manhattan",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": null,
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20251008009",
+    "source_type": "government",
+    "quote": "Manhattan Welcome Center located at 419 East 91st Street, New York, NY 10128.",
+    "notes": "88 beds for single adults (notice title). An earlier contract for this site (2021) was with Goddard Riverside as a Safe Haven."
+  },
+  {
+    "name": "Valley Lodge Shelter",
+    "provider": "West Side Federation for Senior and Supportive Housing (WSFSSH)",
+    "address": "149 West 108th Street, New York, NY 10025",
+    "borough": "Manhattan",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [
+      "seniors"
+    ],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "Valley Lodge",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20180202103",
+    "source_type": "government",
+    "quote": "West Side Federation Valley Lodge Shelter 07110P0002198 $148,889,966.50 For Senior and Supportive 149 West 108th Street Housing, Inc. New York, NY 10025",
+    "notes": "Table row from 2018. HPD (2022) says the redeveloped Valley Lodge \"provides 110 beds for homeless older adults\" on \"this same block of West 108th Street\". The street number is from 2018 and should be confirmed. WSFSSH's own page shows its HQ, 2345 Broadway."
+  },
+  {
+    "name": "Icahn House East",
+    "provider": "Children's Rescue Fund (CRF-House East, LLC)",
+    "address": "4 East 28th Street, New York, NY 10016",
+    "borough": "Manhattan",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment (families apply at PATH, Bronx)",
+    "dhs_directory_name": "CHILDNS RESCUE FUND HOUSE EAST",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20211123113",
+    "source_type": "government",
+    "quote": "The site has a total of 199 units, and it is located at the following address: 4 East 28 Street, New York, NY 10016 (Grp 40).",
+    "notes": "City Record 20260730013 (2026) confirms \"Located at 4 East 28th Street, New York, NY 10016\"."
+  },
+  {
+    "name": "Urban Family Center",
+    "provider": "Henry Street Settlement",
+    "address": "130 Baruch Place, New York, NY 10002",
+    "borough": "Manhattan",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment (families apply at PATH, Bronx)",
+    "dhs_directory_name": "URBAN FAMILY CENTER",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20230612117",
+    "source_type": "government",
+    "quote": "Renewal and Allowance for FY 27 of Urban Family Center at 130 Baruch Place, New York, NY 10002 with services to be provided to 82 Families with Children.",
+    "notes": null
+  },
+  {
+    "name": "Helen's House",
+    "provider": "Henry Street Settlement",
+    "address": "309 Henry Street, New York, NY 10002",
+    "borough": "Manhattan",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment (families apply at PATH, Bronx)",
+    "dhs_directory_name": "HELEN HOUSE",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20180503111",
+    "source_type": "government",
+    "quote": "Henry Street Settlement Helen’s House 07110P0002221 $3,994,276.00 265 Henry Street 309 Henry Street New York, NY 10002",
+    "notes": "Table row from 2018: the site is 309 Henry Street and 265 Henry Street is the contractor HQ."
+  },
+  {
+    "name": "Huntington House",
+    "provider": "Women's Prison Association",
+    "address": "347 East 10th Street, New York, NY 10009",
+    "borough": "Manhattan",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment (families apply at PATH, Bronx)",
+    "dhs_directory_name": "HUNTINGTON HOUSE",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20220509023",
+    "source_type": "government",
+    "quote": "Services of the City of New York and Women's Prison Association & Home, Inc., located at 110 Second Avenue, New York, NY 10003, for the provision of Shelter Facilities for Families with Children at 347 East 10th Street, New York, NY 10009.",
+    "notes": "An earlier City Record notice (20210802024) prints ZIP 10003 for the same address."
+  },
+  {
+    "name": "Jennie Clarke Residence",
+    "provider": "Women in Need (WIN)",
+    "address": "179, 183, 187, 189 and 191 East 100th Street, New York, NY 10029",
+    "borough": "Manhattan",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment (families apply at PATH, Bronx)",
+    "dhs_directory_name": "JENNIE A CLARKE RES",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20220617112",
+    "source_type": "government",
+    "quote": "Provision of Homeless Shelter (Tier II) Services for Families with Children at Jennie Clarke Residence, 179, 183, 187, 189, and 191 E. 100th St, NY, NY 10029",
+    "notes": null
+  },
+  {
+    "name": "WIN family shelter, 325 East 104th Street",
+    "provider": "Women in Need (WIN)",
+    "address": "325 East 104th Street, New York, NY 10029",
+    "borough": "Manhattan",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment (families apply at PATH, Bronx)",
+    "dhs_directory_name": null,
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20220509024",
+    "source_type": "government",
+    "quote": "of the City of New York and Women in Need, Inc., located at One State Street Plaza, 18th Floor, New York, NY 10004, for the provision of shelter facilities for homeless families with children at 325 East 104th Street, New York, NY 10029.",
+    "notes": "Directory name not identified; may be one of the WIN family residences in the directory (e.g. \"EAST RIVER - WIN\")."
+  },
+  {
+    "name": "Regent Family Residence",
+    "provider": "Volunteers of America-Greater New York",
+    "address": "2720 Broadway, New York, NY 10025",
+    "borough": "Manhattan",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment (families apply at PATH, Bronx)",
+    "dhs_directory_name": "REGENT FAMILY RESID",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20220718003",
+    "source_type": "government",
+    "quote": "York and Volunteers of America Greater New York,Inc., located at 135 West 50th Street, 9th Floor, New York, NY 10020, for the provision of Shelter Facilities for Homeless Families with Children at Regent Family Residence, 2720 Broadway, New York, NY 10025.",
+    "notes": null
+  },
+  {
+    "name": "Clinton Family Residence",
+    "provider": "Homes for the Homeless",
+    "address": "519 West 49th Street, New York, NY 10019",
+    "borough": "Manhattan",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment (families apply at PATH, Bronx)",
+    "dhs_directory_name": "CLINTON FAMILY RESIDENCE",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20220627012",
+    "source_type": "government",
+    "quote": "of the City of New York and Homes for the Homeless, Inc., located at 36 Cooper Square, 3rd Floor, New York, NY 10003, for the provision of Shelter Facilities for Homeless Families with Children at 519 West 49th Street, New York, NY 10019.",
+    "notes": "The notice gives the address but not the site name; the directory match is inferred (HFH, Clinton/Hell's Kitchen)."
+  },
+  {
+    "name": "New Broadway Residence",
+    "provider": "Harlem United",
+    "address": "11 & 17-19 Old Broadway, New York, NY 10027",
+    "borough": "Manhattan",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment (families apply at PATH, Bronx)",
+    "dhs_directory_name": "New Broadway Residence",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20220411115",
+    "source_type": "government",
+    "quote": "To provide a Stand Alone Transitional Residence for Families with Children, 11 & 17-19 Old Broadway, New York, NY 10027.",
+    "notes": "Directory match inferred (Harlem United family shelter on Old Broadway)."
+  },
+  {
+    "name": "Adam's House I",
+    "provider": "Urban Resource Institute",
+    "address": "2250 Adam Clayton Powell Jr. Boulevard, New York, NY 10027",
+    "borough": "Manhattan",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment (families apply at PATH, Bronx)",
+    "dhs_directory_name": "ADAM'S HOUSE I",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20230713132",
+    "source_type": "government",
+    "quote": "Renewal + 25% Miscellaneous Allowance for Homeless Families at ADAM'S HOUSE; ADAM'S HOUSE I - 2250 ADAM CLAYTON POWELL JR. BOULEVARD, NEW YORK, NY 10027 AND ADAM'S HOUSE II - 2332 ADAM CLAYTON POWELL JR.",
+    "notes": null
+  },
+  {
+    "name": "Adam's House II",
+    "provider": "Urban Resource Institute",
+    "address": "2332 Adam Clayton Powell Jr. Boulevard, New York, NY 10030",
+    "borough": "Manhattan",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment (families apply at PATH, Bronx)",
+    "dhs_directory_name": "ADAM'S HOUSE II",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20230713132",
+    "source_type": "government",
+    "quote": "BOULEVARD, NEW YORK, NY 10027 AND ADAM'S HOUSE II - 2332 ADAM CLAYTON POWELL JR. BOULEVARD, NEW YORK, NY 10030",
+    "notes": null
+  },
+  {
+    "name": "URI Harlem Family Residence",
+    "provider": "Urban Resource Institute",
+    "address": "151-153 West 133rd Street, New York, NY 10030",
+    "borough": "Manhattan",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment (families apply at PATH, Bronx)",
+    "dhs_directory_name": "URI HARLEM FAMILY RESIDENCE",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20210318101",
+    "source_type": "government",
+    "quote": "URBAN RESOURCE INSTITUTE 75 Broad Street, 5th Floor New York, NY 10004 E-PIN: 07118P8325KXLR001 Site: Harlem Residence 151 - 153 West 133rd Street New York, NY 10030 Renewal Term: 7/1/2021 - 6/30/2025",
+    "notes": "A 2022 notice (20220107109) prints ZIP 10004, a typo; 10030 is correct for this block."
+  },
+  {
+    "name": "Hamilton Family Residence",
+    "provider": "HELP Social Service Corporation (HELP USA)",
+    "address": "30 Hamilton Place, New York, NY 10031",
+    "borough": "Manhattan",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment (families apply at PATH, Bronx)",
+    "dhs_directory_name": "HAMILTON FAMILY RESIDENCE",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20240724115",
+    "source_type": "government",
+    "quote": "Renewal + Allowance - Stand Alone Transitional Residence for Homeless Families with Children at Hamilton located at 30 Hamilton Place, NY 10031",
+    "notes": null
+  },
+  {
+    "name": "West End Intergenerational Residence",
+    "provider": "West End Residence, HDFC",
+    "address": "483 West End Avenue, New York, NY",
+    "borough": "Manhattan",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment (families apply at PATH, Bronx)",
+    "dhs_directory_name": "WEST END INTRGENRATL",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20220701119",
+    "source_type": "government",
+    "quote": "Located at 483 West End Avenue, New York, NY.",
+    "notes": "The notice has no ZIP and no site name; the directory match is inferred from \"West End\"."
+  },
+  {
+    "name": "Samuel Proctor Residence",
+    "provider": "South Bronx Overall Economic Development Corp. (SoBRO)",
+    "address": "139-43 West 138th Street, New York, NY 10030",
+    "borough": "Manhattan",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment (families apply at PATH, Bronx)",
+    "dhs_directory_name": "SAMUEL PROCTOR RES",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20180503111",
+    "source_type": "government",
+    "quote": "South Bronx Overall Samuel Proctor Residence 07110P0002218 $8,162,237.00 Economic Development 139-43 West 138th Street Corporation New York, NY 10030",
+    "notes": "Table row from 2018."
+  },
+  {
+    "name": "West Harlem Residence",
+    "provider": "West Harlem Group Assistance",
+    "address": "138 West 143rd Street, New York, NY 10030",
+    "borough": "Manhattan",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment (families apply at PATH, Bronx)",
+    "dhs_directory_name": "WEST HARLEM RESIDENCE",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20210326007",
+    "source_type": "government",
+    "quote": "West Harlem Group West Harlem Residence 07119I0003025 $111,223,482.00 Assistance, Inc. 138 West 143rd Street 1652 Amsterdam Ave. New York, NY 10030",
+    "notes": "Table row: the site column is 138 West 143rd Street, New York, NY 10030 and 1652 Amsterdam Ave. (10031) is the contractor."
+  },
+  {
+    "name": "41st Street Residence",
+    "provider": "Westhab",
+    "address": "440 West 41st Street, New York, NY",
+    "borough": "Manhattan",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment (families apply at PATH, Bronx)",
+    "dhs_directory_name": null,
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20210122009",
+    "source_type": "government",
+    "quote": "Westhab, Inc. 41st Street Residence 07119I0003042 $91,455,882.00 8 Bashford Street. 440 West 41st Street Yonkers, NY 10701 New York, NY 1003",
+    "notes": "Table row: the site is 440 West 41st Street, New York, NY 10036 (City Record detail page). Contract Oct 2021 to June 2030."
+  },
+  {
+    "name": "Midway Living family shelter, 130 East 39th Street",
+    "provider": "Midway Living",
+    "address": "130 East 39th Street, New York, NY 10016",
+    "borough": "Manhattan",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment (families apply at PATH, Bronx)",
+    "dhs_directory_name": null,
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20230407006",
+    "source_type": "government",
+    "quote": "of Homeless Services of the City of New York and Midway Living, Inc., located at 1028 Dahill Road, Brooklyn, NY 11204, for the Provision of Shelter Services for Homeless Families with Children at 130 East 39th Street, New York, NY 10016.",
+    "notes": "Contract July 2023 to June 2028."
+  },
+  {
+    "name": "PHI Riverside Adult Family Shelter",
+    "provider": "Praxis Housing Initiatives",
+    "address": "306 West 94th Street, New York, NY 10025",
+    "borough": "Manhattan",
+    "phone": null,
+    "facility_type": "Adult Family Shelter",
+    "household": [
+      "adult_family"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment (adult families apply at AFIC, Bronx)",
+    "dhs_directory_name": "PHI RIVERSIDE",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20230323109",
+    "source_type": "government",
+    "quote": "SHELTER FOR HOMELESS ADULT FAMILIES Praxis Housing Initiatives, Inc. 130 West 29th Street 7th Floor New York, NY 10001 Site: PHI Riverside Adult Family Shelter 306 West 94th Street, New York, NY 10025 EPIN: 07119P8255KXLR001 Renewal Term: 7/1/2023'6/30/2027",
+    "notes": null
+  },
+  {
+    "name": "SUS adult-family residence, 12-18 East 31st Street",
+    "provider": "SUS-Urgent Housing Programs",
+    "address": "12-18 East 31st Street, New York, NY 10016",
+    "borough": "Manhattan",
+    "phone": null,
+    "facility_type": "Adult Family Shelter",
+    "household": [
+      "adult_family"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment (adult families apply at AFIC, Bronx)",
+    "dhs_directory_name": null,
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20220606119",
+    "source_type": "government",
+    "quote": "To provide a Stand Alone Transitional Residences for Adult Families, 12-18 East 31st Street, New York, NY 10016.",
+    "notes": "This may be the directory's \"HARMONIA RESIDENCE\" (SUS adult families), but the match is not confirmed."
+  },
+  {
+    "name": "Hylan Boulevard Shelter",
+    "provider": "Institute for Community Living (ICL)",
+    "address": "1055 Hylan Boulevard, Staten Island, NY 10305",
+    "borough": "Staten Island",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": null,
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260608039",
+    "source_type": "government",
+    "quote": "Shelter Facilities for Homeless Single Adult at Hylan Boulevard Shelter, located at 1055 Hylan Boulevard, Staten Island, NY 10305.",
+    "notes": "50 beds (FY27 renewal)."
+  },
+  {
+    "name": "Gannon Emergency Shelter",
+    "provider": "Project Redirect",
+    "address": "535 North Gannon Avenue, Staten Island, NY 10314",
+    "borough": "Staten Island",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": null,
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20250505016",
+    "source_type": "government",
+    "quote": "Emergency shelter services at Gannon Emergency Shelter located at 535 North Gannon Avenue, Staten Island, NY, 10314 -125 beds.",
+    "notes": "125 beds. The notice title says it is for single adults (\"SA\")."
+  },
+  {
+    "name": "Tompkins Avenue Shelter",
+    "provider": "Samaritan Daytop Village",
+    "address": "119 Tompkins Avenue, Staten Island, NY 10304",
+    "borough": "Staten Island",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": null,
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20221006108",
+    "source_type": "government",
+    "quote": "At Tompkins Avenue Shelter: 119 Tompkins Avenue, Staten Island, NY 10304.",
+    "notes": "Notice title: \"Shelter Facilities for Hmls Single Adults\". Contract through June 2027 (with a renewal option to 2030)."
+  },
+  {
+    "name": "Victory Family Residence",
+    "provider": "Women in Need (WIN)",
+    "address": "44 Victory Blvd, Staten Island, NY 10301",
+    "borough": "Staten Island",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment (families apply at PATH, Bronx)",
+    "dhs_directory_name": null,
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20200520107",
+    "source_type": "government",
+    "quote": "Women in Need, Inc. Victory Family Residence 07110P0002219 $124,005,770.00 One State Street Plaza, 44 Victory Blvd. 18th Floor Staten Island, NY 10301",
+    "notes": "Table row from 2020: the site is 44 Victory Blvd., Staten Island, NY 10301. Contract to June 2029."
+  },
+  {
+    "name": "Project Hospitality adult shelter, 150 Richmond Terrace",
+    "provider": "Project Hospitality",
+    "address": "150 Richmond Terrace, Staten Island, NY 10301",
+    "borough": "Staten Island",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": null,
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20230131109",
+    "source_type": "government",
+    "quote": "EPIN 07120P8201KXLR001.To provide Shelter Services for Homeless Adults, 150 Richmond Terrace, Staten Island, NY 10301.",
+    "notes": "The same building houses Project Hospitality's 24/7 drop-in center for adults 21+ (entrance off Stuyvesant Place), which is excluded here as a drop-in. The DHS contract name is not given; it may be Carpenter House Safe Haven, but that is unconfirmed."
+  },
+  {
+    "name": "The Bowery Mission – Tribeca Campus (overnight shelter)",
+    "provider": "The Bowery Mission",
+    "address": "90 Lafayette St, New York, NY",
+    "borough": "Manhattan",
+    "phone": "(212) 226-6214",
+    "facility_type": "Walk-in Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [
+      "man",
+      "woman"
+    ],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "walk-in",
+    "dhs_directory_name": null,
+    "source_url": "https://www.bowery.org/get-help/",
+    "source_type": "operator",
+    "quote": "Safe overnight shelter is offered 7 days a week, 365 days a year at our Tribeca Campus (90 Lafayette St).",
+    "notes": "\"Intake takes place daily at 3 p.m. for women and 4 p.m. for men.\" \"Guests may stay overnight for up to 7 days.\" Faith-based, not DHS. ZIP not given on the source page."
+  },
+  {
+    "name": "Covenant House New York (crisis shelter)",
+    "provider": "Covenant House New York",
+    "address": "460 West 41st Street, New York, NY",
+    "borough": "Manhattan",
+    "phone": "212-613-0300",
+    "facility_type": "Youth Shelter",
+    "household": [
+      "youth_alone",
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": 16,
+    "max_age": 24,
+    "populations": [
+      "lgbtq"
+    ],
+    "access": "walk-in",
+    "dhs_directory_name": null,
+    "source_url": "https://www.covenanthouse.org/homeless-shelters/new-york",
+    "source_type": "operator",
+    "quote": "460 West 41 Street New York, NY",
+    "notes": "Operator: \"Young people ages 16-24\"; \"You do not need an appointment or referral to get services\"; open 24/7. Also serves pregnant or parenting youth (Mother and Child program)."
+  },
+  {
+    "name": "Sylvia's Place (MCCNY Homeless Youth Services)",
+    "provider": "Metropolitan Community Church of New York (MCCNY Charities)",
+    "address": "446 W. 36th St., New York, NY 10018",
+    "borough": "Manhattan",
+    "phone": "(212) 629-7440",
+    "facility_type": "Youth Shelter",
+    "household": [
+      "youth_alone"
+    ],
+    "gender": [],
+    "min_age": 18,
+    "max_age": 24,
+    "populations": [
+      "lgbtq",
+      "hiv"
+    ],
+    "access": "walk-in",
+    "dhs_directory_name": null,
+    "source_url": "https://mccny.org/charities/shelter.html",
+    "source_type": "operator",
+    "quote": "446 W. 36th St., New York NY 10018",
+    "notes": "Operator: \"one of the only shelters in the city that accepts youth directly off the street, without a referral\"; stays of up to 90 days; for 18-24-year-old LGBTQI+ runaway and homeless youth. The address block on the page is headed \"Q Clinic\" (same church building)."
+  },
+  {
+    "name": "Trinity Place Shelter",
+    "provider": "Trinity Place Shelter (Trinity Lutheran Church)",
+    "address": "164 West 100th Street, New York, New York 10025",
+    "borough": "Manhattan",
+    "phone": "646-580-7045",
+    "facility_type": "Youth Shelter",
+    "household": [
+      "youth_alone"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [
+      "lgbtq"
+    ],
+    "access": "call",
+    "dhs_directory_name": null,
+    "source_url": "https://www.trinityplaceshelter.org/",
+    "source_type": "operator",
+    "quote": "164 West 100th Street, New York, New York 10025",
+    "notes": "Operator: for \"LGBTQ* youth and young adults experiencing homelessness\". The age range is not on the operator homepage (third-party sources say 18-24). A small transitional shelter; call first."
+  }
+]

@@ -1,0 +1,2005 @@
+{
+"1 Hoyt Street, Brooklyn, NY 11201": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "1 HOYT STREET, Brooklyn, NY, USA",
+"lat": 40.690265,
+"lng": -73.984985
+},
+"1 Kenilworth Place, Brooklyn, NY 11210": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "1 KENILWORTH PLACE, Brooklyn, NY, USA",
+"lat": 40.635744,
+"lng": -73.951743
+},
+"1-25 Junius Street, Brooklyn, NY 11212": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "1 JUNIUS STREET, Brooklyn, NY, USA",
+"lat": 40.674826,
+"lng": -73.904011
+},
+"100-33 Ditmars Boulevard, East Elmhurst, NY 11369, Queens": {
+"borough": "Queens",
+"confidence": 0.8,
+"label": "100-33 DITMARS BOULEVARD, East Elmhurst, NY, USA",
+"lat": 40.770136,
+"lng": -73.869312
+},
+"1000 Blake Avenue, Brooklyn, NY 11208": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "1000 BLAKE AVENUE, Brooklyn, NY, USA",
+"lat": 40.669717,
+"lng": -73.881326
+},
+"102 West 128th Street, New York, NY 10027, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "102 WEST 128 STREET, New York, NY, USA",
+"lat": 40.809755,
+"lng": -73.944687
+},
+"102-10 Ditmars Boulevard, East Elmhurst, NY 11369, Queens": {
+"borough": "Queens",
+"confidence": 0.8,
+"label": "102-10 DITMARS BOULEVARD, East Elmhurst, NY, USA",
+"lat": 40.768245,
+"lng": -73.868177
+},
+"1032 Intervale Avenue, Bronx, NY 10459": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "1032 INTERVALE AVENUE, Bronx, NY, USA",
+"lat": 40.82418,
+"lng": -73.89651
+},
+"1040 East New York Avenue, Brooklyn, NY 11212": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "1040 EAST NEW YORK AVENUE, Brooklyn, NY, USA",
+"lat": 40.664682,
+"lng": -73.927726
+},
+"1055 Hylan Boulevard, Staten Island, NY 10305": {
+"borough": "Staten Island",
+"confidence": 0.8,
+"label": "1055 HYLAN BOULEVARD, Staten Island, NY, USA",
+"lat": 40.598688,
+"lng": -74.077817
+},
+"1056 Boynton Avenue, Bronx, NY 10472": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "1056 BOYNTON AVENUE, Bronx, NY, USA",
+"lat": 40.825901,
+"lng": -73.877322
+},
+"1075 Hall Place, Bronx, NY 10459": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "1075 HALL PLACE, Bronx, NY, USA",
+"lat": 40.825576,
+"lng": -73.897732
+},
+"108 St. Edwards Street, Brooklyn, NY 11205": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "108 ST EDWARD'S STREET, Brooklyn, NY, USA",
+"lat": 40.69407,
+"lng": -73.97824
+},
+"108-75 Avenue D, Brooklyn, NY 11236": null,
+"1090 Myrtle Avenue, Brooklyn, NY 11206": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "1090 MYRTLE AVENUE, Brooklyn, NY, USA",
+"lat": 40.696573,
+"lng": -73.937026
+},
+"11 & 17-19 Old Broadway, New York, NY 10027, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "17 OLD BROADWAY, New York, NY, USA",
+"lat": 40.815363,
+"lng": -73.95702
+},
+"1101 Manor Avenue, Bronx, NY 10472": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "1101 MANOR AVENUE, Bronx, NY, USA",
+"lat": 40.82661,
+"lng": -73.876117
+},
+"111 Sunken Garden Loop, New York, NY 10035, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "111 SUNKEN GARDEN LOOP, New York, NY, USA",
+"lat": 40.786065,
+"lng": -73.932483
+},
+"112-18 Astoria Boulevard, Flushing, NY 11369, Queens": {
+"borough": "Queens",
+"confidence": 0.8,
+"label": "112-18 ASTORIA BOULEVARD, East Elmhurst, NY, USA",
+"lat": 40.75924,
+"lng": -73.85746
+},
+"1122 Franklin Avenue, Bronx, NY": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "1122 FRANKLIN AVENUE, Bronx, NY, USA",
+"lat": 40.82817,
+"lng": -73.905288
+},
+"1138 Teller Avenue, Bronx, NY 10456": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "1138 TELLER AVENUE, Bronx, NY, USA",
+"lat": 40.830503,
+"lng": -73.912406
+},
+"114 Snediker Avenue, Brooklyn, NY": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "114 SNEDIKER AVENUE, Brooklyn, NY, USA",
+"lat": 40.67259,
+"lng": -73.90231
+},
+"1144 Evergreen Avenue, Bronx, NY 10472": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "1144 EVERGREEN AVENUE, Bronx, NY, USA",
+"lat": 40.827053,
+"lng": -73.880434
+},
+"115 Henwood Place, Bronx, NY 10453": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "115 HENWOOD PLACE, Bronx, NY, USA",
+"lat": 40.847605,
+"lng": -73.909437
+},
+"119 Tompkins Avenue, Staten Island, NY 10304": {
+"borough": "Staten Island",
+"confidence": 0.8,
+"label": "119 TOMPKINS AVENUE, Staten Island, NY, USA",
+"lat": 40.621431,
+"lng": -74.077449
+},
+"1190 Washington Avenue, Bronx, NY 10456": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "1190 WASHINGTON AVENUE, Bronx, NY, USA",
+"lat": 40.830621,
+"lng": -73.907001
+},
+"12-18 East 31st Street, New York, NY 10016, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "18 EAST 31 STREET, New York, NY, USA",
+"lat": 40.745964,
+"lng": -73.985075
+},
+"12-60 Brunswick Avenue, Queens, NY 11691": {
+"borough": "Queens",
+"confidence": 0.8,
+"label": "12-60 BRUNSWICK AVENUE, Far Rockaway, NY, USA",
+"lat": 40.60934,
+"lng": -73.74967
+},
+"121 Hell Gate Circle, New York, NY 10035, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "121 HELL GATE CIRCLE, New York, NY, USA",
+"lat": 40.786119,
+"lng": -73.928517
+},
+"1214-1218 Hoe Avenue, Bronx, NY 10459": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "1218 HOE AVENUE, Bronx, NY, USA",
+"lat": 40.82948,
+"lng": -73.89066
+},
+"1226 Flushing Avenue, Brooklyn, NY 11237": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "1226 FLUSHING AVENUE, Brooklyn, NY, USA",
+"lat": 40.707556,
+"lng": -73.923629
+},
+"123 East 15th Street, New York, NY 10003, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "123 EAST 15 STREET, New York, NY, USA",
+"lat": 40.734679,
+"lng": -73.987947
+},
+"1245 Broadway, Brooklyn, NY 11221": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "1245 B'WAY, Brooklyn, NY, USA",
+"lat": 40.691584,
+"lng": -73.925149
+},
+"1260 Sedgwick Avenue, Bronx, NY 10452": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "1260 SEDGWICK AVENUE, Bronx, NY, USA",
+"lat": 40.839716,
+"lng": -73.928178
+},
+"127 West 25th Street, New York, NY 10001, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "127 WEST 25 STREET, New York, NY, USA",
+"lat": 40.744923,
+"lng": -73.993042
+},
+"127-03 20th Avenue, College Point, NY 11356, Queens": {
+"borough": "Queens",
+"confidence": 0.8,
+"label": "127-03 20 AVENUE, College Point, NY, USA",
+"lat": 40.78193,
+"lng": -73.841215
+},
+"1270 Pacific Street, Brooklyn, NY 11216": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "1270 PACIFIC STREET, Brooklyn, NY, USA",
+"lat": 40.677381,
+"lng": -73.949091
+},
+"130 Baruch Place, New York, NY 10002, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "130 BARUCH PLACE, New York, NY, USA",
+"lat": 40.718434,
+"lng": -73.976421
+},
+"130 East 39th Street, New York, NY 10016, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "130 EAST 39 STREET, New York, NY, USA",
+"lat": 40.749427,
+"lng": -73.977808
+},
+"132-10 South Conduit Avenue, Jamaica, NY 11430, Queens": {
+"borough": "Queens",
+"confidence": 0.8,
+"label": "132-10 SOUTH CONDUIT AVENUE, South Ozone Park, NY, USA",
+"lat": 40.665864,
+"lng": -73.8073
+},
+"1322 Bedford Avenue, Brooklyn, NY 11216": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "1322 BEDFORD AVENUE, Brooklyn, NY, USA",
+"lat": 40.678455,
+"lng": -73.953876
+},
+"1325 Atlantic Avenue, Brooklyn, NY 11216": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "1325 ATLANTIC AVENUE, Brooklyn, NY, USA",
+"lat": 40.678616,
+"lng": -73.946265
+},
+"1365 Cromwell Avenue, Bronx, NY 10452": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "1365 CROMWELL AVENUE, Bronx, NY, USA",
+"lat": 40.840408,
+"lng": -73.920312
+},
+"138 West 143rd Street, New York, NY 10030, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "138 WEST 143 STREET, New York, NY, USA",
+"lat": 40.819771,
+"lng": -73.939105
+},
+"1387 Grand Concourse, Bronx, NY 10452": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "1387 GRAND CONCOURSE, Bronx, NY, USA",
+"lat": 40.838445,
+"lng": -73.914469
+},
+"139-43 West 138th Street, New York, NY 10030, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "139 WEST 138 STREET, New York, NY, USA",
+"lat": 40.817118,
+"lng": -73.941562
+},
+"1393-1395 Dean Street, Brooklyn, NY 11216": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "1393 DEAN STREET, Brooklyn, NY, USA",
+"lat": 40.676715,
+"lng": -73.942411
+},
+"1397 Stebbins Avenue, Bronx, NY 10459": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "1397 STEBBINS AVENUE, Bronx, NY, USA",
+"lat": 40.833069,
+"lng": -73.894423
+},
+"1401 Edward L. Grant Highway, Bronx, NY 10452": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "1401 EDWARD L GRANT HIGHWAY, Bronx, NY, USA",
+"lat": 40.841,
+"lng": -73.92233
+},
+"1402 8th Avenue, Brooklyn, NY 11215": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "1402 8 AVENUE, Brooklyn, NY, USA",
+"lat": 40.662933,
+"lng": -73.982983
+},
+"1424 Herkimer Street, Brooklyn, NY 11233": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "1424 HERKIMER STREET, Brooklyn, NY, USA",
+"lat": 40.677052,
+"lng": -73.906306
+},
+"146 Clay Street, Brooklyn, NY 11222": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "146 CLAY STREET, Brooklyn, NY, USA",
+"lat": 40.736673,
+"lng": -73.952141
+},
+"146-80 Guy R. Brewer Boulevard, Queens, NY 11434": {
+"borough": "Queens",
+"confidence": 0.8,
+"label": "146-80 GUY R BREWER BOULEVARD, Springfield Gardens, NY, USA",
+"lat": 40.661624,
+"lng": -73.76852
+},
+"149 West 108th Street, New York, NY 10025, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "149 WEST 108 STREET, New York, NY, USA",
+"lat": 40.801487,
+"lng": -73.963658
+},
+"150 Richmond Terrace, Staten Island, NY 10301": {
+"borough": "Staten Island",
+"confidence": 0.8,
+"label": "150 RICHMOND TERRACE, Staten Island, NY, USA",
+"lat": 40.645555,
+"lng": -74.078222
+},
+"151-153 West 133rd Street, New York, NY 10030, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "151 WEST 133 STREET, New York, NY, USA",
+"lat": 40.813623,
+"lng": -73.943233
+},
+"1527 Southern Boulevard, Bronx, NY 10460": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "1527 SOUTHERN BOULEVARD, Bronx, NY, USA",
+"lat": 40.834473,
+"lng": -73.889883
+},
+"153-90 Rockaway Boulevard, Jamaica, NY 11434, Queens": {
+"borough": "Queens",
+"confidence": 0.8,
+"label": "153-90 ROCKAWAY BOULEVARD, Jamaica, NY, USA",
+"lat": 40.668092,
+"lng": -73.782777
+},
+"1530 Beach Avenue, Bronx, NY 10460": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "1530 BEACH AVENUE, Bronx, NY, USA",
+"lat": 40.838685,
+"lng": -73.867133
+},
+"1535 Taylor Avenue, Bronx, NY 10460": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "1535 TAYLOR AVENUE, Bronx, NY, USA",
+"lat": 40.838918,
+"lng": -73.866854
+},
+"155 Woodruff Avenue, Brooklyn, NY 11226": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "155 WOODRUFF AVENUE, Brooklyn, NY, USA",
+"lat": 40.654642,
+"lng": -73.960995
+},
+"1564 St. Peter's Avenue, Bronx, NY 10461": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "1564 SAINT PETERS AVENUE, Bronx, NY, USA",
+"lat": 40.840723,
+"lng": -73.847469
+},
+"1591 East 233rd Street, Bronx, NY 10466": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "1591 EAST 233 STREET, Bronx, NY, USA",
+"lat": 40.889417,
+"lng": -73.829728
+},
+"160 West 74th Street, New York, NY 10023, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "160 WEST 74 STREET, New York, NY, USA",
+"lat": 40.779471,
+"lng": -73.980086
+},
+"160-11 89th Avenue, Jamaica, NY 11432, Queens": {
+"borough": "Queens",
+"confidence": 0.8,
+"label": "160-11 89 AVENUE, Jamaica, NY, USA",
+"lat": 40.706431,
+"lng": -73.800373
+},
+"1600 Randall Avenue, Bronx, NY 10473": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "1600 RANDALL AVENUE, Bronx, NY, USA",
+"lat": 40.81575,
+"lng": -73.86898
+},
+"1604, 1620 & 1630 St. Johns Place, Brooklyn, NY 11233": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "1630 ST JOHN'S PLACE, Brooklyn, NY, USA",
+"lat": 40.669907,
+"lng": -73.923691
+},
+"1605 Nelson Avenue, Bronx, NY 10453": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "1605 NELSON AVENUE, Bronx, NY, USA",
+"lat": 40.846381,
+"lng": -73.919845
+},
+"1616 Summerfield Street, Ridgewood, NY 11385, Queens": {
+"borough": "Queens",
+"confidence": 0.8,
+"label": "1616 SUMMERFIELD STREET, Ridgewood, NY, USA",
+"lat": 40.69485,
+"lng": -73.90181
+},
+"162 East 206th Street, Bronx, NY 10458": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "162 EAST 206 STREET, Bronx, NY, USA",
+"lat": 40.8757,
+"lng": -73.88505
+},
+"1625 Fulton Avenue, Bronx, NY 10457": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "1625 FULTON AVENUE, Bronx, NY, USA",
+"lat": 40.839691,
+"lng": -73.899413
+},
+"164 West 100th Street, New York, New York 10025, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "164 WEST 100 STREET, New York, NY, USA",
+"lat": 40.796245,
+"lng": -73.968076
+},
+"1650 Undercliff Avenue, Bronx, NY 10453": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "1650 UNDERCLIFF AVENUE, Bronx, NY, USA",
+"lat": 40.849755,
+"lng": -73.921178
+},
+"1660 Monroe Avenue, Bronx, NY 10457": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "1660 MONROE AVENUE, Bronx, NY, USA",
+"lat": 40.843438,
+"lng": -73.906635
+},
+"1675 Broadway, Brooklyn, NY 11207": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "1675 B'WAY, Brooklyn, NY, USA",
+"lat": 40.684461,
+"lng": -73.912413
+},
+"1682 Stillwell Avenue, Bronx, NY 10461": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "1682 STILLWELL AVENUE, Bronx, NY, USA",
+"lat": 40.855841,
+"lng": -73.838735
+},
+"1691 East New York Avenue, Brooklyn, NY 11212": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "1691 EAST NEW YORK AVENUE, Brooklyn, NY, USA",
+"lat": 40.67471,
+"lng": -73.90581
+},
+"170-01 Douglas Avenue, Jamaica, NY 11433, Queens": {
+"borough": "Queens",
+"confidence": 0.8,
+"label": "170-01 DOUGLAS AVENUE, Jamaica, NY, USA",
+"lat": 40.704474,
+"lng": -73.788243
+},
+"170-174 East 123rd Street, New York, NY 10035, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "174 EAST 123 STREET, New York, NY, USA",
+"lat": 40.802542,
+"lng": -73.937745
+},
+"1732 Webster Avenue, Bronx, NY 10457": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "1732 WEBSTER AVENUE, Bronx, NY, USA",
+"lat": 40.844203,
+"lng": -73.902512
+},
+"174 Prospect Place, Brooklyn, NY 11238": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "174 PROSPECT PLACE, Brooklyn, NY, USA",
+"lat": 40.677888,
+"lng": -73.971087
+},
+"175-15 Rockaway Boulevard, Jamaica, NY 11434, Queens": {
+"borough": "Queens",
+"confidence": 0.8,
+"label": "175-15 ROCKAWAY BOULEVARD, Springfield Gardens, NY, USA",
+"lat": 40.657927,
+"lng": -73.769462
+},
+"179, 183, 187, 189 and 191 East 100th Street, New York, NY 10029, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "191 EAST 100 STREET, New York, NY, USA",
+"lat": 40.788201,
+"lng": -73.948013
+},
+"1790 Marmion Avenue, Bronx, NY 10460": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "1790 MARMION AVENUE, Bronx, NY, USA",
+"lat": 40.840102,
+"lng": -73.88961
+},
+"1792 Lafayette Avenue, Bronx, NY 10473": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "1792 LAFAYETTE AVENUE, Bronx, NY, USA",
+"lat": 40.821003,
+"lng": -73.864117
+},
+"180 West 135th Street, New York, NY 10030, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "180 WEST 135 STREET, New York, NY, USA",
+"lat": 40.814712,
+"lng": -73.942976
+},
+"185-217 Amboy Street, Brooklyn, NY 11212": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "185 AMBOY STREET, Brooklyn, NY, USA",
+"lat": 40.665935,
+"lng": -73.913423
+},
+"1851 Phelan Place, Bronx, NY 10453": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "1851 PHELAN PLACE, Bronx, NY, USA",
+"lat": 40.853742,
+"lng": -73.916334
+},
+"19 Debevoise Avenue, Brooklyn, NY 11211": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "19 DEBEVOISE AVENUE, Brooklyn, NY, USA",
+"lat": 40.716492,
+"lng": -73.938329
+},
+"1921 Jerome Avenue, Bronx, NY 10453": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "1921 JEROME AVENUE, Bronx, NY, USA",
+"lat": 40.850606,
+"lng": -73.910692
+},
+"1938 Webster Avenue, Bronx, NY 10475": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "1938 WEBSTER AVENUE, Bronx, NY, USA",
+"lat": 40.848569,
+"lng": -73.900146
+},
+"197 Bowery, New York, NY 10002, Manhattan": {
+"borough": "Manhattan",
+"confidence": 1,
+"label": "197 BOWERY, New York, NY, USA",
+"lat": 40.720893,
+"lng": -73.993332
+},
+"200 Linden Boulevard, Brooklyn, NY 11226": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "200 LINDEN BOULEVARD, Brooklyn, NY, USA",
+"lat": 40.65226,
+"lng": -73.951222
+},
+"200 Tillary Street, Brooklyn, NY 11201": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "200 TILLARY STREET, Brooklyn, NY, USA",
+"lat": 40.695624,
+"lng": -73.982174
+},
+"2008 Westchester Avenue, Bronx, NY 10462": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "2008 WESTCHESTER AVENUE, Bronx, NY, USA",
+"lat": 40.833292,
+"lng": -73.857339
+},
+"205 Parkside Avenue, Brooklyn, NY 11226": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "205 PARKSIDE AVENUE, Brooklyn, NY, USA",
+"lat": 40.65555,
+"lng": -73.960923
+},
+"205 West 135th Street, New York, NY 10030, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "205 WEST 135 STREET, New York, NY, USA",
+"lat": 40.815817,
+"lng": -73.94421
+},
+"21 Duryea Place, Brooklyn, NY 11226": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "21 DURYEA PLACE, Brooklyn, NY, USA",
+"lat": 40.64558,
+"lng": -73.95694
+},
+"21 East 115th Street, New York, NY 10029, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "21 EAST 115 STREET, New York, NY, USA",
+"lat": 40.799696,
+"lng": -73.94574
+},
+"21 East 29th Street, Brooklyn, NY 11226": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "21 EAST 29 STREET, Brooklyn, NY, USA",
+"lat": 40.647617,
+"lng": -73.949973
+},
+"21-10 Borden Avenue, Long Island City, NY 11101, Queens": {
+"borough": "Queens",
+"confidence": 0.8,
+"label": "21-10 BORDEN AVENUE, Long Island City, NY, USA",
+"lat": 40.739873,
+"lng": -73.949508
+},
+"2101 Needham Avenue, Bronx, NY 10469": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "1339 NEEDHAM AVENUE, Bronx, NY, USA",
+"lat": 40.878577,
+"lng": -73.851631
+},
+"2134 Coyle Street, Brooklyn, NY 11229": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "2134 COYLE STREET, Brooklyn, NY, USA",
+"lat": 40.600255,
+"lng": -73.937349
+},
+"2155 Dean Street, Brooklyn, NY 11233": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "2155 DEAN STREET, Brooklyn, NY, USA",
+"lat": 40.675258,
+"lng": -73.916078
+},
+"22 Sumner Place, Brooklyn, NY 11206": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "22 SUMNER PLACE, Brooklyn, NY, USA",
+"lat": 40.700784,
+"lng": -73.940383
+},
+"22-21 Loretta Road, Far Rockaway, NY 11691, Queens": {
+"borough": "Queens",
+"confidence": 0.8,
+"label": "22-21 LORETTA ROAD, Far Rockaway, NY, USA",
+"lat": 40.602958,
+"lng": -73.755811
+},
+"2201-2227 Neptune Ave, Brooklyn, NY 11224": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "2227 NEPTUNE AVENUE, Brooklyn, NY, USA",
+"lat": 40.5788,
+"lng": -73.99025
+},
+"2240 Grand Concourse, Bronx, NY 10457": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "2240 GRAND CONCOURSE, Bronx, NY, USA",
+"lat": 40.856294,
+"lng": -73.900123
+},
+"2244 Tillotson Avenue, Bronx, NY 10475": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "2244 TILLOTSON AVENUE, Bronx, NY, USA",
+"lat": 40.881535,
+"lng": -73.828225
+},
+"2248 Webster Avenue, Bronx, NY 10457": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "2248 WEBSTER AVENUE, Bronx, NY, USA",
+"lat": 40.855282,
+"lng": -73.895883
+},
+"225 East 45th Street, New York, NY 10017, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "225 EAST 45 STREET, New York, NY, USA",
+"lat": 40.75254,
+"lng": -73.97209
+},
+"225 East 53rd Street, New York, NY 10022, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "225 EAST 53 STREET, New York, NY, USA",
+"lat": 40.757412,
+"lng": -73.968223
+},
+"2250 Adam Clayton Powell Jr. Boulevard, New York, NY 10027, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "2250 ADAM CLAYTON POWELL JR BOULEVARD, New York, NY, USA",
+"lat": 40.813844,
+"lng": -73.945295
+},
+"2252 Crotona Avenue, Bronx, NY 10457": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "2252 CROTONA AVENUE, Bronx, NY, USA",
+"lat": 40.850858,
+"lng": -73.885445
+},
+"226 Beach 101st Street, Rockaway Park, NY 11694, Queens": {
+"borough": "Queens",
+"confidence": 0.8,
+"label": "226 BEACH 101 STREET, Rockaway Park, NY, USA",
+"lat": 40.584494,
+"lng": -73.822041
+},
+"2262 Adam Clayton Powell Boulevard, New York, NY 10030, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "2262 ADAM CLAYTON POWELL BOULEVARD, New York, NY, USA",
+"lat": 40.814306,
+"lng": -73.944883
+},
+"2287 University Avenue, Bronx, NY 10468": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "2287 UNIVERSITY AVENUE, Bronx, NY, USA",
+"lat": 40.860838,
+"lng": -73.907037
+},
+"2294 Grand Avenue, Bronx, NY 10468": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "2294 GRAND AVENUE, Bronx, NY, USA",
+"lat": 40.859855,
+"lng": -73.904971
+},
+"23 West 106th Street, New York, NY 10025, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "23 WEST 106 STREET, New York, NY, USA",
+"lat": 40.798762,
+"lng": -73.96107
+},
+"2314 Jerome Avenue, Bronx, NY 10468": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "2314 JEROME AVENUE, Bronx, NY, USA",
+"lat": 40.859106,
+"lng": -73.903071
+},
+"2323 Davidson Avenue, Bronx, NY 10468": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "2323 DAVIDSON AVENUE, Bronx, NY, USA",
+"lat": 40.859584,
+"lng": -73.904501
+},
+"2331 Grand Concourse, Bronx, NY 10468": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "2331 GRAND CONCOURSE, Bronx, NY, USA",
+"lat": 40.858449,
+"lng": -73.899853
+},
+"2332 Adam Clayton Powell Jr. Boulevard, New York, NY 10030, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "2332 ADAM CLAYTON POWELL JR BOULEVARD, New York, NY, USA",
+"lat": 40.816658,
+"lng": -73.943213
+},
+"237 Landing Road, Bronx, NY 10468": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "237 LANDING ROAD, Bronx, NY, USA",
+"lat": 40.86266,
+"lng": -73.910926
+},
+"240 East 178th Street, Bronx, NY 10457": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "240 EAST 178 STREET, Bronx, NY, USA",
+"lat": 40.850038,
+"lng": -73.903563
+},
+"2402 Atlantic Avenue, Brooklyn, NY 11233": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "2402 ATLANTIC AVENUE, Brooklyn, NY, USA",
+"lat": 40.675755,
+"lng": -73.905331
+},
+"2443 Poplar Street, Bronx, NY 10461": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "2443 POPLAR STREET, Bronx, NY, USA",
+"lat": 40.843088,
+"lng": -73.853241
+},
+"246 Echo Place, Bronx, NY 10457": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "246 ECHO PLACE, Bronx, NY, USA",
+"lat": 40.849379,
+"lng": -73.903698
+},
+"247 49th Street, Brooklyn, NY 11220": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "247 49 STREET, Brooklyn, NY, USA",
+"lat": 40.6491,
+"lng": -74.015011
+},
+"2514 Albemarle Road, Brooklyn, NY 11226": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "2514 ALBEMARLE ROAD, Brooklyn, NY, USA",
+"lat": 40.647807,
+"lng": -73.953613
+},
+"2518-2520 Tilden Avenue, Brooklyn, NY 11226": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "2520 TILDEN AVENUE, Brooklyn, NY, USA",
+"lat": 40.646438,
+"lng": -73.953315
+},
+"2524 Creston Avenue, Bronx, NY 10468": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "2524 CRESTON AVENUE, Bronx, NY, USA",
+"lat": 40.863276,
+"lng": -73.897539
+},
+"2586 Stillwell Avenue, Brooklyn, NY 11223": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "2586 STILLWELL AVENUE, Brooklyn, NY, USA",
+"lat": 40.584531,
+"lng": -73.983252
+},
+"267 3rd Avenue, Brooklyn, NY 11215": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "267 3 AVENUE, Brooklyn, NY, USA",
+"lat": 40.677825,
+"lng": -73.98556
+},
+"267 Rogers Avenue, Brooklyn, NY 11225": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "267 ROGERS AVENUE, Brooklyn, NY, USA",
+"lat": 40.66686,
+"lng": -73.95308
+},
+"269 East 4th Street, New York, NY 10009, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "269 EAST 4 STREET, New York, NY, USA",
+"lat": 40.722939,
+"lng": -73.981251
+},
+"27 Pennsylvania Avenue, Brooklyn, NY 11207": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "27 PENNSYLVANIA AVENUE, Brooklyn, NY, USA",
+"lat": 40.677484,
+"lng": -73.896971
+},
+"2720 Broadway, New York, NY 10025, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "2720 B'WAY, New York, NY, USA",
+"lat": 40.799805,
+"lng": -73.967718
+},
+"274 West 40th Street, New York, NY 10018, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "274 WEST 40 STREET, New York, NY, USA",
+"lat": 40.755735,
+"lng": -73.990526
+},
+"2751 Grand Concourse, Bronx, NY 10468": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "2751 GRAND CONCOURSE, Bronx, NY, USA",
+"lat": 40.868411,
+"lng": -73.893271
+},
+"279 Butler Street, Brooklyn, NY 11217": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "279 BUTLER STREET, Brooklyn, NY, USA",
+"lat": 40.681433,
+"lng": -73.98457
+},
+"282 East 3rd Street, New York, NY 10009, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "282 EAST 3 STREET, New York, NY, USA",
+"lat": 40.72123,
+"lng": -73.980148
+},
+"284-286 Audubon Avenue, New York, NY 10033, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "286 AUDUBON AVENUE, New York, NY, USA",
+"lat": 40.847791,
+"lng": -73.933398
+},
+"285 East 171st Street, Bronx, NY 10457": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "285 EAST 171 STREET, Bronx, NY, USA",
+"lat": 40.839118,
+"lng": -73.910271
+},
+"2960 Frederick Douglass Blvd, New York, NY 10039, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "2960 FREDERICK DOUGLASS BOULEVARD, New York, NY, USA",
+"lat": 40.829776,
+"lng": -73.935888
+},
+"30 3rd Avenue, Brooklyn, NY 11217": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "30 3 AVENUE, Brooklyn, NY, USA",
+"lat": 40.685676,
+"lng": -73.980738
+},
+"30 Hamilton Place, New York, NY 10031, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "30 HAMILTON PLACE, New York, NY, USA",
+"lat": 40.822068,
+"lng": -73.952668
+},
+"3001 Briggs Avenue, Bronx, NY 10458": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "3001 BRIGGS AVENUE, Bronx, NY, USA",
+"lat": 40.872287,
+"lng": -73.88442
+},
+"306 West 94th Street, New York, NY 10025, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "306 WEST 94 STREET, New York, NY, USA",
+"lat": 40.794029,
+"lng": -73.974895
+},
+"309 Henry Street, New York, NY 10002, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "309 HENRY STREET, New York, NY, USA",
+"lat": 40.714247,
+"lng": -73.982326
+},
+"31-35 West 126th Street, New York, NY 10027, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "31 WEST 126 STREET, New York, NY, USA",
+"lat": 40.807787,
+"lng": -73.942951
+},
+"315 Bowery, New York, NY 10003, Manhattan": {
+"borough": "Manhattan",
+"confidence": 1,
+"label": "315 BOWERY, New York, NY, USA",
+"lat": 40.725106,
+"lng": -73.991742
+},
+"316 Beach 65th Street, Arverne, NY 11692, Queens": {
+"borough": "Queens",
+"confidence": 0.8,
+"label": "316 BEACH 65 STREET, Arverne, NY, USA",
+"lat": 40.591873,
+"lng": -73.793512
+},
+"320 Pearl Street, New York, NY 10038, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "320 PEARL STREET, New York, NY, USA",
+"lat": 40.708902,
+"lng": -74.002033
+},
+"3200 Atlantic Avenue, Brooklyn, NY 11208": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "3200 ATLANTIC AVENUE, Brooklyn, NY, USA",
+"lat": 40.67969,
+"lng": -73.87694
+},
+"321 East Tremont Avenue, Bronx, NY 10457": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "321 EAST TREMONT AVENUE, Bronx, NY, USA",
+"lat": 40.848875,
+"lng": -73.902436
+},
+"325 East 104th Street, New York, NY 10029, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "325 EAST 104 STREET, New York, NY, USA",
+"lat": 40.789144,
+"lng": -73.942054
+},
+"333 Bowery, New York, NY 10002, Manhattan": {
+"borough": "Manhattan",
+"confidence": 1,
+"label": "37 BOWERY, New York, NY, USA",
+"lat": 40.714943,
+"lng": -73.995706
+},
+"3339 Park Avenue, Bronx, NY 10456": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "3339 PARK AVENUE, Bronx, NY, USA",
+"lat": 40.827587,
+"lng": -73.912963
+},
+"338 Forbell Street, Brooklyn, NY 11208": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "338 FORBELL STREET, Brooklyn, NY, USA",
+"lat": 40.674295,
+"lng": -73.86339
+},
+"339 Broadway, Brooklyn, NY 11211": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "339 B'WAY, Brooklyn, NY, USA",
+"lat": 40.708048,
+"lng": -73.956071
+},
+"341 West 51st Street, New York, NY 10019, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "341 WEST 51 STREET, New York, NY, USA",
+"lat": 40.763778,
+"lng": -73.987134
+},
+"345-347 East 146th Street, Bronx, NY 10451": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "347 EAST 146 STREET, Bronx, NY, USA",
+"lat": 40.815256,
+"lng": -73.920756
+},
+"346 Powers Avenue, Bronx, NY 10454": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "346 POWERS AVENUE, Bronx, NY, USA",
+"lat": 40.807829,
+"lng": -73.911738
+},
+"347 East 10th Street, New York, NY 10009, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "347 EAST 10 STREET, New York, NY, USA",
+"lat": 40.726908,
+"lng": -73.979589
+},
+"349 Canal Street, New York, NY 10013, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "349 CANAL STREET, New York, NY, USA",
+"lat": 40.721106,
+"lng": -74.003399
+},
+"353 38th Street, Brooklyn, NY 11232": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "353 38 STREET, Brooklyn, NY, USA",
+"lat": 40.653809,
+"lng": -74.006196
+},
+"357 Marcus Garvey Boulevard, Brooklyn, NY 11221": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "357 MARCUS GARVEY BOULEVARD, Brooklyn, NY, USA",
+"lat": 40.685122,
+"lng": -73.937269
+},
+"357 Saratoga Avenue, Brooklyn, NY 11233": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "357 SARATOGA AVENUE, Brooklyn, NY, USA",
+"lat": 40.673566,
+"lng": -73.916454
+},
+"360 East 193rd Street, Bronx, NY 10458": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "360 EAST 193 STREET, Bronx, NY, USA",
+"lat": 40.863052,
+"lng": -73.891128
+},
+"3600 Jerome Avenue, Bronx, NY 10467": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "3600 JEROME AVENUE, Bronx, NY, USA",
+"lat": 40.885376,
+"lng": -73.878668
+},
+"3674 Third Avenue, Bronx, NY 10456": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "3674 THIRD AVENUE, Bronx, NY, USA",
+"lat": 40.834563,
+"lng": -73.903486
+},
+"38-01 112th Street, Queens, NY 11368": {
+"borough": "Queens",
+"confidence": 0.8,
+"label": "38-01 112 STREET, North Corona, NY, USA",
+"lat": 40.753479,
+"lng": -73.855114
+},
+"385 McDonald Avenue, Brooklyn, NY 11218": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "385 MCDONALD AVENUE, Brooklyn, NY, USA",
+"lat": 40.644561,
+"lng": -73.979357
+},
+"39 Ainslie Street, Brooklyn, NY 11211": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "39 AINSLIE STREET, Brooklyn, NY, USA",
+"lat": 40.713058,
+"lng": -73.952819
+},
+"39 Auburn Place, Brooklyn, NY 11205": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "39 AUBURN PLACE, Brooklyn, NY, USA",
+"lat": 40.6951,
+"lng": -73.976475
+},
+"3966 10th Avenue, New York, NY 10034, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "3966 10 AVENUE, New York, NY, USA",
+"lat": 40.86758,
+"lng": -73.91705
+},
+"399 3rd Ave, Brooklyn, NY 11215": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "399 3 AVENUE, Brooklyn, NY, USA",
+"lat": 40.673339,
+"lng": -73.989133
+},
+"4 East 28th Street, New York, NY 10016, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "4 EAST 28 STREET, New York, NY, USA",
+"lat": 40.744303,
+"lng": -73.986754
+},
+"40-03 29th Street, Long Island City, NY 11101, Queens": {
+"borough": "Queens",
+"confidence": 0.8,
+"label": "40-03 29 STREET, Long Island City, NY, USA",
+"lat": 40.752034,
+"lng": -73.935499
+},
+"400 E 30th St, New York, NY 10016, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "400 EAST 30 STREET, New York, NY, USA",
+"lat": 40.740598,
+"lng": -73.974727
+},
+"413 East 152nd Street, Bronx, NY 10455": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "413 EAST 152 STREET, Bronx, NY, USA",
+"lat": 40.818255,
+"lng": -73.916081
+},
+"419 East 91st Street, New York, NY 10128, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "419 EAST 91 STREET, New York, NY, USA",
+"lat": 40.779758,
+"lng": -73.945704
+},
+"42-24 Crescent Street, Long Island City, NY 11101, Queens": {
+"borough": "Queens",
+"confidence": 0.8,
+"label": "42-24 CRESCENT STREET, Long Island City, NY, USA",
+"lat": 40.750074,
+"lng": -73.941449
+},
+"427-429 West 52nd Street, New York, NY 10019, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "429 WEST 52 STREET, New York, NY, USA",
+"lat": 40.765437,
+"lng": -73.989251
+},
+"437 Morris Park Avenue, Bronx, NY 10460": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "437 MORRIS PARK AVENUE, Bronx, NY, USA",
+"lat": 40.840132,
+"lng": -73.873763
+},
+"4380 Bronx Boulevard, Bronx, NY 10466": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "4380 BRONX BOULEVARD, Bronx, NY, USA",
+"lat": 40.899187,
+"lng": -73.857861
+},
+"44 Victory Blvd, Staten Island, NY 10301": {
+"borough": "Staten Island",
+"confidence": 0.8,
+"label": "44 VICTORY BOULEVARD, Staten Island, NY, USA",
+"lat": 40.63762,
+"lng": -74.07743
+},
+"440 West 41st Street, New York, NY, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "440 WEST 41 STREET, New York, NY, USA",
+"lat": 40.75827,
+"lng": -73.99485
+},
+"446 W. 36th St., New York, NY 10018, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "446 WEST 36 STREET, New York, NY, USA",
+"lat": 40.755342,
+"lng": -73.99752
+},
+"4511 Furman Avenue, Bronx, NY 10470": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "4511 FURMAN AVENUE, Bronx, NY, USA",
+"lat": 40.900161,
+"lng": -73.852302
+},
+"460 West 41st Street, New York, NY, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "460 WEST 41 STREET, New York, NY, USA",
+"lat": 40.758543,
+"lng": -73.995577
+},
+"4612 Glenwood Road, Brooklyn, NY 11234": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "4612 GLENWOOD ROAD, Brooklyn, NY, USA",
+"lat": 40.634016,
+"lng": -73.932544
+},
+"463 East 173rd Street, Bronx, NY 10457": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "463 EAST 173 STREET, Bronx, NY, USA",
+"lat": 40.841939,
+"lng": -73.901447
+},
+"465 Sterling Place, Brooklyn, NY 11238": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "465 STERLING PLACE, Brooklyn, NY, USA",
+"lat": 40.67466,
+"lng": -73.962671
+},
+"466, 468, 470, 476 Pulaski Street, Brooklyn, NY 11221": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "476 PULASKI STREET, Brooklyn, NY, USA",
+"lat": 40.694257,
+"lng": -73.931756
+},
+"470 East 161st Street, Bronx, NY 10451": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "470 EAST 161 STREET, Bronx, NY, USA",
+"lat": 40.823108,
+"lng": -73.911726
+},
+"480 East 185th Street, Bronx, NY 10458": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "480 EAST 185 STREET, Bronx, NY, USA",
+"lat": 40.856215,
+"lng": -73.892012
+},
+"483 West End Avenue, New York, NY, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "483 WEST END AVENUE, New York, NY, USA",
+"lat": 40.787182,
+"lng": -73.97945
+},
+"486 Liberty Avenue, Brooklyn, NY 11207": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "486 LIBERTY AVENUE, Brooklyn, NY, USA",
+"lat": 40.674836,
+"lng": -73.891984
+},
+"500 East 134th Street, Bronx, NY 10454": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "500 EAST 134 STREET, Bronx, NY, USA",
+"lat": 40.804946,
+"lng": -73.921497
+},
+"5001 10th Avenue and 1016 50th Street, Brooklyn, NY 11219": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "1016 50 STREET, Brooklyn, NY, USA",
+"lat": 40.637928,
+"lng": -73.998851
+},
+"501 New Lots Avenue, Brooklyn, NY 11207": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "501 NEW LOTS AVENUE, Brooklyn, NY, USA",
+"lat": 40.663626,
+"lng": -73.889543
+},
+"51 Junius Street, Brooklyn, NY 11212": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "51 JUNIUS STREET, Brooklyn, NY, USA",
+"lat": 40.673699,
+"lng": -73.903725
+},
+"5113 2nd Avenue, Brooklyn, NY 11232": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "5113 2 AVENUE, Brooklyn, NY, USA",
+"lat": 40.648051,
+"lng": -74.017608
+},
+"519 West 49th Street, New York, NY 10019, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "519 WEST 49 STREET, New York, NY, USA",
+"lat": 40.764695,
+"lng": -73.99318
+},
+"52-34 Van Dam Street, Long Island City, NY 11101, Queens": {
+"borough": "Queens",
+"confidence": 0.8,
+"label": "52-34 VAN DAM STREET, Long Island City, NY, USA",
+"lat": 40.736236,
+"lng": -73.936758
+},
+"520 Gates Avenue, Brooklyn, NY 11216": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "520 GATES AVENUE, Brooklyn, NY, USA",
+"lat": 40.686597,
+"lng": -73.945079
+},
+"526 Pennsylvania Avenue, Brooklyn, NY 11207": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "526 PENNSYLVANIA AVENUE, Brooklyn, NY, USA",
+"lat": 40.664187,
+"lng": -73.894174
+},
+"528 Morris Avenue, Bronx, NY 10451": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "528 MORRIS AVENUE, Bronx, NY, USA",
+"lat": 40.816979,
+"lng": -73.922677
+},
+"535 4th Avenue, Brooklyn, NY 11215": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "535 4 AVENUE, Brooklyn, NY, USA",
+"lat": 40.666901,
+"lng": -73.99114
+},
+"535 North Gannon Avenue, Staten Island, NY 10314": {
+"borough": "Staten Island",
+"confidence": 0.8,
+"label": "535 NORTH GANNON AVENUE, Staten Island, NY, USA",
+"lat": 40.608586,
+"lng": -74.146594
+},
+"537 West 59th Street, New York, NY 10019, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "537 WEST 59 STREET, New York, NY, USA",
+"lat": 40.77132,
+"lng": -73.98917
+},
+"54 West 105th Street, New York, NY 10025, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "54 WEST 105 STREET, New York, NY, USA",
+"lat": 40.798003,
+"lng": -73.962567
+},
+"55 West 110th Street, New York, NY 10026, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "55 WEST 110 STREET, New York, NY, USA",
+"lat": 40.798283,
+"lng": -73.951755
+},
+"555 4th Avenue, Brooklyn, NY 11215": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "555 4 AVENUE, Brooklyn, NY, USA",
+"lat": 40.666338,
+"lng": -73.991628
+},
+"555 Hutchinson River Parkway, Bronx, NY 10465": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "555 HUTCHINSON RIVER PARKWAY, Bronx, NY, USA",
+"lat": 40.817579,
+"lng": -73.837222
+},
+"555 West 174th Street, New York, NY 10033, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "555 WEST 174 STREET, New York, NY, USA",
+"lat": 40.844555,
+"lng": -73.936084
+},
+"566 Coney Island Avenue, Brooklyn, NY 11218": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "566 CONEY IS AVENUE, Brooklyn, NY, USA",
+"lat": 40.643397,
+"lng": -73.970272
+},
+"566 West 182nd Street, New York, NY 10033, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "566 WEST 182 STREET, New York, NY, USA",
+"lat": 40.849443,
+"lng": -73.932664
+},
+"570 Jamaica Avenue, Brooklyn, NY 11208": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "570 JAMAICA AVENUE, Brooklyn, NY, USA",
+"lat": 40.684855,
+"lng": -73.882704
+},
+"585 Wales Avenue, Bronx, NY 10455": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "585 WALES AVENUE, Bronx, NY, USA",
+"lat": 40.813588,
+"lng": -73.907303
+},
+"59-65 Prince Street, Brooklyn, NY 11201": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "65 PRINCE STREET, Brooklyn, NY, USA",
+"lat": 40.695624,
+"lng": -73.982174
+},
+"599 Ralph Avenue, Brooklyn, NY 11233": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "599 RALPH AVENUE, Brooklyn, NY, USA",
+"lat": 40.669144,
+"lng": -73.922213
+},
+"601 Sackett Street, Brooklyn, NY 11217": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "601 SACKETT STREET, Brooklyn, NY, USA",
+"lat": 40.678928,
+"lng": -73.984215
+},
+"615 East 104th Street, Brooklyn, NY 11236": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "615 EAST 104 STREET, Brooklyn, NY, USA",
+"lat": 40.649988,
+"lng": -73.898083
+},
+"62 Hanson Place, Brooklyn, NY 11217": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "62 HANSON PLACE, Brooklyn, NY, USA",
+"lat": 40.685154,
+"lng": -73.97497
+},
+"629 Chauncey Street, Brooklyn, NY 11207": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "629 CHAUNCEY STREET, Brooklyn, NY, USA",
+"lat": 40.683266,
+"lng": -73.909897
+},
+"630 Riverside Drive, New York, NY 10031, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "630 RIVERSIDE DRIVE, New York, NY, USA",
+"lat": 40.824292,
+"lng": -73.954462
+},
+"64 Kingston Avenue, Brooklyn, NY 11216": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "64 KINGSTON AVENUE, Brooklyn, NY, USA",
+"lat": 40.677727,
+"lng": -73.941629
+},
+"64 Sunken Garden Loop, Wards Island, New York, NY 10035, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "64 SUNKEN GARDEN LOOP, New York, NY, USA",
+"lat": 40.78522,
+"lng": -73.931516
+},
+"642, 646, 652 Willoughby Avenue & 1149 Putnam Avenue, Brooklyn, NY 11221": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "861 WILLOUGHBY AVENUE, Brooklyn, NY, USA",
+"lat": 40.695859,
+"lng": -73.933599
+},
+"643 Park Avenue, New York, NY 10065, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "643 PARK AVENUE, New York, NY, USA",
+"lat": 40.76724,
+"lng": -73.965501
+},
+"645 Van Siclen Avenue, Brooklyn, NY 11207": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "645 VAN SICLEN AVENUE, Brooklyn, NY, USA",
+"lat": 40.663689,
+"lng": -73.887389
+},
+"65 Charles Gay Loop, New York, NY 10035, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "65 CHARLES GAY LOOP, New York, NY, USA",
+"lat": 40.784334,
+"lng": -73.931719
+},
+"651 West 168th Street, New York, NY 10032, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "651 WEST 168 STREET, New York, NY, USA",
+"lat": 40.842156,
+"lng": -73.941334
+},
+"652 Park Avenue, Brooklyn, NY 11206": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "652 PARK AVENUE, Brooklyn, NY, USA",
+"lat": 40.69742,
+"lng": -73.949306
+},
+"6530 4th Avenue, Brooklyn, NY 11220": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "6530 4 AVENUE, Brooklyn, NY, USA",
+"lat": 40.63759,
+"lng": -74.02223
+},
+"66 Clay Street, Brooklyn, NY 11222": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "66 CLAY STREET, Brooklyn, NY, USA",
+"lat": 40.736323,
+"lng": -73.955918
+},
+"661 and 665 Cauldwell Avenue, Bronx, NY 10455": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "665 CAULDWELL AVENUE, Bronx, NY, USA",
+"lat": 40.817071,
+"lng": -73.909802
+},
+"681 Clarkson Avenue, Brooklyn, NY 11203": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "681 CLARKSON AVENUE, Brooklyn, NY, USA",
+"lat": 40.656621,
+"lng": -73.936239
+},
+"71-11 & 72-05 Astoria Boulevard, East Elmhurst, NY 11370, Queens": {
+"borough": "Queens",
+"confidence": 0.8,
+"label": "72-05 ASTORIA BOULEVARD, Queens, NY, USA",
+"lat": 40.767172,
+"lng": -73.896662
+},
+"711 and 691 East 140th Street, Bronx, NY 10454": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "691 EAST 140 STREET, Bronx, NY, USA",
+"lat": 40.806685,
+"lng": -73.912553
+},
+"730 Kelly Street, Bronx, NY 10455": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "730 KELLY STREET, Bronx, NY, USA",
+"lat": 40.816487,
+"lng": -73.899537
+},
+"7300-7304 Queens Boulevard, Woodside, NY 11377": {
+"borough": "Queens",
+"confidence": 0.8,
+"label": "7300 QUEENS BOULEVARD, Maspeth, NY, USA",
+"lat": 40.738514,
+"lng": -73.89048
+},
+"739 East Gun Hill Road, Bronx, NY 10467": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "739 EAST GUN HILL ROAD, Bronx, NY, USA",
+"lat": 40.8773,
+"lng": -73.86485
+},
+"74 Eldert Lane, Brooklyn, NY 11208": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "74 ELDERT LANE, Brooklyn, NY, USA",
+"lat": 40.689367,
+"lng": -73.867968
+},
+"740 Hegeman Ave, Brooklyn, NY 11207": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "740 HEGEMAN AVENUE, Brooklyn, NY, USA",
+"lat": 40.662681,
+"lng": -73.884751
+},
+"78 Catherine Street, New York, NY 10038, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "78 CATHERINE STREET, New York, NY, USA",
+"lat": 40.71075,
+"lng": -73.9979
+},
+"78-16 Cooper Avenue, Ridgewood, NY 11385, Queens": {
+"borough": "Queens",
+"confidence": 0.8,
+"label": "78-16 COOPER AVENUE, Fresh Pond, NY, USA",
+"lat": 40.707389,
+"lng": -73.872865
+},
+"781 East 135th Street, Bronx, NY 10454": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "781 EAST 135 STREET, Bronx, NY, USA",
+"lat": 40.802561,
+"lng": -73.912362
+},
+"79-00 Queens Boulevard, Queens, NY 11373": {
+"borough": "Queens",
+"confidence": 0.8,
+"label": "79-00 QUEENS BOULEVARD, Elmhurst, NY, USA",
+"lat": 40.737768,
+"lng": -73.884657
+},
+"8 E. 3rd Street, New York, NY 10003, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "8 EAST 3 STREET, New York, NY, USA",
+"lat": 40.725867,
+"lng": -73.991115
+},
+"80-20 134th Street, Jamaica, NY 11435, Queens": {
+"borough": "Queens",
+"confidence": 0.8,
+"label": "80-20 134 STREET, Briarwood, NY, USA",
+"lat": 40.715486,
+"lng": -73.824569
+},
+"800 Barretto Street, Bronx, NY 10474": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "800 BARRETTO STREET, Bronx, NY, USA",
+"lat": 40.816862,
+"lng": -73.8896
+},
+"800 E. 12th Street, Brooklyn, NY 11230": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "800 EAST 12 STREET, Brooklyn, NY, USA",
+"lat": 40.629423,
+"lng": -73.965208
+},
+"802 Flushing Avenue, Brooklyn, NY 11206": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "802 FLUSHING AVENUE, Brooklyn, NY, USA",
+"lat": 40.700984,
+"lng": -73.939957
+},
+"808 Saratoga Avenue, Brooklyn, NY 11212": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "808 SARATOGA AVENUE, Brooklyn, NY, USA",
+"lat": 40.660842,
+"lng": -73.91558
+},
+"81-30 Baxter Avenue, Queens, NY 11373": {
+"borough": "Queens",
+"confidence": 0.8,
+"label": "81-30 BAXTER AVENUE, Elmhurst, NY, USA",
+"lat": 40.745847,
+"lng": -73.883542
+},
+"820 Glenmore Avenue, Brooklyn, NY 11208": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "820 GLENMORE AVENUE, Brooklyn, NY, USA",
+"lat": 40.675428,
+"lng": -73.879602
+},
+"829 Saratoga Avenue, Brooklyn, NY 11212": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "829 SARATOGA AVENUE, Brooklyn, NY, USA",
+"lat": 40.660327,
+"lng": -73.91475
+},
+"83 Apollo Street, Brooklyn, NY 11222": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "83 APOLLO STREET, Brooklyn, NY, USA",
+"lat": 40.72706,
+"lng": -73.93833
+},
+"85 Lexington Avenue, Brooklyn, NY 11238": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "85 LEXINGTON AVENUE, Brooklyn, NY, USA",
+"lat": 40.686986,
+"lng": -73.958677
+},
+"85 West 168th Street, Bronx, NY 10452": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "85 WEST 168 STREET, Bronx, NY, USA",
+"lat": 40.83863,
+"lng": -73.923872
+},
+"85-15 101st Avenue, Queens, NY 11416": {
+"borough": "Queens",
+"confidence": 0.8,
+"label": "85-15 101 AVENUE, Ozone Park, NY, USA",
+"lat": 40.682258,
+"lng": -73.854017
+},
+"87-02 23rd Avenue, East Elmhurst, NY 11369, Queens": {
+"borough": "Queens",
+"confidence": 0.8,
+"label": "87-02 23 AVENUE, East Elmhurst, NY, USA",
+"lat": 40.767015,
+"lng": -73.882093
+},
+"87-70 & 87-72 148th Street, Jamaica, NY 11435, Queens": {
+"borough": "Queens",
+"confidence": 0.8,
+"label": "87-72 148 STREET, Jamaica, NY, USA",
+"lat": 40.705526,
+"lng": -73.80851
+},
+"88-55 161st Street, Jamaica, NY 11432, Queens": {
+"borough": "Queens",
+"confidence": 0.8,
+"label": "88-55 161 STREET, Jamaica, NY, USA",
+"lat": 40.706772,
+"lng": -73.799902
+},
+"882 Dumont Avenue & 433 Van Siclen Avenue, Brooklyn, NY 11207": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "433 VAN SICLEN AVENUE, Brooklyn, NY, USA",
+"lat": 40.669128,
+"lng": -73.889123
+},
+"89-25 Parsons Boulevard, Jamaica, NY 11432, Queens": {
+"borough": "Queens",
+"confidence": 0.8,
+"label": "89-25 PARSONS BOULEVARD, Jamaica, NY, USA",
+"lat": 40.705153,
+"lng": -73.800672
+},
+"9 Malcolm X Boulevard, Brooklyn, NY 11221": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "9 MALCOLM X BOULEVARD, Brooklyn, NY, USA",
+"lat": 40.693967,
+"lng": -73.931006
+},
+"90 Lafayette Street, New York, NY, Manhattan": {
+"borough": "Manhattan",
+"confidence": 0.8,
+"label": "90 LAFAYETTE STREET, New York, NY, USA",
+"lat": 40.717554,
+"lng": -74.001615
+},
+"90-10 Ditmars Boulevard, East Elmhurst, NY 11369, Queens": {
+"borough": "Queens",
+"confidence": 0.8,
+"label": "90-10 DITMARS BOULEVARD, East Elmhurst, NY, USA",
+"lat": 40.769154,
+"lng": -73.879473
+},
+"92-32 Union Hall Street, Queens, NY 11433": {
+"borough": "Queens",
+"confidence": 0.8,
+"label": "92-32 UNION HALL STREET, Jamaica, NY, USA",
+"lat": 40.703194,
+"lng": -73.797531
+},
+"94-00 Ditmars Boulevard, East Elmhurst, NY 11369, Queens": {
+"borough": "Queens",
+"confidence": 0.8,
+"label": "94-00 DITMARS BOULEVARD, East Elmhurst, NY, USA",
+"lat": 40.770101,
+"lng": -73.875825
+},
+"946 East 211th Street, Bronx, NY 10469": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "946 EAST 211 STREET, Bronx, NY, USA",
+"lat": 40.875292,
+"lng": -73.858805
+},
+"95-10 218th Street, Queens Village, NY 11429": {
+"borough": "Queens",
+"confidence": 0.8,
+"label": "95-10 218 STREET, Queens Village, NY, USA",
+"lat": 40.717354,
+"lng": -73.73772
+},
+"963 Prospect Avenue, Bronx, NY 10459": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "963 PROSPECT AVENUE, Bronx, NY, USA",
+"lat": 40.822764,
+"lng": -73.900672
+},
+"968 3rd Avenue, Brooklyn, NY 11232": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "968 3 AVENUE, Brooklyn, NY, USA",
+"lat": 40.655295,
+"lng": -74.007309
+},
+"97 Wyckoff Avenue, Brooklyn, NY 11237": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "97 WYCKOFF AVENUE, Brooklyn, NY, USA",
+"lat": 40.705013,
+"lng": -73.919927
+},
+"9720 Kings Highway, Brooklyn, NY 11212": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "9720 KINGS HIGHWAY, Brooklyn, NY, USA",
+"lat": 40.661111,
+"lng": -73.919066
+},
+"977 Bedford Avenue, Brooklyn, NY 11205": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "977 BEDFORD AVENUE, Brooklyn, NY, USA",
+"lat": 40.690685,
+"lng": -73.955041
+},
+"980 Prospect Avenue, Bronx, NY 10459": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "980 PROSPECT AVENUE, Bronx, NY, USA",
+"lat": 40.823583,
+"lng": -73.899762
+},
+"988 Myrtle Avenue, Brooklyn, NY 11206": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "988 MYRTLE AVENUE, Brooklyn, NY, USA",
+"lat": 40.696004,
+"lng": -73.941766
+},
+"99 Meserole Avenue, Brooklyn, NY 11222": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "99 MESEROLE AVENUE, Brooklyn, NY, USA",
+"lat": 40.727101,
+"lng": -73.953395
+},
+"99-103 Stockholm Street, Brooklyn, NY 11221": {
+"borough": "Brooklyn",
+"confidence": 0.8,
+"label": "103 STOCKHOLM STREET, Brooklyn, NY, USA",
+"lat": 40.697722,
+"lng": -73.92483
+},
+"999 Freeman Street, Bronx, NY 10459": {
+"borough": "Bronx",
+"confidence": 0.8,
+"label": "999 FREEMAN STREET, Bronx, NY, USA",
+"lat": 40.829576,
+"lng": -73.887777
+}
+}

@@ -1,0 +1,2483 @@
+[
+  {
+    "name": "Jerome Avenue Men's Shelter (JAMS)",
+    "provider": "BronxWorks",
+    "address": "3600 Jerome Avenue, Bronx, NY 10467",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [
+      "man"
+    ],
+    "min_age": null,
+    "max_age": null,
+    "populations": [
+      "mental_health"
+    ],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "Jerome Avenue Menï¿½s Shelter",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20230316119",
+    "source_type": "government",
+    "quote": "To provide shelter services for Single Aduts at Jerome Avenue Shelter 3600 Jerome Avenue, Bronx, NY.",
+    "notes": "Population from operator page (https://bronxworks.org/our-services/adult-and-family-homeless-services/adult-shelter-services/): 'provides beds to 200 men with mental illness who are experiencing homelessness.'"
+  },
+  {
+    "name": "Pyramid Safe Haven",
+    "provider": "BronxWorks",
+    "address": "470 East 161st Street, Bronx, NY 10451",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Safe Haven",
+    "household": [
+      "single"
+    ],
+    "gender": [
+      "man"
+    ],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "street outreach referral (Safe Haven)",
+    "dhs_directory_name": "Pyramid Safe Haven",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20220729108",
+    "source_type": "government",
+    "quote": "Services at Pyramid Safe Haven - Safe Haven - 470 East 161 Street, Bronx, NY 10451 Open Ended Renewal #1",
+    "notes": "Operator (https://bronxworks.org/our-services/adult-and-family-homeless-services/adult-shelter-services/): 'The Pyramid Safe Haven has 125 beds for single adult males.' Safe Havens 'only accept referrals from New York City Department of Homeless Services Street Homeless Outreach Teams.'"
+  },
+  {
+    "name": "Barretto Street / Lafayette Safe Haven",
+    "provider": "BronxWorks",
+    "address": "800 Barretto Street (also known as 1241 Lafayette Avenue), Bronx, NY 10474",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Safe Haven",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "street outreach referral (Safe Haven)",
+    "dhs_directory_name": "BronxWorks Safe Haven",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20240814108",
+    "source_type": "government",
+    "quote": "Safe Haven shelter services for homeless adults located at 800 Barretto Street (also known as 1241 Lafayette Avenue), Bronx, NY 10474.",
+    "notes": "DHS calls this 'Lafayette Safe Haven'; BronxWorks calls it Barretto Street Safe Haven (50 beds for homeless adults, outreach-referral only, per https://bronxworks.org/our-services/adult-and-family-homeless-services/adult-shelter-services/). Same building houses BronxWorks' Living Room drop-in center. Directory match by provider + 50-bed capacity."
+  },
+  {
+    "name": "Franklin Women's Shelter (single women's intake)",
+    "provider": "HELP USA (HELP Social Service Corporation)",
+    "address": "1122 Franklin Avenue, Bronx, NY 10456",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [
+      "woman"
+    ],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "walk-in (DHS intake site for all single adult women)",
+    "dhs_directory_name": "Franklin Women's Shelter",
+    "source_url": "https://www.nyc.gov/site/dhs/shelter/singleadults/single-adults-applying.page",
+    "source_type": "government",
+    "quote": "All single adult women must apply at: | Franklin Shelter | 1122 Franklin Avenue (near 166th Street) | Bronx, NY",
+    "notes": "Also confirmed by City Record NAE notice 20260305025 ('Franklin Womens Shelter, located at 1122 Franklin Ave, Bronx NY 10456')."
+  },
+  {
+    "name": "Phelan Men's Shelter (Phelan's Place)",
+    "provider": "Samaritan Daytop Village",
+    "address": "1851 Phelan Place, Bronx, NY 10453",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [
+      "man"
+    ],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "Phelan Men's Shelter",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260611040",
+    "source_type": "government",
+    "quote": "Shelter Facilities for Homeless Single Adults located at 1851 Phelan Place, Bronx, NY 10453.",
+    "notes": null
+  },
+  {
+    "name": "Willow Avenue Men's Shelter",
+    "provider": "Westhab",
+    "address": "781 East 135th Street, Bronx, NY 10454",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [
+      "man"
+    ],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "Willow Men's Shelter",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260225022",
+    "source_type": "government",
+    "quote": "for the Willow Ave Men\u001as Shelter, located at 781 East 135th Street, Bronx, NY 10454, and Holiday Inn Express, located at 113-10 Horace Harding Expwy, Queens NY 11368.",
+    "notes": null
+  },
+  {
+    "name": "Bruckner Rapid Re-Housing Center",
+    "provider": "Westhab",
+    "address": "500 East 134th Street, Bronx, NY 10454",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "Bruckner Rapid Re-Housing Center",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20250718018",
+    "source_type": "government",
+    "quote": "Located at 500 East 134th Street, Bronx, NY 10454.",
+    "notes": null
+  },
+  {
+    "name": "Delta Manor Shelter",
+    "provider": "Center for Urban Community Services (CUCS)",
+    "address": "1530 Beach Avenue, Bronx, NY 10460",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "Delta Manor",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260817006",
+    "source_type": "government",
+    "quote": "Shelter services to homeless single adults at Delta Manor Shelter, 1530 Beach Avenue, Bronx, NY 10460.",
+    "notes": null
+  },
+  {
+    "name": "El Cacique Court",
+    "provider": "NAICA",
+    "address": "2314 Jerome Avenue, Bronx, NY 10468",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "El Cacique Court",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260728014",
+    "source_type": "government",
+    "quote": "Shelter Facilities for Homeless SA at El Cacique Court located at 2314 Jerome Avenue, Bronx, NY 10468 (197 beds) as well as annex Hotel Arex, 9 Malcolm X Boulevard, Brooklyn, NY 11221 (204 beds) (total 401 beds)",
+    "notes": null
+  },
+  {
+    "name": "Park Avenue (Bronx) Shelter",
+    "provider": "NAICA",
+    "address": "3339 Park Avenue, Bronx, NY 10456",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "NAICA I",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260811015",
+    "source_type": "government",
+    "quote": "Shelter services for homeless single adults at Park Avenue (Bronx) Shelter, 3339 Park Avenue, Bronx NY 10456.",
+    "notes": "Directory match 'NAICA I' based on provider + 241-bed capacity (notice: 241 beds)."
+  },
+  {
+    "name": "Dona Carmen's Place Shelter",
+    "provider": "NAICA",
+    "address": "413 East 152nd Street, Bronx, NY 10455",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "Dona Carmens Place",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260709015",
+    "source_type": "government",
+    "quote": "Located at 413 East 152nd Street, Bronx, NY 10455.",
+    "notes": null
+  },
+  {
+    "name": "East Tremont Shelter",
+    "provider": "NAICA",
+    "address": "321 East Tremont Avenue, Bronx, NY 10457",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "NAICA II",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20211231114",
+    "source_type": "government",
+    "quote": "Renewal - 321 East Tremont Ave, Bronx, NY 10457",
+    "notes": "Directory match 'NAICA II' by provider + 154 beds. NOTE: a 2025 City Record notice (20250724009) prints ZIP 10472; the 2022 notice used here prints 10457."
+  },
+  {
+    "name": "Southern Boulevard Shelter",
+    "provider": "NAICA",
+    "address": "1527 Southern Boulevard, Bronx, NY 10460",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": null,
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20240315102",
+    "source_type": "government",
+    "quote": "EPIN 07119P8257KXLR001.To provide Shelter Services for Single Adults at Southern Boulevard Shelter located at 1527 Southern Boulevard, Bronx, NY 10460.",
+    "notes": null
+  },
+  {
+    "name": "Amado Shelter",
+    "provider": "Black Veterans for Social Justice",
+    "address": "4511 Furman Avenue, Bronx, NY 10470",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [
+      "man"
+    ],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "Amado",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260615030",
+    "source_type": "government",
+    "quote": "Located at Amado Shelter, 4511 Furman Avenue, Bronx, NY 10470.",
+    "notes": "Gender from operator bvsj.org/housing-division: 'AMADO | 200-bed men's shelter in the Bronx.'"
+  },
+  {
+    "name": "Zawadi House",
+    "provider": "Black Veterans for Social Justice",
+    "address": "360 East 193rd Street, Bronx, NY 10458",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [
+      "woman"
+    ],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "ZAWADI HOUSE",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20230815108",
+    "source_type": "government",
+    "quote": "Located at 360 East 193rd Street, Bronx NY 10458.",
+    "notes": "Gender from operator bvsj.org/housing-division: 'ZAWADI HOUSE | 110-bed women's shelter in the Bronx.'"
+  },
+  {
+    "name": "Lanet's Place",
+    "provider": "Bronx Parent Housing Network",
+    "address": "463 East 173rd Street, Bronx, NY 10457",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "BPHN Lanets Place",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260623029",
+    "source_type": "government",
+    "quote": "Shelter Facilities for Homeless Single Adults at Lanet's Place located at 463 East 173rd Street, Bronx, NY 10457 (166 beds) Annexes: The View Hotel Annex, 111-26 Van Wyck Expressway, Jamaica, NY 11420 (110 beds) Van Wyck Hotel Annex, 143-18 Liberty Avenue, Jamaica, NY 11435 (170 beds)",
+    "notes": null
+  },
+  {
+    "name": "Father Smith Residence",
+    "provider": "SEBCO Development",
+    "address": "1214-1218 Hoe Avenue, Bronx, NY 10459",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "Father Smith",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20210804023",
+    "source_type": "government",
+    "quote": "SEBCO Development, Inc. Father Smith 3 21PHEDA07301 $30,280,140 885 Bruckner Blvd. Residence Bronx, NY 10459 1214-1218 Hoe Ave. Bronx, NY 10459",
+    "notes": "Two-column table in notice (2021; contract to 12/2026)."
+  },
+  {
+    "name": "HELP Creston Shelter",
+    "provider": "HELP USA (HELP Social Service Corporation)",
+    "address": "2524 Creston Avenue, Bronx, NY 10468",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [
+      "man"
+    ],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "Creston Men's Center",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20220207010",
+    "source_type": "government",
+    "quote": "IN THE MATTER OF a proposed contract between the Department of Homeless Services of the City of New York and Help Social Service Corporation, located at 115 East 13th Street, New York, NY 10003, for the provision of Shelter Facilities for Homeless Single Adults at HELP Creston Shelter located at 2524 Creston Avenue, Bronx, NY 10468.",
+    "notes": "Gender inferred from the DHS directory name 'Creston Men's Center' (Open Data, Dec 2022), not from the City Record notice. Notice dated 2022 (contract 7/2022-6/2027)."
+  },
+  {
+    "name": "HELP Davidson Shelter",
+    "provider": "HELP USA (HELP Social Service Corporation)",
+    "address": "2323 Davidson Avenue, Bronx, NY 10468",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": null,
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260429012",
+    "source_type": "government",
+    "quote": "Shelter Facilities for Homeless SA at HELP Davidson Shelter, 2323 Davidson Avenue, Bronx, NY 10468.",
+    "notes": null
+  },
+  {
+    "name": "Stadium Shelter",
+    "provider": "Acacia Network",
+    "address": "1260 Sedgwick Avenue, Bronx, NY 10452",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "THE STADIUM WOMEN'S SHELTER",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20220428111",
+    "source_type": "government",
+    "quote": "Provision of shelter facilities for homeless single adults at Stadium shelter located at 1260 Sedgwick Avenue, Bronx , NY (Group 50).",
+    "notes": "DOUBT: DHS directory (Dec 2022) calls it 'THE STADIUM WOMEN'S SHELTER', but an older NYSED record calls 1260 Sedgwick 'Basics Stadium Men's Shelter'. Gender left blank; confirm before referring. Notice 2022 (contract through 6/2026)."
+  },
+  {
+    "name": "Westchester Avenue Single Adult Shelter",
+    "provider": "Samaritan Daytop Village",
+    "address": "2008 Westchester Avenue, Bronx, NY 10462",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [
+      "man"
+    ],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "Westchester Avenue Mens Shelter",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20240706111",
+    "source_type": "government",
+    "quote": "Stand-Alone Transitional Residence shelter services for homeless single adults at 2008 Westchester Avenue, Bronx, NY 10462 (with 2 Annex sites).",
+    "notes": "Gender from DHS directory name 'Westchester Avenue Mens Shelter' (Dec 2022); notice says only 'single adults'. Provider per City Record 20240425107."
+  },
+  {
+    "name": "Haven House Shelter",
+    "provider": "Community Housing Innovations",
+    "address": "1591 East 233rd Street, Bronx, NY 10466",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": null,
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260629015",
+    "source_type": "government",
+    "quote": "Shelter Facilities for Homeless Single Adults, at Haven House Shelter, 1591 East 233rd Street, Bronx, NY 10466 (200 beds); Hotel Super 8 Annex, 267 3rd Avenue, Brooklyn, NY 11215 (105 beds); Red Lion Hotel Annex, 279 Butler Street, Brooklyn, NY 11217 (198 beds).",
+    "notes": null
+  },
+  {
+    "name": "Hudson Bay Shelter",
+    "provider": "Lantern Community Services",
+    "address": "1682 Stillwell Avenue, Bronx, NY 10461",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": null,
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260507023",
+    "source_type": "government",
+    "quote": "Located at 1682 Stillwell Avenue, Bronx, NY 10461 Round 37 (200 units)",
+    "notes": null
+  },
+  {
+    "name": "Needham Court",
+    "provider": "Housing Options & Geriatric Association Resources (HOGAR)",
+    "address": "2101 Needham Avenue, Bronx, NY 10469",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": null,
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260507021",
+    "source_type": "government",
+    "quote": "Needham Court, 2101 Needham Avenue, Bronx, NY 10469 Round 24.",
+    "notes": null
+  },
+  {
+    "name": "Poplar Street Shelter",
+    "provider": null,
+    "address": "2443 Poplar Street, Bronx, NY 10461",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": null,
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20230831108",
+    "source_type": "government",
+    "quote": "Located at 2443 Poplar Street, Bronx, NY 10461 (Evaluation group 59).",
+    "notes": null
+  },
+  {
+    "name": "Ana's Place",
+    "provider": "Project Renewal",
+    "address": "4380 Bronx Boulevard, Bronx, NY 10466",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [
+      "man"
+    ],
+    "min_age": null,
+    "max_age": null,
+    "populations": [
+      "mental_health",
+      "substance_use"
+    ],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "Ana's Place",
+    "source_url": "https://www.projectrenewal.org/wp-content/uploads/2024/08/ProjectRenewal_LocationsMap_FINAL_OCT2023.pdf",
+    "source_type": "operator",
+    "quote": "ANA'S PLACE 4380 Bronx Boulevard, Bronx, NY 10466 Serves: Men with mental illness diagnoses and/or substance use histories Offers: Emergency Shelter, Mental Health Care, Occupational Therapy, Primary Care",
+    "notes": "Operator program page says 'adults' with mental illness/MICA; the operator locations map says 'Men'."
+  },
+  {
+    "name": "Marsha's House",
+    "provider": "Project Renewal",
+    "address": "480 East 185th Street, Bronx, NY 10458",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [
+      "man",
+      "woman"
+    ],
+    "min_age": 18,
+    "max_age": 35,
+    "populations": [
+      "lgbtq"
+    ],
+    "access": "DHS intake assignment; screened shelter - client interview/referral (self-referral allowed with an open DHS single adult case), then DHS transfer",
+    "dhs_directory_name": "Marsha's House",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260702011",
+    "source_type": "government",
+    "quote": "Located at 480 East 185th Street, Bronx, NY 10458",
+    "notes": "Operator FAQ (projectrenewal.org, Sept 2025): screened shelter for LGBTQIA+ young adults ages 18-35; dorms for Female, Male and TGNC; clients need an open DHS single adult case; referral by self, CBOs, or current shelter, then DHS transfer. Not ADA accessible (5-floor walk-up)."
+  },
+  {
+    "name": "Susan's Place",
+    "provider": "Care for the Homeless",
+    "address": "1921 Jerome Avenue, Bronx, NY 10453",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [
+      "woman"
+    ],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "Susan's Place",
+    "source_url": "https://www.careforthehomeless.org/news/susan/",
+    "source_type": "operator",
+    "quote": "Our shelter at 1921 Jerome Avenue was the next development in CFH’s trajectory.",
+    "notes": "Women-only per operator (careforthehomeless.org/our-shelters: 'opened Susan’s Place Women’s Shelter in 2008'). ZIP 10453 and range '1911-1921 jerome Ave' from NYSED record op.nysed.gov/care-homeless-inc-susans-place."
+  },
+  {
+    "name": "Reaching New Heights Residence",
+    "provider": "Bowery Residents' Committee (BRC)",
+    "address": "237 Landing Road, Bronx, NY 10468",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [
+      "man"
+    ],
+    "min_age": null,
+    "max_age": null,
+    "populations": [
+      "employment"
+    ],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "Reaching New Heights Residence",
+    "source_url": "https://www.op.nysed.gov/bowery-residents-committee-reaching-new-heights-residence",
+    "source_type": "government",
+    "quote": "Additional Setting | Certificate Number: 8810 Name: Reaching New Heights Residence Address: 237 Landing Rd | Bronx, NY 10468",
+    "notes": "Population from operator brc.org/shelter: '200-bed shelter serving employed or employable men, providing employment services'."
+  },
+  {
+    "name": "Morris Avenue Safe Haven",
+    "provider": "Care for the Homeless",
+    "address": "528 Morris Avenue, Bronx, NY 10451",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Safe Haven",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "street outreach referral (Safe Haven)",
+    "dhs_directory_name": "Care Found Here XX Avenue",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20250603020",
+    "source_type": "government",
+    "quote": "Full range of on site services including housing placement services, information and referral, housing preparation, facility security and maintenance, counseling and case management, and recreation, clothing and linkage to other community based programs for Homeless Single Adults at Morris Avenue Safe Haven located at 528 Morris Avenue, Bronx, NY 10451.",
+    "notes": "Directory match 'Care Found Here XX Avenue' (name redacted in Open Data) by provider Care for the Homeless + Safe Haven + 80 beds."
+  },
+  {
+    "name": "Webster Avenue Safe Haven",
+    "provider": "Urban Pathways",
+    "address": "1732 Webster Avenue, Bronx, NY 10457",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Safe Haven",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "street outreach referral (Safe Haven)",
+    "dhs_directory_name": "Webster Safe Haven",
+    "source_url": "https://urbanpathways.org/locations/webster-avenue-safe-haven/",
+    "source_type": "operator",
+    "quote": "Location | 1732 Webster Avenue New York 10457",
+    "notes": "Operator page also says it 'serves 60 single adults'. DOUBT: City Record 2024 renewal (20241115003) lists 'Webster Safe Haven ... 1734 Webster Avenue, Bronx, NY 10457' - likely the same building."
+  },
+  {
+    "name": "Webster Ave. Safe Haven (The Bridge)",
+    "provider": "The Bridge",
+    "address": "2248 Webster Avenue, Bronx, NY 10457",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Safe Haven",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "street outreach referral (Safe Haven)",
+    "dhs_directory_name": null,
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20230925005",
+    "source_type": "government",
+    "quote": "Safe Haven Bronx/ 6 07121P0125002 $130,704,988.00 290 Lenox Avenue, 2248 Webster Avenue 3rd Floor Bronx, NY 10457 New York, NY 10027 The proposed contractor has been selected by Competitive Sealed Proposal Method, pursuant to Section 3-03 of the Procurement Policy Board Rules.",
+    "notes": "DOUBT: address parsed from a two-column table in the notice (contractor 290 Lenox Ave vs. site 2248 Webster Ave); contract started 7/2023, so may be newer than the 2022 directory."
+  },
+  {
+    "name": "Marmion Safe Haven",
+    "provider": "The Bridge",
+    "address": "1790 Marmion Avenue, Bronx, NY 10460",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Safe Haven",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "street outreach referral (Safe Haven)",
+    "dhs_directory_name": null,
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260406029",
+    "source_type": "government",
+    "quote": "for provision of vital services for the agency\u001as clients at the Marmion Safe Haven Shelter, located at 1790 Marmion Ave Bronx, NY 10460.",
+    "notes": "An older NYSED record lists VIP 'Men's Residence' at 1790 Marmion Ave; the 2026 City Record notice names The Bridge's Marmion Safe Haven here."
+  },
+  {
+    "name": "146th Street Safe Haven",
+    "provider": "Comunilife",
+    "address": "345-347 East 146th Street, Bronx, NY 10451",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Safe Haven",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "street outreach referral (Safe Haven)",
+    "dhs_directory_name": null,
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260422015",
+    "source_type": "government",
+    "quote": "for the 146th Street Safe Haven located at 345-347 East 146th Street, Bronx, NY 10451.",
+    "notes": null
+  },
+  {
+    "name": "Monroe Avenue Safe Haven",
+    "provider": "Comunilife",
+    "address": "1660 Monroe Avenue, Bronx, NY 10457",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Safe Haven",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "street outreach referral (Safe Haven)",
+    "dhs_directory_name": "Comunilife Safe Haven II",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20240814109",
+    "source_type": "government",
+    "quote": "Open Ended RFP at 1660 Monroe Avenue, Bronx, NY 10457 - Round 12 (42 beds)",
+    "notes": "Provider inferred from 2015 City Record notice (Comunilife, 1660 Monroe Avenue); directory match 'Comunilife Safe Haven II' by 42-bed capacity."
+  },
+  {
+    "name": "Cromwell Avenue Safe Haven",
+    "provider": "Volunteers of America-Greater New York",
+    "address": "1365 Cromwell Avenue, Bronx, NY 10452",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Safe Haven",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "street outreach referral (Safe Haven)",
+    "dhs_directory_name": "VOA Safe Haven",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20230713135",
+    "source_type": "government",
+    "quote": "Renewal + 25% Miscellaneous Allowance for homeless single adults at the VOA Cromwell Avenue Safe Haven located at 1365 Cromwell Avenue, Bronx, New York, NY 10452, which is also known as 40 West 170th Street, Bronx, NY 10452.",
+    "notes": null
+  },
+  {
+    "name": "Stebbins Stabilization Beds",
+    "provider": "BronxWorks",
+    "address": "1397 Stebbins Avenue, Bronx, NY 10459",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Stabilization Beds",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "street outreach referral (stabilization bed)",
+    "dhs_directory_name": null,
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260609036",
+    "source_type": "government",
+    "quote": "Stebbins Stabilization Beds, 1397 Stebbins Avenue, Bronx, NY 10459.",
+    "notes": null
+  },
+  {
+    "name": "Prospect Stabilization",
+    "provider": "Acacia Network",
+    "address": "963 Prospect Avenue, Bronx, NY 10459",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Stabilization Beds",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "street outreach referral (stabilization bed)",
+    "dhs_directory_name": null,
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260610042",
+    "source_type": "government",
+    "quote": "Development and operation of Stabilization bed program at Prospect Stabilization, 963 Prospect Avenue, Bronx, NY 10459.",
+    "notes": null
+  },
+  {
+    "name": "Tov Stabilization Bed Program",
+    "provider": "Acacia Network",
+    "address": "2287 University Avenue, Bronx, NY 10468",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Stabilization Beds",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "street outreach referral (stabilization bed)",
+    "dhs_directory_name": null,
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260610043",
+    "source_type": "government",
+    "quote": "2287 University Avenue, Bronx, NY 10468 (77 beds)",
+    "notes": "Provider (Acacia Network) from City Record notice 20260211035."
+  },
+  {
+    "name": "Park Overlook Stabilization",
+    "provider": "Children's Rescue Fund",
+    "address": "1938 Webster Avenue, Bronx, NY 10475 (ZIP as published; likely 10457)",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Stabilization Beds",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "street outreach referral (stabilization bed)",
+    "dhs_directory_name": null,
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260604033",
+    "source_type": "government",
+    "quote": "Shelter services to homeless single adults with Stabilization Beds at Park Overlook Stabilization, 1938 Webster Avenue, Bronx, NY 10475.",
+    "notes": "DOUBT: both City Record notices print ZIP 10475, which does not match Webster Avenue (likely 10457). Verify before sending anyone."
+  },
+  {
+    "name": "HELP Bronx Morris Avenue",
+    "provider": "HELP USA",
+    "address": "285 East 171st Street, Bronx, NY 10457",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "HELP - BRONX MORRIS",
+    "source_url": "https://www.nyc.gov/assets/dhs/downloads/pdf/notice-of-intent-to-renew-help-bronx-07120P8185KXLR001.pdf",
+    "source_type": "government",
+    "quote": "Shelter Services for Families with Children HELP - Bronx 115 East 13th Street New York, NY 10003 Site: Morris 285 East 171st Bronx, NY 10457",
+    "notes": null
+  },
+  {
+    "name": "Sammon B.U.I.L.D. Center",
+    "provider": "Tolentine Zeiser Community Life Center",
+    "address": "2294 Grand Avenue, Bronx, NY 10468",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "SAMMON B.U.I.L.D. CT",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260701016",
+    "source_type": "government",
+    "quote": "Shelter Facilities for Homeless Families with Children located at 2294 Grand Avenue, Bronx , NY 10468.",
+    "notes": null
+  },
+  {
+    "name": "Siena House",
+    "provider": "Tolentine Zeiser Community Life Center",
+    "address": "85 West 168th Street, Bronx, NY 10452",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "SIENA HOUSE",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260616036",
+    "source_type": "government",
+    "quote": "Located at 85 West 168th Street, Bronx NY 10452.",
+    "notes": null
+  },
+  {
+    "name": "Hall Place Family Residence",
+    "provider": "New Hope Transitional Housing",
+    "address": "1075 Hall Place, Bronx, NY 10459",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "HALL FAMILY RESIDENCE",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260623027",
+    "source_type": "government",
+    "quote": "To develop & operate a Stand Alone Transitional Residence for Homeless Families with Children - Hall Place Family Residence, 1075 Hall Place, Bronx, NY 10459.",
+    "notes": null
+  },
+  {
+    "name": "Morris Park Family Residence",
+    "provider": "New Hope Transitional Housing",
+    "address": "437 Morris Park Avenue, Bronx, NY 10460",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "Morris Park Family Residence",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20250604024",
+    "source_type": "government",
+    "quote": "To develop and operate a stand-alone transitional residence for homeless families with children at Morris Park Family Residence, 437 Morris Park Avenue, Bronx, NY 10460.",
+    "notes": null
+  },
+  {
+    "name": "Boynton Family Residence",
+    "provider": "New Hope Transitional Housing",
+    "address": "1056 Boynton Avenue, Bronx, NY 10472",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "BOYNTON FAMILY RESIDENCE",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20250604025",
+    "source_type": "government",
+    "quote": "FY26 renewal with allowance for development and operation of stand-alone transitional residence for families with children at Boynton Family Residence, 1056 Boynton Avenue, Bronx, NY 10472.",
+    "notes": null
+  },
+  {
+    "name": "Manor Family Residence",
+    "provider": "New Hope Transitional Housing",
+    "address": "1101 Manor Avenue, Bronx, NY 10472",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "MANOR FAMILY RESIDENCE",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20250604026",
+    "source_type": "government",
+    "quote": "Stand-alone transitional residence shelter services for homeless families with children (FWC) at Manor Family Residence located at 1101 Manor Avenue, Bronx, NY 10472.",
+    "notes": null
+  },
+  {
+    "name": "Jackie's Place",
+    "provider": "Bronx Parent Housing Network",
+    "address": "1138 Teller Avenue, Bronx, NY 10456",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "JACKIE'S PLACE",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260622036",
+    "source_type": "government",
+    "quote": "for Jackie\u001as Place, a Families with Children shelter site located at 1138 Teller Avenue, Bronx, NY 10456.",
+    "notes": null
+  },
+  {
+    "name": "Christopher's Place",
+    "provider": "Bronx Parent Housing Network",
+    "address": "1190 Washington Avenue, Bronx, NY 10456",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "CHRISTOPHERS PLACE",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20240626114",
+    "source_type": "government",
+    "quote": "Homeless Families With Children located at 1190 Washington Avenue, Bronx, NY 10456.",
+    "notes": null
+  },
+  {
+    "name": "New Life Family Residence",
+    "provider": "Bronx Parent Housing Network",
+    "address": "1387 Grand Concourse, Bronx, NY 10452",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "New Life Family Residence",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20220429102",
+    "source_type": "government",
+    "quote": "To provide a Stand Alone Transitional Residence for Families with Children, 1387 Grand Concourse, Bronx, NY 10452.",
+    "notes": null
+  },
+  {
+    "name": "Briggs Housing Residence",
+    "provider": "Bronx Parent Housing Network",
+    "address": "3001 Briggs Avenue, Bronx, NY 10458",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "Briggs Housing Residence",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20220426101",
+    "source_type": "government",
+    "quote": "The Department of Homeless Services of the New York City Department of Social Services, plans to renew (1) contract with the contractor listed below, for the Provision of a Stand Alone Transitional Residence for Families with Children, 3001 Briggs Ave, Bronx, NY 10458.",
+    "notes": null
+  },
+  {
+    "name": "Dona Elsie Family Residence",
+    "provider": "Highland Park Community Development Corp.",
+    "address": "1625 Fulton Avenue, Bronx, NY 10457",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "Dona Elsie Family Shelter",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260609035",
+    "source_type": "government",
+    "quote": "Located at 1625 Fulton Avenue, Bronx, NY 10457 (101 units)",
+    "notes": null
+  },
+  {
+    "name": "Prospect Family Residence (Prospect Interfaith)",
+    "provider": "Homes for the Homeless",
+    "address": "730 Kelly Street, Bronx, NY 10455",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "PROSPECT INTERFAITH",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260609037",
+    "source_type": "government",
+    "quote": "Located at 730 Kelly Street, Bronx NY 10455.",
+    "notes": null
+  },
+  {
+    "name": "Allie's Place Family Residence",
+    "provider": "Homes for the Homeless",
+    "address": "1600 Randall Avenue, Bronx, NY 10473",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "ALLIES PLACE",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20240405109",
+    "source_type": "government",
+    "quote": "EPIN 07120P8192KXLR001.To provide Shelter Services for Families with Children at Allie's Place Family Residence at 1600 Randall Avenue, Bronx, NY 10473.",
+    "notes": null
+  },
+  {
+    "name": "Williamsbridge Family Residence",
+    "provider": "Homes for the Homeless",
+    "address": "946 East 211th Street, Bronx, NY 10469",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "WILLIAMSBRIDGE FAMILY INN",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20250721008",
+    "source_type": "government",
+    "quote": "946 East 211th Street Bronx, NY, 10469.",
+    "notes": null
+  },
+  {
+    "name": "Crystal's Place",
+    "provider": "Acacia Network",
+    "address": "555 Hutchinson River Parkway, Bronx, NY 10465",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "CRYSTAL'S PLACE",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20240723113",
+    "source_type": "government",
+    "quote": "The site serves 91 Families with Children and is located at 555 Hutchinson River Parkway, Bronx, NY 10465.",
+    "notes": null
+  },
+  {
+    "name": "Carmen's Residence",
+    "provider": "Acacia Network",
+    "address": "1650 Undercliff Avenue, Bronx, NY 10453",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "CARMEN'S RESIDENCE",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20250602019",
+    "source_type": "government",
+    "quote": "Carmen\u001as Residence at 1650 Undercliff Avenue, Bronx, NY 10453 Round 37- FWC-81 units",
+    "notes": null
+  },
+  {
+    "name": "St. Peter's Residence",
+    "provider": "Acacia Network",
+    "address": "1564 St. Peter's Avenue, Bronx, NY 10461",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "ST PETERS AVENUE ACACIA RESID",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20240706109",
+    "source_type": "government",
+    "quote": "Peter's Residence, 1564 St. Peter's Avenue, Bronx, NY 10461",
+    "notes": null
+  },
+  {
+    "name": "Henwood Family Residence",
+    "provider": "Acacia Network",
+    "address": "115 Henwood Place, Bronx, NY 10453",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "HENWOOD PLACE",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20220720112",
+    "source_type": "government",
+    "quote": "A Stand Alone Transitional Residence for families with children at Henwood Family Residence located at 115 Henwood Place, Bronx, NY 10453",
+    "notes": null
+  },
+  {
+    "name": "Ketty's Place I & II",
+    "provider": "Acacia Network",
+    "address": "711 and 691 East 140th Street, Bronx, NY 10454",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "KETTY'S PLACE",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20250723017",
+    "source_type": "government",
+    "quote": "Round 33 - Kettys Place I & II, 711 and 691 East 140th Street, Bronx, NY 10454 (97 units).",
+    "notes": null
+  },
+  {
+    "name": "Wales Family Residence",
+    "provider": "Acacia Network",
+    "address": "585 Wales Avenue, Bronx, NY 10455",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "WALES FAMILY RESIDENCE",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20231212032",
+    "source_type": "government",
+    "quote": "IN THE MATTER OF a proposed contract between the Department of Homeless Services of the City of New York and Acacia Network Housing, Inc., located at 300 East 175th Street, Bronx, NY 10457, for the provision of Shelter Facilities for Homeless Families with Children at 585 Wales Avenue, Bronx, NY 10455.",
+    "notes": null
+  },
+  {
+    "name": "Echo Place Family Residence",
+    "provider": "Services for the UnderServed (SUS)",
+    "address": "246 Echo Place, Bronx, NY 10457",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "ECHO FAMILY RESIDENCE",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20250611026",
+    "source_type": "government",
+    "quote": "Renewal for the provision of full range of on site services including housing placement services, information and referral, housing preparation, facility security and maintenance, counseling and case management, and recreation, clothing, and linkage to other community based program regarding Stand Alone Transitional Residences for Homeless Families with Children (FWC) at Echo Place located at 246 Echo Place, Bronx, NY 10457.",
+    "notes": null
+  },
+  {
+    "name": "Anchor Family Shelter",
+    "provider": "Services for the UnderServed (SUS)",
+    "address": "240 East 178th Street, Bronx, NY 10457",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "Anchor Family Shelter",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20240626115",
+    "source_type": "government",
+    "quote": "Shelter for Homeless Families with Children located at 240 East 178th Street, Bronx, NY 10457.",
+    "notes": null
+  },
+  {
+    "name": "Town and Country Rapid Re-Housing",
+    "provider": "Westhab",
+    "address": "2244 Tillotson Avenue, Bronx, NY 10475",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "TOWN AND COUNTRY",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20240717110",
+    "source_type": "government",
+    "quote": "Shelter Services for Homeless Families with Children, 2244 Tillotson Avenue, Bronx, NY 10475",
+    "notes": null
+  },
+  {
+    "name": "Edward L. Grant Rapid Re-Housing Center",
+    "provider": "Westhab",
+    "address": "1401 Edward L. Grant Highway, Bronx, NY 10452",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "Edward L. Grant",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20230615114",
+    "source_type": "government",
+    "quote": "Renewal + 25% Miscellaneous Allowance FY27 for homeless families located at 1401 Edward L. Grant Highway, Bronx, NY 10452.",
+    "notes": null
+  },
+  {
+    "name": "Intervale Rapid Re-Housing Center",
+    "provider": "Westhab",
+    "address": "1032 Intervale Avenue, Bronx, NY 10459",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "Intervale Rapid Re-Housing Center",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20200924014",
+    "source_type": "government",
+    "quote": "Intervale Rapid 07119I0003017 $52,939,252.00 8 Bashford Street Re-Housing Center Yonkers, NY 10701 1032 Intervale Avenue Bronx, NY 10459 The proposed contractor has been selected through HHS ACCELERATOR, pursuant to Section 3-16 of the Procurement Policy Board Rules.",
+    "notes": "2020 notice; contract through 6/2029."
+  },
+  {
+    "name": "Evergreen Family Residence",
+    "provider": "CAMBA",
+    "address": "1144 Evergreen Avenue, Bronx, NY 10472",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "CAMBA EVERGREEN",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20240131111",
+    "source_type": "government",
+    "quote": "The Department of Homeless Services of the New York City Department of Social Services, plans to renew (1) contract with the contractor listed below, to provide Shelter Services for Families with Children at Evergreen Family Residence located at 1144 Evergreen Avenue, Bronx, NY 10472.",
+    "notes": null
+  },
+  {
+    "name": "Thorpe House",
+    "provider": "Nazareth Housing",
+    "address": "2252 Crotona Avenue, Bronx, NY 10457",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "THORPE RESIDENCE",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20230614119",
+    "source_type": "government",
+    "quote": "Renewal and Allowance for FY 27 for Thorpe House at 2252 Crotona Avenue, Bronx, NY 10457",
+    "notes": null
+  },
+  {
+    "name": "Crotona Inn",
+    "provider": "SCO Family of Services",
+    "address": "3674 Third Avenue, Bronx, NY 10456",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "CROTONA INN",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20220805108",
+    "source_type": "government",
+    "quote": "SHELTER SERVICES FOR HOMELESS FAMILIES AT CROTONA INN 3674 THIRD AVE.",
+    "notes": null
+  },
+  {
+    "name": "Nelson Avenue Family Residence",
+    "provider": "BronxWorks",
+    "address": "1605 Nelson Avenue, Bronx, NY 10453",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "NELSON FAM RESID",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20220526002",
+    "source_type": "government",
+    "quote": "IN THE MATTER OF a proposed contract between the Department of Homeless Services of the City of New York and BronxWorks, Inc., located at 60 East Tremont Avenue, Bronx, NY 10453, for the provision of Shelter Facilities for Homeless Families with Children at 1605 Nelson Avenue, Bronx, NY 10453.",
+    "notes": null
+  },
+  {
+    "name": "Concourse House",
+    "provider": "Concourse House HDFC",
+    "address": "2751 Grand Concourse, Bronx, NY 10468",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "CONCOURSE HSE",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20220801105",
+    "source_type": "government",
+    "quote": "Prov of Shelter  Facilities for Homeless Families with Children, Round #5, Concourse House, 2751 Grand Concourse, Bronx, NY 10468",
+    "notes": null
+  },
+  {
+    "name": "CRF Hope House",
+    "provider": "Children's Rescue Fund",
+    "address": "162 East 206th Street, Bronx, NY 10458",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "CRF Hope House",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20220222110",
+    "source_type": "government",
+    "quote": "Provision of Shelter Facilities for Homeless Families with Children at CRF Hope House, 162 East 206th Street, Bronx, NY 10458",
+    "notes": null
+  },
+  {
+    "name": "Lafayette Family Residence",
+    "provider": "Home/Life Services",
+    "address": "1792 Lafayette Avenue, Bronx, NY 10473",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "LAFAYETTE FAMILY RESIDENCE",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20220622120",
+    "source_type": "government",
+    "quote": "TO OPERATE A STAND ALONE TRANSITIONAL RESIDENCE FOR HOMELESS FAMILIES (OERFP) WITH CHILDREN AT LAFAYETTE FAMILY RESIDENCE LOCATED AT 1792 LAFAYETTE AVENUE, BRONX, NY, 10473.",
+    "notes": null
+  },
+  {
+    "name": "Taylor Avenue Family Residence",
+    "provider": "Urban Resource Institute",
+    "address": "1535 Taylor Avenue, Bronx, NY 10460",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "TAYLOR FAMILY RESIDENCE",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20210409108",
+    "source_type": "government",
+    "quote": "for Homeless Families with Children @ Taylor Avenue shelter, 1535 Taylor Avenue, Bronx, NY 10460",
+    "notes": "DHS families-with-children shelter (not a DV site) per notice; 2021 notice, contract to 6/2029."
+  },
+  {
+    "name": "Powers Family Residence",
+    "provider": "Women In Need (Win)",
+    "address": "346 Powers Avenue, Bronx, NY 10454",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "POWERS",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20220802014",
+    "source_type": "government",
+    "quote": "IN THE MATTER OF a proposed contract between the Department of Homeless Services of the City of New York and Women in Need, Inc., located at One State Street Plaza, 18th Floor, New York, NY 10004, for the provision of Shelter Facilities for Families with Children at Powers Family Residence, 346 Powers Avenue, Bronx, NY 10454.",
+    "notes": null
+  },
+  {
+    "name": "Freeman Annex (Seneca)",
+    "provider": "SEBCO Development",
+    "address": "999 Freeman Street, Bronx, NY 10459",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "FREEMAN FAM RESID",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20250703017",
+    "source_type": "government",
+    "quote": "The Department of Homeless Services is requesting approval for a one-year Negotiated Acquisition Extension (NAE) and the 25% Allowance for the existing vendor, SEBCO Development, Inc., to provide services at Freeman Annex shelter for families with children, located at 999 Freeman Street, Bronx, NY 10459.",
+    "notes": null
+  },
+  {
+    "name": "Casa Del Sol Family Residence",
+    "provider": null,
+    "address": "739 East Gun Hill Road, Bronx, NY 10467",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": null,
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20241113021",
+    "source_type": "government",
+    "quote": "Casa Del Sol Family Residence, 739 East Gun Hill Road, Bronx, NY 10467.",
+    "notes": null
+  },
+  {
+    "name": "Concourse Family Residence",
+    "provider": "Home/Life Services",
+    "address": "2240 Grand Concourse, Bronx, NY 10457",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "CONCOURSE FAMILY RESIDENCE",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20220713114",
+    "source_type": "government",
+    "quote": "2240 Grand Concourse, Bronx, NY 10457.",
+    "notes": "Tier II family shelter per 2022 notice title; provider taken from DHS directory (Home/Life Services), not the notice."
+  },
+  {
+    "name": "Icahn House",
+    "provider": "Children's Rescue Fund",
+    "address": "661 and 665 Cauldwell Avenue, Bronx, NY 10455",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "ICAHN HOUSE",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20220527002",
+    "source_type": "government",
+    "quote": "IN THE MATTER OF a proposed contract between the Department of Homeless Services of the City of New York and Children’s Rescue Fund – Icahn House, located at 1520 Brook Avenue, Bronx, NY 10457, for the provision of Shelter Facilities for Homeless Families with Children at 661 and 665 Cauldwell Avenue, Bronx, NY 10455.",
+    "notes": null
+  },
+  {
+    "name": "Millennium Adult Family Shelter",
+    "provider": "Acacia Network",
+    "address": "980 Prospect Avenue, Bronx, NY 10459",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Adult Family Shelter",
+    "household": [
+      "adult_family"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "MILLENNIUM CARE",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20250602020",
+    "source_type": "government",
+    "quote": "Adult Families at Millenium Adult Family Shelter at 980 Prospect Ave.",
+    "notes": null
+  },
+  {
+    "name": "Grand Concourse Adult Family Residence",
+    "provider": "Home/Life Services",
+    "address": "2331 Grand Concourse, Bronx, NY 10468",
+    "borough": "Bronx",
+    "phone": null,
+    "facility_type": "Adult Family Shelter",
+    "household": [
+      "adult_family"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "GRAND CONCOURSE RESIDENCE",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20241212021",
+    "source_type": "government",
+    "quote": "Located at 2331 Grand Concourse, Bronx NY 10468.",
+    "notes": null
+  },
+  {
+    "name": "Borden Avenue Veterans Residence (BAVR)",
+    "provider": "Institute for Community Living (ICL)",
+    "address": "21-10 Borden Avenue, Long Island City, NY 11101",
+    "borough": "Queens",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [
+      "man",
+      "woman"
+    ],
+    "min_age": null,
+    "max_age": null,
+    "populations": [
+      "veterans"
+    ],
+    "access": "DHS intake, then referral by the DHS Veterans Services Unit",
+    "dhs_directory_name": "Borden Ave Veterans Shelter",
+    "source_url": "https://www.op.nysed.gov/institute-community-living-borden-avenue-veterans-shelter",
+    "source_type": "government",
+    "quote": "Additional Setting | Certificate Number: 730 Name: Borden Avenue Veterans Shelter Address: 21-10 Borden Ave | Long Island City, NY 11101",
+    "notes": "Population/access from nyc.gov/site/dhs/shelter/singleadults/veterans-shelter.page: veterans go from DHS intake to the VSU, which refers to BAVR, 'a 243-bed short-term housing facility for male and female veterans'. City Record 20240701121 also lists 21-10 Borden Avenue (with a wrong ZIP)."
+  },
+  {
+    "name": "Skyway Queens Shelter",
+    "provider": "Acacia Network",
+    "address": "132-10 South Conduit Avenue, Jamaica, NY 11430",
+    "borough": "Queens",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "SKYWAY SHELTER",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260706021",
+    "source_type": "government",
+    "quote": "Shelter services for homeless single adults at the Skyway Queens shelter located at 132-10 South Conduit Ave, Jamaica, NY 11430.",
+    "notes": null
+  },
+  {
+    "name": "Jamaica Women's Employment Shelter",
+    "provider": "Volunteers of America-Greater New York",
+    "address": "95-10 218th Street, Queens Village, NY 11429",
+    "borough": "Queens",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [
+      "woman"
+    ],
+    "min_age": null,
+    "max_age": null,
+    "populations": [
+      "employment"
+    ],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "Jamaica Women Employment Shelter",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260618020",
+    "source_type": "government",
+    "quote": "Shelter Facilities for Homeless Single Adults, at Jamaica Employment Shelter, 95-10 218th Street, Queens, VIllage, NY 11429.",
+    "notes": "Gender/employment focus from DHS directory name 'Jamaica Women Employment Shelter'; the City Record notice says 'Jamaica Employment Shelter'."
+  },
+  {
+    "name": "Ditmars Residence",
+    "provider": "Vocational Instruction Project Community Services (VIP)",
+    "address": "100-33 Ditmars Boulevard, East Elmhurst, NY 11369",
+    "borough": "Queens",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": null,
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260505024",
+    "source_type": "government",
+    "quote": "Vocational Instruction Service at Ditmars Residence, 100-33 Ditmars Boulevard, East Elmhurst, NY 11369 (Round 40) 200 beds",
+    "notes": null
+  },
+  {
+    "name": "Crescent Residence",
+    "provider": "Vocational Instruction Project Community Services (VIP)",
+    "address": "42-24 Crescent Street, Long Island City, NY 11101",
+    "borough": "Queens",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": null,
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20250505015",
+    "source_type": "government",
+    "quote": "Single Adults at Crescent Residence located 42-24 Crescent Street, Long Island City, NY 11101",
+    "notes": null
+  },
+  {
+    "name": "Cooper Rapid Rehousing",
+    "provider": "Westhab",
+    "address": "78-16 Cooper Avenue, Ridgewood, NY 11385",
+    "borough": "Queens",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "Cooper Rapid Re-Housing Center",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20250707006",
+    "source_type": "government",
+    "quote": "Shelter Services at Stand Alone Transitional Residence for Single Adults at Cooper Rapid Rehousing, 78-16 Cooper Avenue, Ridgewood, Queens , NY 11385 (200 units)",
+    "notes": null
+  },
+  {
+    "name": "College Point Shelter (20th Ave Shelter)",
+    "provider": "Westhab",
+    "address": "127-03 20th Avenue, College Point, NY 11356",
+    "borough": "Queens",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "College Point Rapid Rehousing",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20240327101",
+    "source_type": "government",
+    "quote": "Yonkers, NY 10701 Site: 20th Ave Shelter, 127-03 20th Avenue College Point, NY 11356 Contract Term: 7/1/2024\u001a6/30/2028",
+    "notes": null
+  },
+  {
+    "name": "Pam's Place",
+    "provider": "Acacia Network",
+    "address": "40-03 29th Street, Long Island City, NY 11101",
+    "borough": "Queens",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "Pam's Place",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20250502010",
+    "source_type": "government",
+    "quote": "Located at Pams Place, 40-03 29th Street, Long Island City, NY 11101 (200 beds) Round 35 The Department of Homeless Services works to prevent homelessness before it occurs, address street homelessness, and assist New Yorkers in transitioning from shelter and street homelessness to permanent housing.",
+    "notes": null
+  },
+  {
+    "name": "Laurel Hall",
+    "provider": "Lantern Community Services",
+    "address": "85-15 101st Avenue, Queens, NY 11416",
+    "borough": "Queens",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "Laurel Hall",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20230711124",
+    "source_type": "government",
+    "quote": "Renewal + 25% Miscellaneous Allowance (FY'27) for Laurel Hall located at 85-15 101st Ave, Queens NY 11416 to service 113 single adults",
+    "notes": null
+  },
+  {
+    "name": "Bob's Place",
+    "provider": "SCO Family of Services",
+    "address": "88-55 161st Street, Jamaica, NY 11432",
+    "borough": "Queens",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "Bob's Place",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20211115109",
+    "source_type": "government",
+    "quote": "This is a negotiated acquisition extension for Bob's Place, located at 88-55 161st Street Jamaica, NY 11432.",
+    "notes": "Address from 2021 NAE notice; 2023 award notice 20230921107 also covers Bob's Place."
+  },
+  {
+    "name": "Amani House",
+    "provider": "Black Veterans for Social Justice",
+    "address": "226 Beach 101st Street, Rockaway Park, NY 11694",
+    "borough": "Queens",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "Amani House",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20240627115",
+    "source_type": "government",
+    "quote": "226 Beach 101st Street, Rockaway Park, NY 11694.",
+    "notes": null
+  },
+  {
+    "name": "Jamaica YMCA Annex",
+    "provider": "Samaritan Daytop Village",
+    "address": "89-25 Parsons Boulevard, Jamaica, NY 11432",
+    "borough": "Queens",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": null,
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260903014",
+    "source_type": "government",
+    "quote": "(175 beds) Annexes: Jamaica YMCA Annex, 89-25 Parsons Boulevard, Jamaica, NY 11432.",
+    "notes": "Annex of Samaritan Daytop's Van Siclen Shelter (Brooklyn), 140 beds."
+  },
+  {
+    "name": "Colonial (Jamaica) YMCA Annex",
+    "provider": "Samaritan Daytop Village",
+    "address": "87-70 & 87-72 148th Street, Jamaica, NY 11435",
+    "borough": "Queens",
+    "phone": null,
+    "facility_type": "Adult Shelter",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": null,
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260225012",
+    "source_type": "government",
+    "quote": "for the following shelter locations: Forbell Men Shelter 338 Forbell Street Brooklyn, NY 11208 Harlem YMCA 180 West 135th Street New York, NY 10030 Colonial (Jamaica) YMCA 87-70 &72 148th Street Jamaica NY 11435 The proposed NAE term will be from July 1, 2026 through June 30, 2027 with contract amount of $21,463,323.",
+    "notes": "Annex of Samaritan Daytop's Forbell Men Shelter; house numbers printed as '87-70 &72 148th Street'."
+  },
+  {
+    "name": "Baxter Avenue Safe Haven (The Baxter)",
+    "provider": "Goddard Riverside",
+    "address": "81-30 Baxter Avenue, Queens, NY 11373",
+    "borough": "Queens",
+    "phone": null,
+    "facility_type": "Safe Haven",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "street outreach referral (Safe Haven)",
+    "dhs_directory_name": "The Baxter Safe Haven",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20250612023",
+    "source_type": "government",
+    "quote": "Homeless Single Adults at Baxter Avenue Safe Haven located at 81-30 Baxter Avenue, Queens, NY 11373 - 75 Beds.",
+    "notes": null
+  },
+  {
+    "name": "Union Hall Street Safe Haven",
+    "provider": "Children's Rescue Fund",
+    "address": "92-32 Union Hall Street, Queens, NY 11433",
+    "borough": "Queens",
+    "phone": null,
+    "facility_type": "Safe Haven",
+    "household": [
+      "single"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "street outreach referral (Safe Haven)",
+    "dhs_directory_name": null,
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20240827111",
+    "source_type": "government",
+    "quote": "Union Hall Street, 92-32 Union Hall Street, Queens, NY 11433 (Round 10).",
+    "notes": null
+  },
+  {
+    "name": "Beaver Pond Residence",
+    "provider": "Bowery Residents' Committee (BRC)",
+    "address": "170-01 Douglas Avenue, Jamaica, NY 11433",
+    "borough": "Queens",
+    "phone": null,
+    "facility_type": "Adult Family Shelter",
+    "household": [
+      "adult_family"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "Beaver Pond Residence",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260611042",
+    "source_type": "government",
+    "quote": "Shelter Facilities for Homeless Adult Families located at 170-01 Douglas Avenue, Jamaica, NY 11433.",
+    "notes": "Operator brc.org/shelter: 'Serving 165 adult families who have recently become homeless'."
+  },
+  {
+    "name": "Blue Sky Residence",
+    "provider": "Bowery Residents' Committee (BRC)",
+    "address": "112-18 Astoria Boulevard, Flushing, NY 11369",
+    "borough": "Queens",
+    "phone": null,
+    "facility_type": "Adult Family Shelter",
+    "household": [
+      "adult_family"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "Blue Sky Residence",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20220428110",
+    "source_type": "government",
+    "quote": "Provision of Transitional Shelter Services for Adult Families at Blue Sky Residence, 112-18 Astoria Blvd, Flushing, NY 11369 (Grp 20).",
+    "notes": "DOUBT: address differs across government sources: 2022 notice '112-18 Astoria Blvd, Flushing, NY 11369'; 2026 notice (20260617025) '12-16 Astoria Blvd'; NYSED '112-116 Astoria Blvd'. Operator brc.org: 'Serving 140 adult families'."
+  },
+  {
+    "name": "North Star Adult Family Residence",
+    "provider": "Home/Life Services",
+    "address": "52-34 Van Dam Street, Long Island City, NY 11101",
+    "borough": "Queens",
+    "phone": null,
+    "facility_type": "Adult Family Shelter",
+    "household": [
+      "adult_family"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "NORTH STAR RESIDENCE",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20230323112",
+    "source_type": "government",
+    "quote": "SHELTER FOR HOMELESS ADULT FAMILIES HOME/LIFE SERVICES, INC 9201 4th Avenue, 6th Floor Brooklyn, NY 11209 Site: North Star Adult Family Residence 52-34 Van Dam Street Long Island City, NY 11101 EPIN: 07118P8313KXLR001 Renewal Term: 7/1/2023\u001a6/30/2026",
+    "notes": null
+  },
+  {
+    "name": "El Camino Family Residence (El Camino Inn)",
+    "provider": "SCO Family of Services",
+    "address": "160-11 89th Avenue, Jamaica, NY 11432",
+    "borough": "Queens",
+    "phone": null,
+    "facility_type": "Adult Family Shelter",
+    "household": [
+      "adult_family"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment (adult families applying at intake between 10pm and 10am)",
+    "dhs_directory_name": "EL CAMINO INN",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20231102106",
+    "source_type": "government",
+    "quote": "El Camino Family Residence, 160-11 89th Avenue, Queens, NY 11432 (Round 1)",
+    "notes": "Notice: serves 'homeless Adult Families who apply for shelter at an intake facility during the hours of 10:00pm and 10:00am'."
+  },
+  {
+    "name": "Beach Residence",
+    "provider": "Westhab",
+    "address": "316 Beach 65th Street, Arverne, NY 11692",
+    "borough": "Queens",
+    "phone": null,
+    "facility_type": "Adult Family Shelter",
+    "household": [
+      "adult_family"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "BEACH RESIDENCE",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260707017",
+    "source_type": "government",
+    "quote": "Located at 316 Beach 65 Street, Arverne, NY 11692.",
+    "notes": null
+  },
+  {
+    "name": "Brunswick Avenue Shelter",
+    "provider": "Samaritan Daytop Village",
+    "address": "12-60 Brunswick Avenue, Queens, NY 11691",
+    "borough": "Queens",
+    "phone": null,
+    "facility_type": "Adult Family Shelter",
+    "household": [
+      "adult_family"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": null,
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260219014",
+    "source_type": "government",
+    "quote": "Shelter Facilities for Homeless Adult Fam - Brunswick Avenue Shelter at 12-60 Brunswick Avenue, Queens, NY 11691 (Group 13).",
+    "notes": null
+  },
+  {
+    "name": "Saratoga Family Residence (Saratoga Inn)",
+    "provider": "Homes for the Homeless",
+    "address": "175-15 Rockaway Boulevard, Jamaica, NY 11434",
+    "borough": "Queens",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "SARATOGA INN",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260623030",
+    "source_type": "government",
+    "quote": "Shelter Facilities for Homeless Families with Children at Saratoga Family Residence, 175-15 Rockaway Boulevard, Jamaica , NY 11434.",
+    "notes": null
+  },
+  {
+    "name": "Ditmars Manor",
+    "provider": "Midway Living",
+    "address": "90-10 Ditmars Boulevard, East Elmhurst, NY 11369",
+    "borough": "Queens",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "MANOR",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260508017",
+    "source_type": "government",
+    "quote": "90-10 Ditmars Boulevard, East Elmhurst, NY 11369 (Round 15) 288 units.",
+    "notes": "Directory match 'MANOR' (Midway Living, Queens) by provider + NYSED name 'Ditmars Manor'; capacity differs (directory 82 vs notice 288 units)."
+  },
+  {
+    "name": "Springfield Gardens Family Residence",
+    "provider": "Salvation Army",
+    "address": "146-80 Guy R. Brewer Boulevard, Queens, NY 11434",
+    "borough": "Queens",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "SPRINGFIELD GDN RESP",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20240201109",
+    "source_type": "government",
+    "quote": "This site serves Families with Children and is located at 146-80 Guy R. Brewer Blvd., Queens, NY 11434, 82-unit capacity.",
+    "notes": null
+  },
+  {
+    "name": "Briarwood Family Residence",
+    "provider": "Salvation Army",
+    "address": "80-20 134th Street, Jamaica, NY 11435",
+    "borough": "Queens",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "BRIARWOOD FAM RES",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20230627110",
+    "source_type": "government",
+    "quote": "At Briarwood Family Residence, located at 80-20 134 th Street, Jamaica, NY 11435.",
+    "notes": null
+  },
+  {
+    "name": "Summerfield Family Residence",
+    "provider": "Home/Life Services",
+    "address": "1616 Summerfield Street, Ridgewood, NY 11385",
+    "borough": "Queens",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "Summerfield Family Residence",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20220209105",
+    "source_type": "government",
+    "quote": "Provision of Shelter Facilities for Homeless FWC at Summerfield Family Residence, 1616 Summerfield St., Ridgewood, NY 11385 (Grp 50).",
+    "notes": null
+  },
+  {
+    "name": "Queens Family Residence",
+    "provider": "Home/Life Services",
+    "address": "7300-7304 Queens Boulevard, Woodside, NY 11377",
+    "borough": "Queens",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "Queen Family Residence",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20220209106",
+    "source_type": "government",
+    "quote": "Provision of Shelter Facilities for Homeless Families with Children at Queens Family Residence, 7300-7304 Queens Boulevard Woodside NY 11377 (Grp 25)",
+    "notes": null
+  },
+  {
+    "name": "Ocean View Family Residence",
+    "provider": "Home/Life Services",
+    "address": "22-21 Loretta Road, Far Rockaway, NY 11691",
+    "borough": "Queens",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "Ocean View Family Residence",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20230615113",
+    "source_type": "government",
+    "quote": "Renewal + 25% miscellaneous allowance - The Homeless Families Shelter located at 22-21 Loretta Road, Far Rockaway, NY 11691.",
+    "notes": null
+  },
+  {
+    "name": "Belt Park Family Residence",
+    "provider": "Samaritan Daytop Village",
+    "address": "153-90 Rockaway Boulevard, Jamaica, NY 11434",
+    "borough": "Queens",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "Belt Park Family Residence",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20200723002",
+    "source_type": "government",
+    "quote": "Belt Park Family 07119I0003018 $105,718,003.00 138-02 Queens Boulevard Residence Briarwood, NY 11435 153-90 Rockaway Blvd.",
+    "notes": "2020 notice; contract term 10/2020-6/2029."
+  },
+  {
+    "name": "Boulevard Family Residence",
+    "provider": "Samaritan Daytop Village",
+    "address": "79-00 Queens Boulevard, Queens, NY 11373",
+    "borough": "Queens",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "BOULEVARD FAMILY CENTER",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20240419039",
+    "source_type": "government",
+    "quote": "IN THE MATTER OF a proposed contract between the Department of Homeless Services of the City of New York and Samaritan Daytop Village, Inc., located at 138-02 Queens Boulevard, Briarwood, NY 11435, for the Provision of Shelter Facilities for Families with Children at 79-00 Queens Boulevard, Queens, NY 11373.",
+    "notes": null
+  },
+  {
+    "name": "Corona Family Residence",
+    "provider": "Acacia Network",
+    "address": "38-01 112th Street, Queens, NY 11368",
+    "borough": "Queens",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "CORONA FAMILY RESIDENCE",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20250612022",
+    "source_type": "government",
+    "quote": "Shelter services for homeless families with children at Corona Family Residence, 38-01 112th Street, Queens, NY 11368 - 54 units.",
+    "notes": null
+  },
+  {
+    "name": "Westway Family Residence",
+    "provider": "Women In Need (Win)",
+    "address": "71-11 & 72-05 Astoria Boulevard, East Elmhurst, NY 11370",
+    "borough": "Queens",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "WIN-WESTWAY",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20240419039",
+    "source_type": "government",
+    "quote": "IN THE MATTER OF a proposed contract between the Department of Homeless Services of the City of New York and Women in Need, Inc., located at One State Street Plaza, 18th Floor, New York, NY 10004, for the Provision of Shelter Facilities for Homeless Families with Children at 71-11 & 72-05 Astoria Boulevard, East Elmhurst, NY 11370.",
+    "notes": null
+  },
+  {
+    "name": "LaGuardia Family Residence",
+    "provider": "Women In Need (Win)",
+    "address": "102-10 Ditmars Boulevard, East Elmhurst, NY 11369",
+    "borough": "Queens",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "LAGUARDIA FAMILY RESIDENCE",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20171027107",
+    "source_type": "government",
+    "quote": "LaGuardia Family Center 07110P0002200 $19,778,400.00 115 West 31st Street 102-10 Ditmars Blvd.",
+    "notes": "Address from 2017 City Record table + NYSED record (Women In Need, 102-10 Ditmars Boulevard, East Elmhurst, NY 11369); renewed 2022."
+  },
+  {
+    "name": "The Landing",
+    "provider": "CAMBA",
+    "address": "94-00 Ditmars Boulevard, East Elmhurst, NY 11369",
+    "borough": "Queens",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": "THE LANDING",
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20220701120",
+    "source_type": "government",
+    "quote": "The Landing AT 94-00 Ditmars Boulevard, EAST ELMHURST, NY",
+    "notes": null
+  },
+  {
+    "name": "Kings Inn",
+    "provider": "CAMBA",
+    "address": "87-02 23rd Avenue, East Elmhurst, NY 11369",
+    "borough": "Queens",
+    "phone": null,
+    "facility_type": "Family Shelter",
+    "household": [
+      "family_with_children"
+    ],
+    "gender": [],
+    "min_age": null,
+    "max_age": null,
+    "populations": [],
+    "access": "DHS intake assignment",
+    "dhs_directory_name": null,
+    "source_url": "https://a856-cityrecord.nyc.gov/RequestDetail/20220630126",
+    "source_type": "government",
+    "quote": "Shelter Services for homeless families with children at Kings Inn, 87-02 23rd Avenue, East Elmhurst, NY 11369.",
+    "notes": null
+  }
+]

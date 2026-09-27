@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Voucher Guard · Homeward NYC</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Jost:wght@300;400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
+
+<header class="nav">
+  <div class="wrap">
+    <a class="logo" href="/"><svg viewBox="0 0 32 32" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3.5 15 L16 4.5 L28.5 15"/><path d="M7 12.5 V27.5 H25 V12.5"/><path d="M13.5 27.5 V19.5 H18.5 V27.5"/><path d="M21.5 8.5 V5.5 H24.5 V11"/></svg>Homeward.</a>
+    <ul class="links">
+      <li><a href="/voucher-guard/" aria-current="page">Voucher Guard</a></li>
+      <li><a href="/open-doors/">Open Doors</a></li>
+      <li><a href="/shelter-match/">Shelter Match</a></li>
+      <li><a href="/#how">How it works</a></li>
+    </ul>
+    <a class="btn btn-light cta" href="#check">Check a listing</a>
+    <a class="btn btn-dark btn-sm menu" href="/#features">Menu</a>
+  </div>
+</header>
+
+<main>
+  <section class="page-hero">
+    <img class="art" src="/assets/img/house.svg" alt="">
+    <div class="wrap">
+      <span class="for">For <span class="pill-dash">CityFHEPS, Section 8 &amp; All Rental Assistance</span></span>
+      <h1>Voucher Guard</h1>
+      <p>Finds rental listings that illegally shut out voucher holders, shows the exact clause and the math, and drafts a complaint to the NYC Commission on Human Rights for a person to review. Nothing is filed automatically.</p>
+      <div class="ctas"><a class="btn btn-light" href="#check">Check a listing</a><a class="btn btn-dark" href="#scan">Scan a flyer</a></div>
+    </div>
+  </section>
+
+  <div class="wrap layout">
+    <aside class="side">
+      <form class="panel" id="check">
+        <h3>Check a listing</h3>
+        <div class="field"><label for="t">Paste the listing text</label>
+          <textarea id="t" placeholder="Sunny 1BR, $2,200/mo. Must earn 40x the rent. No programs."></textarea></div>
+        <button class="btn btn-light" type="submit" style="width:100%">Check listing</button>
+        <div id="checkResult" aria-live="polite" style="margin-top:14px"></div>
+      </form>
+      <div class="panel">
+        <h3>Filter flagged listings</h3>
+        <div class="field"><label for="f1">Show</label><select id="f1"><option value="flagged">Discriminatory + questionable</option><option value="violation">Discriminatory only</option><option value="needs_review">Questionable only</option><option value="all">All scanned</option></select></div>
+        <div class="field"><label for="f2">Borough</label><select id="f2"><option value="">Any</option><option>Manhattan</option><option>Brooklyn</option><option>Bronx</option><option>Queens</option><option>Staten Island</option></select></div>
+        <div class="field"><label for="f3">Problem</label><select id="f3"><option value="">Any</option><option value="R1">Refuses vouchers</option><option value="R2">Income rule on full rent</option><option value="R3">Job or credit screening</option></select></div>
+      </div>
+    </aside>
+
+    <div>
+      <div class="toolbar">
+        <div class="counts" id="counts"><span class="chip">Loading…</span></div>
+        <div class="toggle" role="tablist" data-toggle="vg"><button role="tab" data-view="list" aria-selected="true">List</button><button role="tab" data-view="map" aria-selected="false">Map</button></div>
+      </div>
+      <div data-panel-for="vg" data-view="list" id="list" aria-live="polite"></div>
+      <div data-panel-for="vg" data-view="map" hidden>
+        <div class="map"><div id="map" style="position:absolute;inset:0"></div></div>
+        <div class="legend"><span><i class="mk mk-solid"></i>Discriminatory</span><span><i class="mk mk-ring"></i>Questionable</span><span class="map-note"></span></div>
+      </div>
+    </div>
+  </div>
+
+  <section class="block" id="scan" style="border-top:1px solid var(--line)">
+    <div class="wrap">
+      <div class="head"><div><span class="eyebrow">Field scanner</span><h2>Scan a flyer or sign</h2></div>
+        <p>Point the camera at a printed listing, lobby sign, or flyer, or upload a photo. Reads any language and runs the same check, then drafts the complaint.</p></div>
+      <div class="tiles two">
+        <div>
+          <div class="viewfinder">
+            <div class="corners"></div>
+            <div class="flyer"><b>FOR RENT: 2BR APARTMENT</b>Sunny 2 bedroom, near subway. $2,400/month.<br>Requirements:<br>– Must earn 40x the monthly rent<br>– NO VOUCHERS. NO PROGRAMS.<br>Call 555-0134</div>
+            <div class="scanline"></div>
+          </div>
+        </div>
+        <div class="panel">
+          <h3>Open the scanner</h3>
+          <p style="margin:0 0 14px;color:#C9CBD0;font-size:14.5px">The scanner uses your camera (or a photo you upload), reads the text on the device and with Gemini, and shows the verdict, the math, and a complaint draft.</p>
+          <a class="btn btn-light" id="scanLink" href="#">Start scanning</a>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer><div class="wrap"><span>Homeward NYC · Voucher Guard</span><span>Drafts only. A person reviews and submits every complaint.</span></div></footer>
+<script src="/assets/js/app.js"></script>
+<script src="/assets/js/voucher-guard.js"></script>
+</body>
+</html>

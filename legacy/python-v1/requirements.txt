@@ -1,0 +1,6 @@
+anthropic>=0.86
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
